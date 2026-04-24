@@ -1,0 +1,89 @@
+# --- System / editor ---
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# --- Python ---
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# --- Secrets / credentials ---
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+service-account*.json
+.claude/
+
+# --- Large model artifacts (not tracked in git) ---
+# Old keras_hub experiment (abandoned; lora_B was zero)
+gemma27b_financial_adapter_lora.h5
+gemma27b_financial_adapter_v2.lora.h5
+
+# Old MLX adapter directories (abandoned; fp16 overflow on 27B)
+gemma2-27b-financial-adapter-mlx/
+finetune_data_v2_mlx/
+gemma4-financial-adapter/
+gemma27b_financial_adapter/
+
+# HF PEFT adapter (228 MB, lives on TPU VM; not committed to git)
+gemma27b_financial_adapter_hf/
+
+# Legacy archives
+files.zip
+
+# --- Logs / scratch ---
+*.log
+nohup.out
+mlx_train.log
+
+# --- OS screenshots at repo root (one-off, not part of project) ---
+Screenshot*.png
+
+# --- Streamlit runtime state ---
+.streamlit/
+
+# --- Abandoned experimental paths (kept locally for reference, not in repo) ---
+# MLX path (fp16 overflow on Gemma 2 27B — see ARCHITECTURE.md § "Why TPU")
+generate_mlx.py
+prep_mlx_data.py
+# keras_hub path (lora_B stayed zero — see ARCHITECTURE.md § "Why PEFT")
+generate_on_tpu.py
+train_on_tpu.py
+train_and_eval.py
+# MLX shell driver
+train_mlx_gemma2_27b.sh
+# Legacy JSON-array training dataset (superseded by finetune_data_v2/*.jsonl)
+training_dataset.jsonl
+# Old v1 dataset (superseded by finetune_data_v2/)
+finetune_data/
+prepare_finetune_data.py
+expand_training_data.py
+# Old v1 eval
+evaluate_model.py
+evaluation_results.json
+# Gemma-in-the-loop RAG (unwired after app.py cleanup)
+rag_with_gemma.py
+
+# --- Personal / scratch docs (not part of the public repo) ---
+Financial Agent Project - Weekly Report*.md
+Financial Agent Project - Weekly Report*.pdf
+Financial LLM Agent Project Plan.md
+Knowledge Distillation Test Results - RIVN Case.md
+Project Strategy - Financial AI Agent Rethink.md
+Project Summary - What We Built.md
+岗位快筛checklist.md
+TPU_Quota_Application.md
+*SKILL*.md
+*.skill

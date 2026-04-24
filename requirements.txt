@@ -1,0 +1,6 @@
+streamlit>=1.30
+google-genai>=0.3
+google-cloud-aiplatform>=1.60
+rank-bm25>=0.2.2
+bert-score>=0.3.13
+edgartools>=2.0
