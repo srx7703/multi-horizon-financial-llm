@@ -54,6 +54,9 @@ Screenshot*.png
 # --- Streamlit runtime state ---
 .streamlit/
 
+# --- Demo GIF source frames (regenerable via docs/record_demo.py) ---
+docs/frames/
+
 # --- Abandoned experimental paths (kept locally for reference, not in repo) ---
 # MLX path (fp16 overflow on Gemma 2 27B — see ARCHITECTURE.md § "Why TPU")
 generate_mlx.py
