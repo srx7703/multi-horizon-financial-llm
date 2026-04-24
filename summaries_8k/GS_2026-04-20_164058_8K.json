@@ -1,0 +1,15 @@
+{
+  "ticker": "GS",
+  "filing_date": "2026-04-20",
+  "event_type": "Debt Issuance",
+  "headline": "Goldman Sachs announced the issuance of $6.5 billion in fixed and floating rate notes maturing in 2030 and 2034.",
+  "materiality": "Low",
+  "investor_impact": "This routine shelf takedown bolsters Goldman Sachs' liquidity and capital structure, locking in funding costs across medium-term maturities. The $6.5 billion debt issuance is standard balance sheet management for a major financial institution and does not materially alter the equity investment thesis.",
+  "key_figures": [
+    "$500,000,000 Floating Rate Notes due 2030",
+    "$3,000,000,000 4.594% Fixed/Floating Rate Notes due 2030",
+    "$3,000,000,000 5.094% Fixed/Floating Rate Notes due 2034",
+    "April 20, 2026",
+    "Matthew E. Tropp"
+  ]
+}

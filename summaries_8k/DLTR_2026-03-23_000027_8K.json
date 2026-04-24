@@ -1,0 +1,15 @@
+{
+  "ticker": "DLTR",
+  "filing_date": "2026-03-23",
+  "event_type": "Material Agreement",
+  "headline": "Dollar Tree entered into a new $500 million term loan credit facility maturing in 2029 and terminated its existing 364-day revolving credit agreement.",
+  "materiality": "Medium",
+  "investor_impact": "This new $500 million term loan facility secures medium-term liquidity for Dollar Tree at a reasonable spread of SOFR plus 1.00%, replacing its expiring 364-day revolver. The lack of required amortization and flexible prepayment terms provide the company with improved financial flexibility and a stable capital structure through 2029.",
+  "key_figures": [
+    "$500 million term loan credit facility",
+    "March 19, 2029 maturity date",
+    "Term SOFR Rate plus 1.00% initial interest rate",
+    "March 20, 2026 expiration of existing 364-day revolving credit agreement",
+    "Bank of America, N.A. as agent"
+  ]
+}

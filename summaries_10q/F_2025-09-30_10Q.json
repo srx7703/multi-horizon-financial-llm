@@ -1,0 +1,22 @@
+{
+  "ticker": "F",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$50.53 billion, up 9.4% YoY from $46.20 billion in Q3 2024",
+  "net_income": "$2.45 billion, up 174% YoY from $892 million in Q3 2024",
+  "key_metrics": [
+    "Diluted EPS of $0.60, up from $0.22 in Q3 2024",
+    "Operating income of $1.56 billion, up 77% YoY from $880 million",
+    "Cash and cash equivalents of $26.79 billion, up from $22.94 billion at year-end 2024"
+  ],
+  "qoq_changes": [
+    "Significant sequential surge in profitability, with Q3 generating $2.45 billion of the $2.88 billion year-to-date net income",
+    "Total assets expanded to $300.99 billion, up from $285.20 billion at the end of 2024"
+  ],
+  "new_risks": [
+    "Cost of sales increased by over $3.2 billion YoY to $43.41 billion, pressuring gross margins",
+    "Ford Credit interest, operating, and other expenses rose to $2.83 billion, reflecting elevated financing costs"
+  ],
+  "management_tone": "Bullish, driven by a massive year-over-year surge in net income and strong top-line revenue growth, though underlying cost increases warrant ongoing attention.",
+  "analyst_note": "Ford delivered a highly robust Q3 2025, demonstrating excellent operating leverage as a 9.4% revenue increase translated into a 174% jump in net income. However, investors should closely monitor the rising cost of sales and Ford Credit expenses to gauge the sustainability of these margins."
+}

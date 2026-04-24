@@ -1,0 +1,15 @@
+{
+  "ticker": "WMT",
+  "filing_date": "2026-03-27",
+  "event_type": "Insider Trading Plan",
+  "headline": "Walmart's Global CTO, Suresh Kumar, has adopted a Rule 10b5-1 trading plan to sell up to 199,610 shares of common stock through the end of 2026.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine, pre-scheduled insider selling plan for asset diversification and tax planning, not indicative of a shift in executive sentiment. Mr. Kumar will comfortably maintain his required stock ownership of at least five times his base salary, minimizing any negative signaling to the market.",
+  "key_figures": [
+    "Suresh Kumar",
+    "33,270 shares per month",
+    "June 29, 2026 to December 31, 2026",
+    "199,610 maximum aggregate shares",
+    "5x base salary ownership requirement"
+  ]
+}

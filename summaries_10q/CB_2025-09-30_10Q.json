@@ -1,0 +1,23 @@
+{
+  "ticker": "CB",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$16.15 billion (+8.7% YoY)",
+  "net_income": "$2.80 billion (+20.5% YoY)",
+  "key_metrics": [
+    "Net premiums written: $14.87 billion (+7.5% YoY)",
+    "Net investment income: $1.65 billion (+9.3% YoY)",
+    "Losses and loss expenses: $6.95 billion (-5.8% YoY)"
+  ],
+  "qoq_changes": [
+    "Total assets increased 9.6% YTD to $270.2 billion compared to year-end 2024.",
+    "Total investments grew 10.2% YTD to $166.0 billion.",
+    "Unpaid losses and loss expenses liability grew 5.3% YTD to $88.4 billion."
+  ],
+  "new_risks": [
+    "Market risk benefits losses realized at $142 million for the quarter.",
+    "Unpaid losses and loss expenses liability increased by $4.4 billion YTD, indicating potential future claims pressure."
+  ],
+  "management_tone": "Bullish, as the company demonstrated strong operating leverage with 8.7% revenue growth outpacing a 3.4% increase in total expenses, driving a 20.5% surge in net income.",
+  "analyst_note": "Chubb delivered a highly profitable Q3 2025, characterized by robust premium expansion, higher investment yields, and improved loss ratios. The significant drop in losses and loss expenses despite top-line growth highlights disciplined underwriting and positions the firm for continued margin expansion."
+}

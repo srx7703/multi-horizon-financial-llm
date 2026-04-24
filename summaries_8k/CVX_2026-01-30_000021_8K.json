@@ -1,0 +1,21 @@
+{
+  "ticker": "CVX",
+  "filing_date": "2026-01-30",
+  "event_type": "Executive Compensation",
+  "headline": "Chevron's Board of Directors approved 2026 executive compensation packages, including base salary increases and equity awards for the CEO and other Named Executive Officers.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine annual compensation update that aligns executive pay with standard corporate governance practices. The heavy weighting of equity awards toward performance shares and RSUs ensures management remains incentivized to drive long-term shareholder value, presenting no material change to the broader investment thesis.",
+  "key_figures": [
+    "Michael K. Wirth (CEO) base salary increased by $75,000 to $1,975,000",
+    "Michael K. Wirth equity grant award value of $23,000,000",
+    "Eimear P. Bonner (CFO) base salary increased by $50,000 to $1,100,000",
+    "Eimear P. Bonner equity grant award value of $5,094,000",
+    "Mark A. Nelson (Vice Chairman) base salary increased by $25,000 to $1,350,000",
+    "Mark A. Nelson equity grant award value of $8,533,800",
+    "R. Hewitt Pate (Chief Legal Officer) base salary increased by $50,000 to $1,250,000",
+    "R. Hewitt Pate equity grant award value of $7,641,000",
+    "Base salary increases effective March 1, 2026",
+    "Equity awards comprise 50% performance shares and 50% restricted stock units",
+    "Target bonus percentages under the Chevron Incentive Plan remain unchanged (Wirth 165%, Bonner 110%, Nelson 120%, Pate 110%)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "META",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "Approximately $51.0 billion (exact figure and YoY comparison truncated in filing excerpt)",
+  "net_income": "Not provided in filing excerpt",
+  "key_metrics": [
+    "Daily Active People (DAP)",
+    "Average Revenue Per Person (ARPP)",
+    "Violating accounts (estimated at less than 3% of worldwide DAP)"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $303.8 billion from $276.1 billion at year-end 2024",
+    "Property and equipment, net increased significantly to $160.3 billion from $121.3 billion at year-end 2024",
+    "Cash and cash equivalents decreased to $10.2 billion from $43.9 billion at year-end 2024, while non-marketable equity investments rose to $25.1 billion"
+  ],
+  "new_risks": [
+    "Loss of access to data signals due to third-party browser or mobile platform actions",
+    "Regulatory or legislative requirements impacting the stability or accuracy of reported Family metrics",
+    "Limited visibility into encrypted products (e.g., WhatsApp) affecting the ability to match user accounts and identify violating accounts"
+  ],
+  "management_tone": "Cautious; the excerpt heavily emphasizes the inherent limitations, potential algorithm errors, and external platform risks associated with calculating their key Family metrics.",
+  "analyst_note": "Meta's Q3 2025 balance sheet indicates massive capital deployment, with property and equipment rising sharply to $160.3 billion, likely reflecting ongoing AI infrastructure buildouts. However, extensive disclosures around data signal loss and metric inaccuracies suggest persistent headwinds in user tracking and ad measurement."
+}

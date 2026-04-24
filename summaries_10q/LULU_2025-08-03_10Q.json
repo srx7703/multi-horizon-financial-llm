@@ -1,0 +1,23 @@
+{
+  "ticker": "LULU",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-08-03",
+  "revenue": "$2.53 billion, up 6.5% YoY",
+  "net_income": "$370.9 million, down 5.6% YoY",
+  "key_metrics": [
+    "Gross margin compressed to 58.5% from 59.5% YoY",
+    "Diluted EPS decreased to $3.10 from $3.15 YoY",
+    "Inventories increased 19.4% to $1.72 billion compared to fiscal year-end",
+    "SG&A expenses increased 9.1% YoY to $951.7 million, outpacing revenue growth"
+  ],
+  "qoq_changes": [
+    "Implied sequential revenue growth from Q1 2025 ($2.37 billion) to Q2 2025 ($2.53 billion)",
+    "Cash and cash equivalents decreased to $1.16 billion from $1.98 billion at fiscal year-end"
+  ],
+  "new_risks": [
+    "Rising SG&A expenses and gross margin compression are pressuring overall profitability",
+    "Significant inventory build to $1.72 billion could elevate markdown risk if consumer demand softens"
+  ],
+  "management_tone": "Cautious; while top-line growth remains positive, margin compression, rising SG&A costs, and elevated inventory levels suggest emerging operational headwinds.",
+  "analyst_note": "Lululemon delivered moderate 6.5% revenue growth in Q2 2025, but profitability was pressured by a ~100 bps gross margin contraction and rising operating costs, resulting in a 5.6% YoY decline in net income. The $280M+ inventory build since year-end is a key metric to watch for potential promotional risks in the second half of the year."
+}

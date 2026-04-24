@@ -1,0 +1,13 @@
+{
+  "ticker": "AVGO",
+  "filing_date": "2026-04-06",
+  "event_type": "Material Agreement",
+  "headline": "Broadcom secures long-term agreements with Google for custom TPUs and networking components through 2031, and expands strategic AI compute collaboration with Anthropic.",
+  "materiality": "High",
+  "investor_impact": "These agreements secure significant long-term revenue visibility for Broadcom's custom silicon and networking segments with a major hyperscaler. The 3.5 gigawatt commitment from Anthropic further entrenches Broadcom's critical role in the rapidly expanding AI infrastructure ecosystem.",
+  "key_figures": [
+    "Agreement through up to 2031 for Google AI racks",
+    "3.5 gigawatts of next generation TPU-based AI compute capacity",
+    "Anthropic access beginning in 2027"
+  ]
+}

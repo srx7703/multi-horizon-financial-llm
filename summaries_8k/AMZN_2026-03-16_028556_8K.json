@@ -1,0 +1,20 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-03-16",
+  "event_type": "Debt Issuance",
+  "headline": "Amazon closed a multi-tranche Euro-denominated debt offering yielding approximately \u20ac14.45 billion in net proceeds.",
+  "materiality": "Medium",
+  "investor_impact": "This substantial \u20ac14.45 billion debt raise allows Amazon to optimize its capital structure and lock in favorable yields across a staggered maturity profile extending out to 2064. The influx of liquidity provides ample dry powder for general corporate purposes, capital expenditures, or strategic investments without equity dilution.",
+  "key_figures": [
+    "\u20ac14.473 billion aggregate public offering price",
+    "\u20ac14.447 billion estimated net proceeds",
+    "\u20ac1,750,000,000 floating rate notes due 2028",
+    "\u20ac1,250,000,000 2.800% notes due 2028",
+    "\u20ac2,000,000,000 3.100% notes due 2030",
+    "\u20ac2,250,000,000 3.350% notes due 2032",
+    "\u20ac2,500,000,000 3.700% notes due 2035",
+    "\u20ac2,250,000,000 4.050% notes due 2039",
+    "\u20ac1,250,000,000 4.450% notes due 2045",
+    "\u20ac1,250,000,000 4.850% notes due 2064"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "ICE",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$3.26 billion for Q2 2025 (6-month revenue of $6.49 billion, up 13.9% YoY)",
+  "net_income": "$851 million for Q2 2025 (6-month net income of $1.65 billion, up 17.8% YoY)",
+  "key_metrics": [
+    "Exchanges revenue: $2.13 billion",
+    "Fixed income and data services revenue: $597 million",
+    "Mortgage technology revenue: $531 million",
+    "Diluted EPS: $1.48"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $144.2 billion from $139.4 billion at year-end 2024",
+    "Short-term debt decreased to $1.85 billion from $3.03 billion at year-end 2024",
+    "Cash and cash equivalents increased to $1.0 billion from $844 million at year-end 2024"
+  ],
+  "new_risks": [
+    "Not disclosed in the provided excerpt (Item 1A omitted)"
+  ],
+  "management_tone": "Neutral; the provided excerpt contains only raw financial statements without management's discussion and analysis (MD&A) or forward-looking commentary.",
+  "analyst_note": "ICE demonstrated solid top-line performance in the first half of 2025 with total revenues up nearly 14% YoY, supported by strong contributions across its Exchanges, Fixed Income, and Mortgage Technology segments, while successfully reducing short-term debt."
+}

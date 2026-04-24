@@ -1,0 +1,23 @@
+{
+  "ticker": "SCHW",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$5.85 billion, up 25% YoY",
+  "net_income": "$2.13 billion, up 60% YoY",
+  "key_metrics": [
+    "Total client assets: $10.76 trillion (up 14% YoY)",
+    "Core net new client assets: $80.3 billion (up 31% YoY)",
+    "Daily average trades (DATs): 7.6 million (up 38% YoY)",
+    "Net interest revenue: $2.8 billion (up 31% YoY)"
+  ],
+  "qoq_changes": [
+    "Equity markets and investor sentiment rebounded during the second quarter following late Q1 volatility.",
+    "10-year U.S. Treasury yield ended at 4.24%, largely consistent with the end of the prior quarter."
+  ],
+  "new_risks": [
+    "Uncertainty around the economic impacts of trade policy.",
+    "Increased market volatility impacting client trading dynamics."
+  ],
+  "management_tone": "Bullish, as management emphasized strong asset gathering, sustained client engagement, equity market appreciation, and successful reduction of higher-cost bank supplemental funding.",
+  "analyst_note": "Schwab delivered a highly profitable Q2 2025 with net income surging 60% YoY, driven by robust trading volumes, strong net interest revenue from reduced supplemental funding costs, and massive client asset growth to $10.76 trillion. The firm's ability to attract core net new assets while managing expenses positions it well for continued margin expansion."
+}

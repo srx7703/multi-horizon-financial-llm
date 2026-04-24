@@ -1,0 +1,13 @@
+{
+  "ticker": "HD",
+  "filing_date": "2026-02-24",
+  "event_type": "Earnings",
+  "headline": "The Home Depot, Inc. announced its financial results for the fiscal quarter and fiscal year ended February 1, 2026.",
+  "materiality": "High",
+  "investor_impact": "This earnings release is a primary catalyst for the stock, providing critical updates on consumer demand, margin performance, and macroeconomic impacts on the home improvement sector. Investors and analysts will need to review the attached Exhibit 99.1 for specific revenue, EPS, and forward guidance figures to update financial models and investment theses.",
+  "key_figures": [
+    "February 24, 2026 (Date of Report)",
+    "February 1, 2026 (Fiscal Quarter and Year End)",
+    "Richard V. McPhail (EVP and CFO)"
+  ]
+}

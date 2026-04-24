@@ -1,0 +1,22 @@
+{
+  "ticker": "GRMN",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-28",
+  "revenue": "$1.81 billion, up 20.4% YoY",
+  "net_income": "$400.8 million, up 33.3% YoY",
+  "key_metrics": [
+    "Diluted EPS of $2.07, up 32.7% YoY from $1.56",
+    "Gross margin expanded to 58.8% from 57.3% YoY",
+    "Operating income of $472.3 million, up 38.1% YoY"
+  ],
+  "qoq_changes": [
+    "Revenue increased approximately 18.2% sequentially based on implied Q1 2025 revenue of $1.54 billion",
+    "Net income increased approximately 20.5% sequentially based on implied Q1 2025 net income of $332.8 million",
+    "Inventories increased to $1.79 billion from $1.47 billion at the end of FY2024"
+  ],
+  "new_risks": [
+    "Specific MD&A risk disclosures were omitted from the provided text, but a notable $314 million YTD increase in inventory warrants monitoring for potential obsolescence or demand mismatch if second-half sales falter."
+  ],
+  "management_tone": "Bullish, as evidenced by robust 20%+ top-line growth, significant gross and operating margin expansion, and strong bottom-line execution.",
+  "analyst_note": "Garmin delivered an exceptionally strong Q2 2025, highlighted by 20.4% revenue growth and a 38.1% surge in operating income, demonstrating excellent operating leverage. The substantial YTD inventory build suggests management is preparing for strong second-half demand, making sell-through execution a key metric to watch."
+}

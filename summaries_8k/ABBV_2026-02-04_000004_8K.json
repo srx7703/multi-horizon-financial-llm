@@ -1,0 +1,13 @@
+{
+  "ticker": "ABBV",
+  "filing_date": "2026-02-04",
+  "event_type": "Earnings",
+  "headline": "AbbVie Inc. issued a press release announcing its financial results for the fourth quarter and full year ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material as they provide critical updates on revenue, profitability, and forward-looking guidance. Investors will need to review the attached Exhibit 99.1 to assess AbbVie's fundamental performance and any changes to the investment thesis.",
+  "key_figures": [
+    "February 4, 2026",
+    "December 31, 2025",
+    "Scott T. Reents"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "GOOGL",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$102.35 billion, up 16.0% YoY",
+  "net_income": "$34.98 billion, up 33.0% YoY",
+  "key_metrics": [
+    "Diluted EPS of $2.87, up 35.4% YoY",
+    "Income from operations of $31.23 billion, up 9.5% YoY",
+    "Other income, net surged to $12.76 billion from $3.19 billion YoY",
+    "Total cash, cash equivalents, and marketable securities of $98.50 billion"
+  ],
+  "qoq_changes": [
+    "Long-term debt doubled to $21.61 billion compared to $10.88 billion at year-end 2024",
+    "General and administrative expenses spiked to $7.39 billion from $3.60 billion YoY",
+    "R&D expenses increased to $15.15 billion, reflecting accelerated AI investments"
+  ],
+  "new_risks": [
+    "Execution and integration risks related to the pending Wiz, Inc. acquisition",
+    "Margin compression risks from escalating technical infrastructure investments to support AI",
+    "Heightened regulatory scrutiny and ongoing legal proceedings impacting business practices"
+  ],
+  "management_tone": "Bullish but investment-heavy, emphasizing strong revenue growth while signaling continued aggressive capital expenditures for AI infrastructure and strategic M&A.",
+  "analyst_note": "Alphabet posted a robust Q3 2025 with revenue exceeding $102 billion and net income up 33%, though the bottom line was heavily subsidized by a $12.8 billion spike in other income. Investors should closely monitor operating margin pressures given the massive jumps in R&D, G&A, and debt levels tied to the AI arms race and the Wiz acquisition."
+}

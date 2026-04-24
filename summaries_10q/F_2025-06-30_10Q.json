@@ -1,0 +1,24 @@
+{
+  "ticker": "F",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "H1 2025 total revenue was $90.84 billion (up slightly YoY from $90.58 billion); Q2 2025 specific revenue is obscured in the excerpt formatting.",
+  "net_income": "Q2 2025 net loss of $29 million, down significantly YoY from a net income of $1.83 billion in Q2 2024.",
+  "key_metrics": [
+    "Q2 2025 Operating Income: $511 million (down from $1.88 billion in Q2 2024)",
+    "Inventories: $17.27 billion (up from $14.95 billion at Dec 31, 2024)",
+    "Cash and cash equivalents: $23.02 billion"
+  ],
+  "qoq_changes": [
+    "Net income swung to a $29 million loss in Q2 2025.",
+    "Inventories increased by $2.32 billion since year-end 2024.",
+    "Short-term debt (excluding Ford Credit) more than doubled to $3.59 billion from $1.76 billion at year-end."
+  ],
+  "new_risks": [
+    "Significant deterioration in profitability and operating margins.",
+    "Working capital pressure from rising inventory levels.",
+    "Increased reliance on short-term debt for the core automotive business."
+  ],
+  "management_tone": "Cautious, reflecting significant margin compression, a swing to a net loss, and rising inventory levels despite stable top-line performance in the first half.",
+  "analyst_note": "Ford's Q2 2025 results highlight severe profitability headwinds, swinging to a net loss of $29 million alongside a sharp drop in operating income. Rising inventories and a doubling of short-term automotive debt suggest working capital challenges that require immediate management intervention."
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "SCHW",
+  "filing_date": "2026-04-16",
+  "event_type": "Earnings",
+  "headline": "The Charles Schwab Corporation issued a press release announcing its financial results for the quarter ended March 31, 2026.",
+  "materiality": "High",
+  "investor_impact": "The release of Q1 2026 financial results is a primary catalyst for the stock, providing essential data on client asset flows, net interest revenue, and expense management. Analysts will need to parse Exhibit 99.1 to update models and assess the company's fundamental trajectory.",
+  "key_figures": [
+    "April 16, 2026",
+    "March 31, 2026",
+    "Michael Verdeschi"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-02-05",
+  "event_type": "Debt Issuance",
+  "headline": "AT&T closed the sale of $6.5 billion aggregate principal amount of Global Notes across five tranches maturing between 2031 and 2056.",
+  "materiality": "Medium",
+  "investor_impact": "This $6.5 billion debt offering allows AT&T to extend its maturity profile and lock in long-term financing at yields ranging from 4.400% to 6.000%. Investors should update interest expense forecasts and monitor if proceeds are used for refinancing existing debt, which would be neutral to leverage, or for general corporate purposes.",
+  "key_figures": [
+    "$1,500,000,000 of 4.400% Global Notes due 2031",
+    "$1,250,000,000 of 4.750% Global Notes due 2033",
+    "$1,250,000,000 of 5.125% Global Notes due 2036",
+    "$850,000,000 of 5.850% Global Notes due 2046",
+    "$1,650,000,000 of 6.000% Global Notes due 2056",
+    "Total issuance: $6.5 billion",
+    "Underwriting Agreement date: January 29, 2026"
+  ]
+}

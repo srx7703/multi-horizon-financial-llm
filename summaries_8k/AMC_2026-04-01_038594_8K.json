@@ -1,0 +1,15 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-04-01",
+  "event_type": "Material Agreement",
+  "headline": "AMC Entertainment extended the termination date of its $425 million commitment letter with Deutsche Bank to April 20, 2026, to finalize refinancing documentation.",
+  "materiality": "Low",
+  "investor_impact": "This brief extension is an administrative step to finalize the paperwork for Odeon's $425 million credit facility, which will refinance its expensive 12.750% notes. It does not alter the underlying investment thesis or signal execution risk.",
+  "key_figures": [
+    "$425,000,000 new senior secured credit facility",
+    "12.750% Senior Secured Notes due 2027",
+    "April 6, 2026 original termination date",
+    "April 20, 2026 extended termination date",
+    "March 26, 2026 agreement date"
+  ]
+}

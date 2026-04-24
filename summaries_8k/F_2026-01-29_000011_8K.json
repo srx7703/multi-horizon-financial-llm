@@ -1,0 +1,16 @@
+{
+  "ticker": "F",
+  "filing_date": "2026-01-29",
+  "event_type": "Guidance Update",
+  "headline": "Ford pre-announces a $0.6 billion pre-tax pension and OPEB remeasurement loss for Q4 2025.",
+  "materiality": "Low",
+  "investor_impact": "This is a non-cash accounting adjustment that will impact GAAP net income but has no effect on adjusted EBIT, adjusted EPS, or future cash contributions. The investment thesis remains unchanged as core operations and liquidity are unaffected.",
+  "key_figures": [
+    "$0.6 billion pre-tax remeasurement loss",
+    "$0.3 billion loss for U.S. pension plans",
+    "$0.3 billion loss for non-U.S. pension plans",
+    "$0.5 billion after-tax decrease in net income",
+    "$0.2 billion pension underfunded status at year-end 2025",
+    "$4.4 billion OPEB underfunded status at year-end 2025"
+  ]
+}

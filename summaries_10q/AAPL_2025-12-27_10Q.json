@@ -1,0 +1,24 @@
+{
+  "ticker": "AAPL",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-12-27",
+  "revenue": "$143.76 billion (+15.7% YoY)",
+  "net_income": "$42.10 billion (+15.9% YoY)",
+  "key_metrics": [
+    "Products revenue: $113.74 billion",
+    "Services revenue: $30.01 billion",
+    "Gross margin: $69.23 billion",
+    "Diluted EPS: $2.84",
+    "Operating cash flow: $53.93 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased from $35.93 billion to $45.32 billion",
+    "Total assets increased from $359.24 billion to $379.30 billion",
+    "Total shareholders' equity increased from $73.73 billion to $88.19 billion"
+  ],
+  "new_risks": [
+    "No new risks were disclosed in the provided financial statement excerpt (Item 1A Risk Factors was omitted from the text)"
+  ],
+  "management_tone": "Bullish; the company demonstrated strong double-digit top and bottom-line growth, record services revenue, and massive operating cash flow generation.",
+  "analyst_note": "Apple delivered a highly impressive Q1 2026, driven by 15.7% YoY revenue growth and strong margin expansion, alongside aggressive capital returns via $24.7B in share repurchases."
+}

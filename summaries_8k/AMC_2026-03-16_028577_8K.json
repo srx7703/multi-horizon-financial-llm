@@ -1,0 +1,14 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-03-16",
+  "event_type": "Secondary Offering / Share Resale",
+  "headline": "AMC filed a prospectus supplement registering the resale of up to 17,739,549 shares of Class A common stock by selling stockholders.",
+  "materiality": "Medium",
+  "investor_impact": "The registration of nearly 17.7 million shares for resale introduces a potential supply overhang, which could exert downward pressure on the stock price. Because this is a secondary sale, AMC will not receive any proceeds to improve its liquidity or reduce debt.",
+  "key_figures": [
+    "17,739,549 shares of Class A common stock",
+    "March 16, 2026",
+    "Form S-3 File No. 333-293291",
+    "$0.01 par value per share"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "GIS",
+  "fiscal_period": "Q3 2026",
+  "period_end": "2026-02-22",
+  "revenue": "$4,436.7 million (down 8.4% YoY from $4,842.2 million)",
+  "net_income": "$303.1 million (down 51.6% YoY from $625.6 million)",
+  "key_metrics": [
+    "Diluted EPS: $0.56 (down 50.0% YoY from $1.12)",
+    "Operating profit: $524.6 million (down 41.1% YoY from $891.4 million)",
+    "Gross profit: $1,366.9 million, representing a 30.8% gross margin"
+  ],
+  "qoq_changes": [
+    "Net sales for the quarter decreased by $405.5 million year-over-year",
+    "Operating profit declined by $366.8 million year-over-year",
+    "Divestiture impacts swung unfavorably from a $95.9 million gain in the prior year quarter to a $5.0 million loss"
+  ],
+  "new_risks": [
+    "Significant year-over-year contraction in top-line revenue and operating margins",
+    "Potential demand or pricing headwinds indicated by the 8.4% sales drop (qualitative MD&A not provided in excerpt)"
+  ],
+  "management_tone": "Cautious; the financial statements reflect significant top-line and bottom-line contraction, with net earnings halving year-over-year.",
+  "analyst_note": "General Mills experienced a difficult Q3 2026, marked by an 8.4% decline in net sales and a 51.6% drop in net income. The absence of prior-year divestiture gains and substantially lower operating profits highlight ongoing profitability and growth challenges that warrant close monitoring."
+}

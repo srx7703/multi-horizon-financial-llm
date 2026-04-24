@@ -1,0 +1,15 @@
+{
+  "ticker": "CB",
+  "filing_date": "2026-03-11",
+  "event_type": "Corporate Action",
+  "headline": "Chubb Limited completed a share capital reduction by cancelling approximately 12 million treasury shares repurchased in 2025.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine administrative procedure under Swiss law to formally retire treasury shares that were already repurchased in 2025. It officially reduces the registered share count to 400.1 million but has no new economic impact on the company's valuation or investment thesis.",
+  "key_figures": [
+    "11,986,574 treasury shares cancelled",
+    "CHF 5,993,287 share capital reduction",
+    "CHF 0.50 par value per share",
+    "400,120,847 new registered shares",
+    "CHF 200,060,423.50 new share capital"
+  ]
+}

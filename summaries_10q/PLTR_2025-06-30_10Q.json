@@ -1,0 +1,21 @@
+{
+  "ticker": "PLTR",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$1.00 billion (+48.0% YoY)",
+  "net_income": "$328.6 million (+142.4% YoY)",
+  "key_metrics": [
+    "Gross Profit: $810.8 million (80.8% margin)",
+    "Income from Operations: $269.3 million (+155.7% YoY)",
+    "Cash, Cash Equivalents, and Marketable Securities: $6.00 billion"
+  ],
+  "qoq_changes": [
+    "Implied Q2 revenue of $1.00 billion grew sequentially from implied Q1 revenue of $883.9 million",
+    "Total assets increased to $7.37 billion from $6.34 billion at the end of 2024"
+  ],
+  "new_risks": [
+    "No new risks were disclosed in the provided financial statement excerpt"
+  ],
+  "management_tone": "Bullish; the company crossed the $1 billion quarterly revenue mark with accelerating 48% YoY growth and massive operating leverage.",
+  "analyst_note": "Palantir delivered a blowout Q2 2025, crossing $1B in quarterly revenue while expanding operating income by over 150% YoY, highlighting robust demand and excellent cost control."
+}

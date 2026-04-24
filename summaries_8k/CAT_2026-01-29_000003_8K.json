@@ -1,0 +1,13 @@
+{
+  "ticker": "CAT",
+  "filing_date": "2026-01-29",
+  "event_type": "Earnings",
+  "headline": "Caterpillar Inc. announced its financial results for the fourth quarter ended December 31, 2025, alongside supplemental retail sales statistics.",
+  "materiality": "High",
+  "investor_impact": "This earnings release and the accompanying retail sales data for machines and power systems are critical for assessing Caterpillar's fundamental performance and broader industrial end-market demand. Analysts will use this data to update Q4 models and evaluate OEM inventory channels.",
+  "key_figures": [
+    "January 29, 2026",
+    "December 31, 2025",
+    "Derek Owens"
+  ]
+}

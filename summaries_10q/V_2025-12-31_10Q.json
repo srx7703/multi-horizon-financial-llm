@@ -1,0 +1,23 @@
+{
+  "ticker": "V",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-12-31",
+  "revenue": "$10.90 billion, up 14.6% YoY",
+  "net_income": "$5.85 billion, up 14.3% YoY",
+  "key_metrics": [
+    "Operating income of $6.74 billion",
+    "Diluted Class A EPS of $3.03 (up 17.4% YoY)",
+    "Litigation provision of $708 million"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased to $14.76 billion from $17.16 billion",
+    "Current maturities of debt decreased significantly to $1.59 billion from $5.57 billion",
+    "Accrued litigation liabilities increased to $3.41 billion from $3.03 billion"
+  ],
+  "new_risks": [
+    "Substantial increase in litigation provision to $708 million (up from $44 million YoY)",
+    "Accrued litigation liabilities grew to $3.41 billion, indicating intensifying legal and regulatory exposure"
+  ],
+  "management_tone": "Bullish; the company delivered strong double-digit top and bottom-line growth despite absorbing a massive increase in litigation expenses.",
+  "analyst_note": "Visa posted a highly resilient quarter with ~15% YoY revenue and net income growth, alongside a major paydown of current debt. The primary headwind is the $708M litigation provision, signaling ongoing legal costs that warrant investor attention."
+}

@@ -1,0 +1,15 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-04-17",
+  "event_type": "Material Agreement",
+  "headline": "AMC subsidiary Odeon Finco PLC entered into a $425 million credit agreement maturing in 2031 to fully redeem its outstanding 12.750% Senior Secured Notes due 2027.",
+  "materiality": "High",
+  "investor_impact": "This refinancing is a positive catalyst for AMC, extending a significant debt maturity from 2027 to 2031 and lowering the interest rate from 12.75% to 10.50%. This reduces near-term liquidity risk and lowers annual interest expense, providing the company with much-needed financial flexibility.",
+  "key_figures": [
+    "$425,000,000 new term loans",
+    "April 17, 2031 maturity date",
+    "10.50% fixed interest rate on new loans",
+    "12.750% interest rate on redeemed 2027 notes",
+    "1.00% per annum principal amortization"
+  ]
+}

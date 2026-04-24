@@ -1,0 +1,16 @@
+{
+  "ticker": "F",
+  "filing_date": "2026-04-15",
+  "event_type": "Material Agreement",
+  "headline": "Ford Motor Company amended multiple credit agreements to extend the maturity dates of over $21 billion in revolving and term loan commitments.",
+  "materiality": "Medium",
+  "investor_impact": "These amendments proactively extend Ford's debt maturity profile, ensuring robust liquidity and financial flexibility over the medium-to-long term while removing sustainability-linked interest rate adjustments. This is a positive, albeit routine, corporate finance action that mitigates near-term refinancing risk.",
+  "key_figures": [
+    "$3.4 billion commitments extended to April 13, 2029",
+    "$10.1 billion commitments extended to April 15, 2031",
+    "$2.0 billion supplemental revolving commitments extended to April 13, 2029",
+    "$2.5 billion 364-day revolving commitments extended to April 14, 2027",
+    "$3.0 billion term loan availability extended to December 31, 2026 with maturity on December 31, 2028",
+    "$4 billion minimum liquidity covenant"
+  ]
+}

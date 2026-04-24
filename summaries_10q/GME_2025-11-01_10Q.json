@@ -1,0 +1,27 @@
+{
+  "ticker": "GME",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-11-01",
+  "revenue": "$821.0 million (down 4.6% YoY from $860.3 million)",
+  "net_income": "$77.1 million (up 343% YoY from $17.4 million)",
+  "key_metrics": [
+    "Cash and cash equivalents: $7.84 billion",
+    "Digital assets: $519.4 million",
+    "Long-term debt: $4.16 billion",
+    "Gross profit: $273.4 million (33.3% margin, up from 29.9% YoY)",
+    "SG&A expenses: $221.4 million (down 21.5% YoY)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents surged to $7.84 billion, driven by $4.2 billion in proceeds from a new convertible debt issuance.",
+    "Initiated a digital asset position with a $500 million purchase, ending the quarter at $519.4 million after unrealized gains.",
+    "Long-term debt spiked from $6.6 million at the end of the prior fiscal year to $4.16 billion.",
+    "Classified $194.1 million in assets and $180.5 million in liabilities as held for sale, indicating a potential divestiture."
+  ],
+  "new_risks": [
+    "Introduction of balance sheet and earnings volatility due to new $500 million exposure to digital assets.",
+    "Substantial increase in leverage and potential interest obligations from the new $4.2 billion convertible debt.",
+    "Continued erosion of the core retail business, evidenced by a 4.6% YoY decline in net sales."
+  ],
+  "management_tone": "Neutral to bullish; while core retail sales continue to decline, management is aggressively transforming the balance sheet through massive capital raises, strict SG&A cost-cutting, and new digital asset investments to drive net income.",
+  "analyst_note": "GameStop's quarter was defined by a radical balance sheet transformation rather than retail operations, highlighted by a $4.2 billion convertible debt raise and a $500 million foray into digital assets. Although core sales fell 4.6%, drastic SG&A reductions and new investment dynamics drove a massive net income beat, signaling a strategic pivot toward a treasury-driven or holding company model."
+}

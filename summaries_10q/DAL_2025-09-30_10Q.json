@@ -1,0 +1,21 @@
+{
+  "ticker": "DAL",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$16.67 billion, up 6.4% YoY (from $15.68 billion in Q3 2024)",
+  "net_income": "$1.42 billion, up 11.4% YoY (from $1.27 billion in Q3 2024)",
+  "key_metrics": [
+    "Passenger Revenue: $13.51 billion (+3.0% YoY)",
+    "Operating Income: $1.68 billion (+20.5% YoY)",
+    "Diluted EPS: $2.17 (+10.2% YoY)"
+  ],
+  "qoq_changes": [
+    "The provided excerpt focuses on YoY comparisons; Q3 2025 operating revenue grew by $996 million compared to Q3 2024.",
+    "Operating expenses increased by $709 million YoY, primarily driven by higher salaries and ancillary business costs, though offset by lower aircraft fuel costs."
+  ],
+  "new_risks": [
+    "No new material risks were explicitly identified in the provided excerpt; management referred back to the risk factors detailed in the 2024 Form 10-K."
+  ],
+  "management_tone": "Bullish, supported by strong top-line revenue growth, double-digit net income expansion, and robust operating cash flows.",
+  "analyst_note": "Delta Air Lines delivered a strong Q3 2025, characterized by a 6.4% increase in total operating revenue and an 11.4% rise in net income year-over-year. The airline successfully expanded its operating margins despite rising labor costs, benefiting from lower fuel expenses and solid passenger demand."
+}

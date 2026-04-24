@@ -1,0 +1,15 @@
+{
+  "ticker": "FDX",
+  "filing_date": "2026-03-12",
+  "event_type": "Compensatory Arrangements",
+  "headline": "FedEx amends its long-term incentive plans to account for the upcoming FedEx Freight spin-off and a change in its fiscal year-end.",
+  "materiality": "Medium",
+  "investor_impact": "While the filing is technically an administrative adjustment to executive compensation, it provides a crucial update for investors by confirming the FedEx Freight spin-off remains on track for June 1, 2026. The LTI amendments ensure management remains aligned through the transition, and the shift to a calendar fiscal year (December 31) will require analysts to update their financial models.",
+  "key_figures": [
+    "March 9, 2026 (Board approval date)",
+    "FY25-FY27 LTI Plan payout calculation: 67% actual performance, 33% target",
+    "FY26-FY28 LTI Plan payout calculation: 33% actual performance, 67% target",
+    "June 1, 2026 (Planned completion date for FedEx Freight spin-off)",
+    "December 31 (New fiscal year-end, changing from May 31)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "AXP",
+  "filing_date": "2026-02-25",
+  "event_type": "Corporate Update",
+  "headline": "American Express announced plans to build a new 1.95 million square foot headquarters at the 2 World Trade Center site in New York City.",
+  "materiality": "Low",
+  "investor_impact": "The new headquarters development is a long-term operational project that management explicitly stated will have no material impact on financial results. It does not alter the core investment thesis, though investors may monitor capital expenditures related to the project through its 2031 completion.",
+  "key_figures": [
+    "1.95 million square foot headquarters",
+    "200 Greenwich Street (2 World Trade Center site)",
+    "Spring 2026 construction start",
+    "2031 expected completion"
+  ]
+}

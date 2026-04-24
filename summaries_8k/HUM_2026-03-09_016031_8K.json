@@ -1,0 +1,17 @@
+{
+  "ticker": "HUM",
+  "filing_date": "2026-03-09",
+  "event_type": "Material Agreement",
+  "headline": "Humana Inc. announced the pricing and closing of a $1.0 billion public offering of 6.625% Fixed-to-Fixed Rate Junior Subordinated Notes due 2056.",
+  "materiality": "Medium",
+  "investor_impact": "This $1.0 billion debt issuance bolsters Humana's liquidity and provides capital for general corporate purposes, including the potential repayment of existing commercial paper. The fixed-to-fixed rate structure locks in long-term financing at a 6.625% initial coupon, slightly increasing interest expense while extending the company's maturity profile.",
+  "key_figures": [
+    "$1.0 billion aggregate principal amount",
+    "6.625% initial interest rate",
+    "Maturity date of September 15, 2056",
+    "Estimated net proceeds of $986 million",
+    "Interest rate reset date of September 15, 2031",
+    "Reset rate of Five-year U.S. Treasury Rate plus 2.891% (minimum 6.625%)",
+    "Underwriters include Goldman Sachs, J.P. Morgan, Mizuho, Truist, and Wells Fargo"
+  ]
+}

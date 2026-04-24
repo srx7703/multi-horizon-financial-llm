@@ -1,0 +1,25 @@
+{
+  "ticker": "JPM",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$46.43 billion (+8.8% YoY)",
+  "net_income": "$14.39 billion (+11.6% YoY)",
+  "key_metrics": [
+    "Diluted EPS: $5.07 (vs $4.37 in Q3 2024)",
+    "Provision for credit losses: $3.40 billion",
+    "Return on tangible common equity (ROTCE): 20%",
+    "CET1 capital ratio: 14.8%"
+  ],
+  "qoq_changes": [
+    "Total net revenue increased to $46.43 billion from $44.91 billion in Q2 2025",
+    "Net income decreased to $14.39 billion from $14.99 billion in Q2 2025",
+    "Provision for credit losses increased to $3.40 billion from $2.85 billion in Q2 2025",
+    "Nonperforming assets increased to $10.64 billion from $10.48 billion in Q2 2025"
+  ],
+  "new_risks": [
+    "Deteriorating asset quality indicators, evidenced by rising nonperforming assets ($10.64 billion vs $8.63 billion YoY) and higher net charge-offs.",
+    "Elevated provision for credit losses ($3.40 billion) suggests a more challenging consumer or wholesale credit environment."
+  ],
+  "management_tone": "Cautiously optimistic; while top-line revenue and Markets performance remain robust, rising credit provisions and nonperforming assets signal a need for vigilance regarding the broader credit environment.",
+  "analyst_note": "JPMorgan posted a solid Q3 2025 with revenue up nearly 9% YoY to $46.4 billion, heavily supported by strong Markets revenue. However, a sequential decline in net income and rising credit loss provisions highlight emerging pressures on asset quality that warrant close monitoring in upcoming quarters."
+}

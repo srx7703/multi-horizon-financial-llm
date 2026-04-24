@@ -1,0 +1,16 @@
+{
+  "ticker": "HLT",
+  "filing_date": "2026-03-18",
+  "event_type": "Material Agreement",
+  "headline": "Hilton entered into an amendment to its credit agreement, extending the maturity of its senior secured revolving credit facility and increasing its borrowing sublimits.",
+  "materiality": "Medium",
+  "investor_impact": "This amendment enhances Hilton's liquidity and financial flexibility by doubling its letter of credit and swingline borrowing sublimits while extending the facility's maturity. The shift to SOFR-based interest rates with leverage-tied step-ups is standard market practice and rewards the company for maintaining low leverage.",
+  "key_figures": [
+    "March 18, 2026 (Amendment Effective Date)",
+    "5 years (Maturity extension timeframe)",
+    "1.00% (SOFR margin when first lien net leverage ratio is <= 1.50 to 1.00)",
+    "0.25% (Margin step-ups at leverage ratios >1.50x, >2.50x, and >3.50x)",
+    "$500,000,000 (New letter of credit sublimit, increased from $250,000,000)",
+    "$200,000,000 (New swingline borrowing sublimit, increased from $100,000,000)"
+  ]
+}

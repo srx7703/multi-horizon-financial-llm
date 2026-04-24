@@ -1,0 +1,22 @@
+{
+  "ticker": "CRM",
+  "fiscal_period": "Q2 FY26",
+  "period_end": "2025-07-31",
+  "revenue": "$10.24 billion (+9.8% YoY)",
+  "net_income": "$1.89 billion (+32.1% YoY)",
+  "key_metrics": [
+    "Subscription and support revenue: $9.69 billion",
+    "Income from operations: $2.33 billion",
+    "Diluted EPS: $1.96",
+    "Share repurchases: $2.21 billion in Q2"
+  ],
+  "qoq_changes": [
+    "Revenue grew sequentially to $10.24 billion from an implied $9.83 billion in Q1",
+    "Net income grew sequentially to $1.89 billion from an implied $1.54 billion in Q1"
+  ],
+  "new_risks": [
+    "No specific new risks were detailed in the provided excerpt, though Item 1A indicates risk factors are present in the full filing."
+  ],
+  "management_tone": "Bullish; the company demonstrated strong operating leverage with net income growing significantly faster than revenue, alongside continued aggressive capital return via share repurchases.",
+  "analyst_note": "Salesforce delivered a highly profitable quarter, balancing nearly 10% top-line growth with a 32% surge in net income and returning over $2.2 billion to shareholders through buybacks, signaling strong execution on margin expansion."
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "KR",
+  "filing_date": "2026-03-05",
+  "event_type": "Earnings",
+  "headline": "The Kroger Co. issued a press release announcing its fourth quarter and full year 2025 financial results.",
+  "materiality": "High",
+  "investor_impact": "Earnings reports are highly material events that provide critical visibility into the company's operational performance, margin trends, and consumer demand. Investors will look to the attached press release for actual financial figures and forward-looking guidance to update their valuation models.",
+  "key_figures": [
+    "March 5, 2026",
+    "Fourth quarter 2025",
+    "Full year 2025",
+    "George H. Vincent"
+  ]
+}

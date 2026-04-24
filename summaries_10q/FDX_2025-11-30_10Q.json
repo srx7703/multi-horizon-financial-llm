@@ -1,0 +1,23 @@
+{
+  "ticker": "FDX",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-11-30",
+  "revenue": "$23.47 billion, up 6.8% YoY",
+  "net_income": "$956 million, up 29.0% YoY",
+  "key_metrics": [
+    "Diluted EPS of $4.04, up 33.3% YoY from $3.03",
+    "Operating Income of $1.38 billion, up 31.0% YoY",
+    "Cash provided by operating activities (6 months) of $3.67 billion, up 46.4% YoY"
+  ],
+  "qoq_changes": [
+    "Revenue increased sequentially to $23.47 billion from an implied $22.24 billion in the prior quarter.",
+    "Net income increased sequentially to $956 million from an implied $824 million in the prior quarter.",
+    "Separation and other costs increased to $213 million in the current quarter."
+  ],
+  "new_risks": [
+    "Incurred $213 million in separation and other costs, indicating potential execution risks related to ongoing corporate restructuring.",
+    "Purchased transportation costs rose 7% YoY to $5.89 billion, highlighting exposure to third-party rate inflation."
+  ],
+  "management_tone": "Bullish, as the company successfully drove 29% net income growth and expanded operating margins despite incurring significant separation costs.",
+  "analyst_note": "FDX demonstrated strong operating leverage this quarter, translating a 6.8% top-line increase into a 29% jump in net income. The presence of $213 million in separation costs suggests management is aggressively pursuing its structural cost-reduction initiatives, which should further support margin expansion in the second half of the fiscal year."
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "CAT",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$16.57 billion, down 0.7% YoY",
+  "net_income": "$2.18 billion, down 18.7% YoY",
+  "key_metrics": [
+    "Diluted EPS: $4.62, down 15.7% YoY from $5.48",
+    "Operating Profit: $2.86 billion, down 17.9% YoY",
+    "Cost of Goods Sold: $10.81 billion, up 6.5% YoY",
+    "Dividends Declared: $1.38 billion"
+  ],
+  "qoq_changes": [
+    "Total sales and revenues contracted slightly by 0.7% YoY, driven by lower Machinery, Energy & Transportation sales.",
+    "Operating margins compressed significantly due to a $657 million increase in Cost of Goods Sold despite lower overall sales.",
+    "Share repurchases slowed to 2.67 million shares in Q2 2025 compared to 4.58 million shares in Q2 2024."
+  ],
+  "new_risks": [
+    "Severe margin compression evident as Cost of Goods Sold outpaces revenue growth.",
+    "Potential demand softening indicated by the YoY decline in core Machinery, Energy & Transportation sales."
+  ],
+  "management_tone": "Cautious; while the company continues to return capital to shareholders via dividends and buybacks, top-line stagnation and rising cost of goods sold are heavily pressuring operating margins and net profitability.",
+  "analyst_note": "Caterpillar's Q2 2025 print reveals emerging profitability headwinds, with net income falling nearly 19% YoY due to a 6.5% rise in COGS against flat revenues. While the company maintained its strong capital return program, the core machinery segment's margin deterioration warrants close monitoring in upcoming quarters."
+}

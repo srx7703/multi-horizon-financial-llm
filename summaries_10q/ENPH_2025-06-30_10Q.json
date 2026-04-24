@@ -1,0 +1,23 @@
+{
+  "ticker": "ENPH",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$363.15 million (up 19.7% YoY from $303.46 million)",
+  "net_income": "$37.05 million (up 242.0% YoY from $10.83 million)",
+  "key_metrics": [
+    "Gross margin of 46.9% ($170.49 million gross profit)",
+    "Operating income of $37.01 million, up from $1.80 million YoY",
+    "Total cash, cash equivalents, and marketable securities of $1.53 billion"
+  ],
+  "qoq_changes": [
+    "Implied revenue increased 2.0% QoQ ($363.15M in Q2 vs implied $356.08M in Q1)",
+    "Implied net income increased 24.6% QoQ ($37.05M in Q2 vs implied $29.73M in Q1)",
+    "Current debt surged to $631.18M from $101.29M at year-end 2024, reflecting a shift from long-term debt"
+  ],
+  "new_risks": [
+    "Significant near-term debt maturity, with current debt increasing by $529.89 million since December 31, 2024",
+    "Restructuring and asset impairment charges increased to $3.32 million from $1.17 million YoY"
+  ],
+  "management_tone": "Bullish, driven by strong top-line growth, massive operating income expansion, and robust liquidity to handle upcoming debt maturities.",
+  "analyst_note": "Enphase delivered a highly profitable quarter with revenue up 19.7% YoY and net income surging 242%, showcasing excellent operating leverage and cost control. The primary balance sheet development is the reclassification of over $500 million in long-term debt to current liabilities, though their $1.53 billion in cash and marketable securities provides a strong safety net for repayment or refinancing."
+}

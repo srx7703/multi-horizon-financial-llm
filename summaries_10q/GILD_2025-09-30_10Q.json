@@ -1,0 +1,23 @@
+{
+  "ticker": "GILD",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$7.77 billion (+3.0% YoY)",
+  "net_income": "$3.05 billion (+143.6% YoY)",
+  "key_metrics": [
+    "Product sales: $7.35 billion",
+    "R&D expenses: $1.35 billion",
+    "Operating income: $3.33 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased to $7.33 billion from $9.99 billion at year-end 2024",
+    "Long-term debt decreased to $22.14 billion from $24.90 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Impact of the newly mentioned One Big Beautiful Bill Act and the Inflation Reduction Act",
+    "Potential impairment charges related to the Phase 3 ASCENT-07 study",
+    "Changes in U.S. trade policies, including tariffs, and potential U.S. government shutdowns"
+  ],
+  "management_tone": "Bullish due to strong bottom-line growth and debt reduction, though cautious regarding upcoming legislative impacts and clinical trial impairments.",
+  "analyst_note": "Gilead delivered a massive 143% YoY increase in net income for Q3 2025, primarily driven by the absence of a $1.75 billion in-process R&D impairment charge recorded in the prior year, alongside steady top-line growth and disciplined debt reduction."
+}

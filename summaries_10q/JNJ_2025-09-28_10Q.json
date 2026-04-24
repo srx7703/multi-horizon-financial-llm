@@ -1,0 +1,24 @@
+{
+  "ticker": "JNJ",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-28",
+  "revenue": "$23,993 million, up 6.8% YoY compared to $22,471 million in Q3 2024",
+  "net_income": "$5,152 million, up 91.2% YoY compared to $2,694 million in Q3 2024",
+  "key_metrics": [
+    "Diluted EPS: $2.12 (up from $1.11 in Q3 2024)",
+    "Gross Profit: $16,690 million (69.6% margin)",
+    "Research and Development Expense: $3,672 million (down from $4,952 million in Q3 2024)"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $192.8 billion from $180.1 billion at year-end 2024",
+    "Long-term debt increased to $39.4 billion from $30.7 billion at year-end 2024",
+    "Cash and cash equivalents decreased to $18.2 billion from $24.1 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Execution and structural risks related to the planned separation of the Company's Orthopaedics Business",
+    "Potential failure to realize anticipated benefits from the Orthopaedics separation and ongoing restructuring actions",
+    "Increasingly aggressive challenges to patents by competitors seeking to launch generic or biosimilar products"
+  ],
+  "management_tone": "Bullish, driven by solid 6.8% top-line growth, a near doubling of net earnings, and active strategic portfolio management including the planned Orthopaedics separation.",
+  "analyst_note": "JNJ delivered a highly profitable Q3 2025, with net income surging 91% YoY largely due to reduced R&D spending and favorable other income comparisons. The upcoming separation of the Orthopaedics business will be a major catalyst and structural shift for investors to monitor."
+}

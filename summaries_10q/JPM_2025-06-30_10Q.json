@@ -1,0 +1,24 @@
+{
+  "ticker": "JPM",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$44.91 billion, down 11% YoY",
+  "net_income": "$14.99 billion, down 17% YoY",
+  "key_metrics": [
+    "Diluted EPS of $5.24 (down 14% YoY)",
+    "Provision for credit losses of $2.85 billion",
+    "CET1 capital ratio of 15.1%",
+    "Return on tangible common equity (ROTCE) of 21%"
+  ],
+  "qoq_changes": [
+    "Total net revenue decreased slightly to $44.91 billion from $45.31 billion in the prior quarter",
+    "Net income increased to $14.99 billion from $14.64 billion in the prior quarter",
+    "Provision for credit losses decreased to $2.85 billion from $3.31 billion in the prior quarter",
+    "CCB average deposits increased 1% quarter-over-quarter"
+  ],
+  "new_risks": [
+    "No new risks were explicitly detailed in the provided excerpt"
+  ],
+  "management_tone": "Neutral, as strong Markets revenue growth and solid capital ratios were offset by significant year-over-year declines in total noninterest revenue and net income.",
+  "analyst_note": "JPMorgan's Q2 2025 results show a mixed performance with an 11% YoY revenue decline and 17% YoY net income drop, though sequential stability, a 15% YoY jump in Markets revenue, and a robust 21% ROTCE indicate underlying resilience."
+}

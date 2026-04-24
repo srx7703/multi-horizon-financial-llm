@@ -1,0 +1,22 @@
+{
+  "ticker": "GS",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$15.18 billion, up 19.6% YoY",
+  "net_income": "$3.86 billion (applicable to common shareholders), up 38.8% YoY",
+  "key_metrics": [
+    "Investment banking revenues: $2.66 billion (up 42.6% YoY)",
+    "Market making revenues: $3.87 billion (down 6.3% YoY)",
+    "Provision for credit losses: $339 million (down 14.6% YoY)"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $1.81 trillion from $1.68 trillion at year-end 2024",
+    "Total deposits grew to $490.2 billion from $433.0 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Elevated focus on cybersecurity and model risk management as outlined in the MD&A index",
+    "Ongoing credit risk exposure, though provision for credit losses decreased YoY to $339 million"
+  ],
+  "management_tone": "Bullish, driven by strong double-digit YoY growth in net revenues and a significant rebound in investment banking activity.",
+  "analyst_note": "Goldman Sachs delivered a robust Q3 2025, highlighted by a nearly 20% increase in net revenues and a 39% surge in net earnings applicable to common shareholders. The exceptional performance in investment banking and investment management more than offset a slight YoY decline in market making revenues."
+}

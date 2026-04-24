@@ -1,0 +1,22 @@
+{
+  "ticker": "CMCSA",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$30.31 billion, up 2.1% YoY from $29.69 billion",
+  "net_income": "$11.12 billion, up 183% YoY from $3.93 billion",
+  "key_metrics": [
+    "Operating Income: $5.99 billion (down 9.7% YoY from $6.64 billion)",
+    "Diluted EPS: $2.98 (up 198% YoY from $1.00)",
+    "Investment and other income: $9.76 billion (up from -$434 million YoY)"
+  ],
+  "qoq_changes": [
+    "Implied Q2 revenue of $30.31 billion increased slightly sequentially compared to implied Q1 2025 revenue of $29.89 billion."
+  ],
+  "new_risks": [
+    "Increasing programming expenses for video services on a per subscriber basis",
+    "Changes in consumer behavior continuing to challenge existing business models",
+    "Potential labor disputes involving employees or sports organizations disrupting operations"
+  ],
+  "management_tone": "Neutral; while headline net income surged due to a massive one-time investment gain, core operating income declined YoY, reflecting ongoing cost and competitive pressures.",
+  "analyst_note": "CMCSA's Q2 2025 results feature a massive EPS beat driven entirely by a $9.76 billion non-operating investment gain, masking a 9.7% YoY decline in core operating income. Investors should look past the inflated headline earnings and focus on margin pressures from rising programming costs and structural challenges in the video business."
+}

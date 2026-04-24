@@ -1,0 +1,20 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-04-22",
+  "event_type": "Earnings and M&A",
+  "headline": "AT&T reports Q1 2026 earnings with $31.5 billion in revenue, announces the closing of the Lumen fiber acquisition, and introduces a new segment reporting structure.",
+  "materiality": "High",
+  "investor_impact": "The realignment into Advanced Connectivity and Legacy segments offers investors clearer visibility into AT&T's core 5G and fiber growth thesis as copper revenues decline. The successful close of the Lumen acquisition and robust share repurchases signal strong capital execution, though a slight uptick in postpaid churn to 0.89% warrants monitoring.",
+  "key_figures": [
+    "Q1 2026 operating revenues of $31.5 billion (up 2.9% YoY)",
+    "Q1 2026 income from continuing operations of $4.2 billion, or $0.54 per diluted share",
+    "Q1 2026 operating income of $6.7 billion with a 21.1% margin",
+    "Advanced Connectivity revenues of $28.5 billion (up 4.7% YoY)",
+    "158,000 retail wireless net adds, including 294,000 postpaid phone net adds",
+    "Postpaid phone churn of 0.89%",
+    "584,000 total internet connection net adds (292,000 fiber, 292,000 fixed wireless)",
+    "Legacy segment revenues of $1.8 billion (down 25.3% YoY)",
+    "Closed acquisition of Lumen's mass markets fiber business on February 2, 2026",
+    "$2.3 billion of common stock repurchased in Q1 2026, with $13.5 billion remaining under authorization"
+  ]
+}

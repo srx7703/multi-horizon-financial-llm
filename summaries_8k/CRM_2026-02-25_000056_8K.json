@@ -1,0 +1,13 @@
+{
+  "ticker": "CRM",
+  "filing_date": "2026-02-25",
+  "event_type": "Earnings",
+  "headline": "Salesforce issued a press release announcing its financial results for the fiscal quarter and full year ended January 31, 2026.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are critical for updating financial models and assessing the company's operational performance. Analysts will look to the actual press release for revenue, EPS, and forward guidance to determine the impact on the stock's investment thesis.",
+  "key_figures": [
+    "Fiscal quarter and year ended January 31, 2026",
+    "Press release dated February 25, 2026",
+    "Sundeep Reddy"
+  ]
+}

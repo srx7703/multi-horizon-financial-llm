@@ -1,0 +1,13 @@
+{
+  "ticker": "SBUX",
+  "filing_date": "2026-01-28",
+  "event_type": "Earnings",
+  "headline": "Starbucks Corporation issued a press release announcing its financial results for the quarter ended December 28, 2025.",
+  "materiality": "High",
+  "investor_impact": "This standard Item 2.02 filing signals the release of quarterly earnings, which is a primary catalyst for the stock. Investors and analysts must review the attached Exhibit 99.1 to evaluate comparable store sales, margin performance, and any updated forward guidance.",
+  "key_figures": [
+    "January 28, 2026",
+    "December 28, 2025",
+    "Cathy R. Smith"
+  ]
+}

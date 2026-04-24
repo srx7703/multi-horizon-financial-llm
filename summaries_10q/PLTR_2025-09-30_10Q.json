@@ -1,0 +1,21 @@
+{
+  "ticker": "PLTR",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$1.18 billion (+62.8% YoY)",
+  "net_income": "$476.7 million (+219.2% YoY)",
+  "key_metrics": [
+    "Gross Profit: $973.8 million (82.4% margin)",
+    "Income from Operations: $393.3 million",
+    "Diluted EPS: $0.18"
+  ],
+  "qoq_changes": [
+    "Shifted asset allocation, decreasing cash and cash equivalents to $1.62 billion while increasing marketable securities to $4.82 billion compared to year-end 2024",
+    "Continued strong sequential momentum implied by outsized YoY growth, though exact Q2 2025 figures are omitted from the excerpt"
+  ],
+  "new_risks": [
+    "Item 1A (Risk Factors) is listed in the table of contents but omitted from the provided text excerpt"
+  ],
+  "management_tone": "Bullish; the company achieved massive 63% top-line growth and over 200% net income growth, demonstrating exceptional operating leverage and demand.",
+  "analyst_note": "Palantir delivered a blowout Q3 2025 with $1.18 billion in revenue and robust margin expansion, signaling that its AI and data analytics platforms are seeing hyper-accelerated market adoption."
+}

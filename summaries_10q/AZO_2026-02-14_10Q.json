@@ -1,0 +1,23 @@
+{
+  "ticker": "AZO",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2026-02-14",
+  "revenue": "$4.27 billion, up 8.1% YoY",
+  "net_income": "$468.9 million, down 3.9% YoY",
+  "key_metrics": [
+    "Diluted EPS of $27.63, down 2.3% YoY",
+    "Gross profit of $2.24 billion, up 5.4% YoY",
+    "Operating, selling, general and administrative expenses increased 8.7% YoY to $1.54 billion",
+    "Share repurchases of $741.7 million over the 24-week period"
+  ],
+  "qoq_changes": [
+    "Net sales decreased sequentially from implied Q1 2026 ($4.63 billion) to Q2 2026 ($4.27 billion)",
+    "Merchandise inventories increased to $7.48 billion from $7.03 billion at the end of the prior fiscal year"
+  ],
+  "new_risks": [
+    "Margin compression risk as SG&A expense growth (8.7%) outpaced gross profit growth (5.4%)",
+    "Rising inventory levels ($7.48 billion) tying up working capital and potentially increasing carrying costs"
+  ],
+  "management_tone": "Neutral to cautious, as strong top-line revenue growth was overshadowed by rising operating costs that compressed margins and drove a year-over-year decline in net income.",
+  "analyst_note": "While AutoZone demonstrated resilient demand with an 8.1% increase in net sales, profitability was pressured by rising SG&A expenses, resulting in a 3.9% drop in net income. Investors should monitor operating cost controls in upcoming quarters, though the company's robust share repurchase program continues to provide a floor for EPS."
+}

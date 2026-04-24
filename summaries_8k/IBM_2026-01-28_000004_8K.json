@@ -1,0 +1,15 @@
+{
+  "ticker": "IBM",
+  "filing_date": "2026-01-28",
+  "event_type": "Earnings",
+  "headline": "IBM furnishes its financial results and non-GAAP metrics for the period ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "This filing provides the Q4 2025 earnings release and non-GAAP reconciliations, which are critical for updating financial models. Investors will need to analyze Exhibit 99.1 to evaluate operational performance, margin trends, and forward-looking guidance to adjust their investment thesis.",
+  "key_figures": [
+    "December 31, 2025",
+    "January 28, 2026",
+    "Exhibit 99.1",
+    "Exhibit 99.2",
+    "Nicol\u00e1s A. Fehring"
+  ]
+}

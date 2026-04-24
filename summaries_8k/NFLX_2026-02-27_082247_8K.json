@@ -1,0 +1,16 @@
+{
+  "ticker": "NFLX",
+  "filing_date": "2026-02-27",
+  "event_type": "Termination of Material Agreement / M&A",
+  "headline": "Warner Bros. Discovery terminates its merger agreement with Netflix to accept a superior proposal from Paramount Skydance, resulting in a $2.8 billion termination fee paid to Netflix.",
+  "materiality": "High",
+  "investor_impact": "The termination of the WBD Streaming & Studios acquisition removes significant integration risk and debt burden for Netflix, while providing a massive $2.8 billion cash windfall from the breakup fee. Investors will likely view this positively as it bolsters the balance sheet, eliminates the overhang of a complex legacy media integration, and allows Netflix to refocus on organic growth and potential capital returns.",
+  "key_figures": [
+    "January 19, 2026 (original merger agreement date)",
+    "February 26, 2026 (WBD notice of superior proposal)",
+    "February 27, 2026 (termination date)",
+    "$2,800,000,000 (termination fee paid to Netflix)",
+    "Warner Bros. Discovery, Inc. (WBD)",
+    "Paramount Skydance Corporation (PSKY)"
+  ]
+}

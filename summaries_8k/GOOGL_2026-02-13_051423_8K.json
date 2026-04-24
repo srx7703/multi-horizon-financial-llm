@@ -1,0 +1,15 @@
+{
+  "ticker": "GOOGL",
+  "filing_date": "2026-02-13",
+  "event_type": "Debt Offering",
+  "headline": "Alphabet Inc. closed a concurrent public offering of $20 billion in U.S. dollar-denominated senior notes and \u00a35.5 billion in Sterling-denominated senior notes.",
+  "materiality": "Medium",
+  "investor_impact": "This significant debt issuance allows Alphabet to optimize its capital structure and secure long-term funding, including a 100-year Sterling bond. The proceeds will likely be used for general corporate purposes, which may include capital expenditures, share repurchases, or strategic acquisitions.",
+  "key_figures": [
+    "$20 billion total U.S. dollar-denominated senior notes",
+    "\u00a35.5 billion total Sterling-denominated senior notes",
+    "U.S. Notes interest rates ranging from 3.700% to 5.750% with maturities from 2029 to 2066",
+    "Sterling Notes interest rates ranging from 4.125% to 6.125% with maturities from 2029 to 2126",
+    "February 13, 2026 closing date"
+  ]
+}

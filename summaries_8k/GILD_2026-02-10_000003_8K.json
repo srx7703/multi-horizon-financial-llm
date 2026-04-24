@@ -1,0 +1,13 @@
+{
+  "ticker": "GILD",
+  "filing_date": "2026-02-10",
+  "event_type": "Earnings",
+  "headline": "Gilead Sciences issued a press release detailing its results of operations and financial condition.",
+  "materiality": "High",
+  "investor_impact": "This filing indicates the release of Gilead's financial results, which is a primary catalyst for the stock. Investors and analysts will need to review the attached Exhibit 99.1 to evaluate revenue, EPS, and non-GAAP reconciliations against consensus estimates to update their valuation models.",
+  "key_figures": [
+    "February 10, 2026",
+    "Exhibit 99.1",
+    "Andrew D. Dickinson"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-03-06",
+  "event_type": "Material Agreement",
+  "headline": "AMC Entertainment's subsidiary Odeon entered into a commitment letter for a new $425 million senior secured credit facility to refinance its existing 2027 notes.",
+  "materiality": "High",
+  "investor_impact": "The $425 million refinancing extends Odeon's debt maturities from 2027 to 2031 and lowers the interest rate from 12.75% to 10.50%, significantly improving near-term liquidity and balance sheet health. The concurrent cancellation of a previously announced broader debt offering indicates a tactical shift in AMC's capital structure optimization strategy.",
+  "key_figures": [
+    "$425,000,000 new senior secured credit facility",
+    "12.750% interest rate on existing Senior Secured Notes due 2027",
+    "2031 maturity for new term loan",
+    "10.50% fixed interest rate on new term loan",
+    "2.00% original issue discount",
+    "April 6, 2026 expected closing date",
+    "February 28, 2026 end date for Odeon revenue and attendance cleansing materials"
+  ]
+}

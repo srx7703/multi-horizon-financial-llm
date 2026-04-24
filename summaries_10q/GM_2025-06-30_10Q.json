@@ -1,0 +1,23 @@
+{
+  "ticker": "GM",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$47.12 billion, down 1.8% YoY",
+  "net_income": "$1.89 billion, down 35.4% YoY",
+  "key_metrics": [
+    "Automotive Revenue: $42.87 billion",
+    "GM Financial Revenue: $4.25 billion",
+    "Operating Income: $2.13 billion",
+    "Diluted EPS: $1.91"
+  ],
+  "qoq_changes": [
+    "Revenue increased 7.0% QoQ to $47.12 billion (implied Q1 2025 revenue of $44.02 billion).",
+    "Net income decreased 32.0% QoQ to $1.89 billion (implied Q1 2025 net income of $2.78 billion)."
+  ],
+  "new_risks": [
+    "Specific Item 1A risk factors were omitted from the excerpt.",
+    "GM Financial long-term debt increased to $81.9 billion from $77.0 billion at year-end 2024, indicating higher leverage."
+  ],
+  "management_tone": "Cautious; while GM Financial showed growth and dividends increased, core automotive revenue and overall operating income experienced significant year-over-year declines.",
+  "analyst_note": "GM's Q2 2025 highlights severe margin compression, with operating income falling nearly 45% YoY despite only a slight revenue dip. Weakness in the core Automotive segment is a primary concern, though GM Financial remains a bright spot."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "FDX",
+  "fiscal_period": "Q3 2026",
+  "period_end": "2026-02-28",
+  "revenue": "$24.00 billion (+8.3% YoY)",
+  "net_income": "$1.06 billion (+16.2% YoY)",
+  "key_metrics": [
+    "Diluted EPS of $4.41, up 17.3% YoY from $3.76",
+    "Operating Income of $1.35 billion, up 4.3% YoY from $1.29 billion",
+    "Total Cash, Cash Equivalents, and Restricted Cash of $11.69 billion, up significantly from $5.14 billion YoY"
+  ],
+  "qoq_changes": [
+    "Q3 revenue of $24.00 billion outpaced the 9-month average run-rate of $23.23 billion, indicating sequential top-line momentum.",
+    "Operating expenses scaled up, driven by a sharp sequential increase in separation and other costs ($202 million in Q3 vs $460 million for the 9-month period)."
+  ],
+  "new_risks": [
+    "Significant spike in separation and other costs ($202 million in Q3 2026 vs $5 million in Q3 2025), indicating potential friction or elevated expenses in workforce restructuring.",
+    "Rising purchased transportation costs, which grew 8.0% YoY to $6.08 billion, potentially pressuring future operating margins if volume leverage weakens."
+  ],
+  "management_tone": "Cautiously bullish; management is successfully driving solid top-line growth and double-digit EPS expansion while actively executing structural cost reductions and business optimization.",
+  "analyst_note": "FedEx posted a strong Q3 FY26, with revenue growing 8.3% to $24.0B and net income jumping 16.2% to $1.06B. The company's ongoing restructuring is yielding bottom-line resilience despite $267M in combined separation and optimization headwinds, while a massive cash build to $11.7B provides substantial capital allocation flexibility."
+}

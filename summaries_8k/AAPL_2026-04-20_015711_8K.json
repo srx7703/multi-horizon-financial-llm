@@ -1,0 +1,19 @@
+{
+  "ticker": "AAPL",
+  "filing_date": "2026-04-20",
+  "event_type": "Executive Change",
+  "headline": "Apple announces CEO Tim Cook will transition to Executive Chair, with SVP of Hardware Engineering John Ternus succeeding him as CEO effective September 1, 2026.",
+  "materiality": "High",
+  "investor_impact": "This succession plan provides leadership continuity by elevating a 25-year Apple hardware veteran to the helm, likely reassuring markets of strategic stability. Investors will closely monitor Ternus's ability to navigate software and AI initiatives while maintaining Cook's standard of operational excellence.",
+  "key_figures": [
+    "Tim Cook",
+    "John Ternus",
+    "Art Levinson",
+    "September 1, 2026",
+    "April 17, 2026",
+    "April 20, 2026",
+    "50 (John Ternus age)",
+    "2001 (Year John Ternus joined Apple)",
+    "2021 (Year John Ternus became SVP)"
+  ]
+}

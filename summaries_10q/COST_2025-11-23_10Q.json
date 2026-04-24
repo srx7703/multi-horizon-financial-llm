@@ -1,0 +1,23 @@
+{
+  "ticker": "COST",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-11-23",
+  "revenue": "$67.31 billion (+8.3% YoY)",
+  "net_income": "$2.00 billion (+11.3% YoY)",
+  "key_metrics": [
+    "Membership fees: $1.33 billion (+14.0% YoY)",
+    "Diluted EPS: $4.50 (+11.4% YoY)",
+    "Total Warehouses: 921",
+    "Cash and cash equivalents: $16.22 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased from $14.16 billion to $16.22 billion",
+    "Merchandise inventories increased from $18.12 billion to $21.14 billion",
+    "Accounts payable increased from $19.78 billion to $23.51 billion"
+  ],
+  "new_risks": [
+    "No new risks were explicitly disclosed in the provided financial statement excerpt"
+  ],
+  "management_tone": "Bullish; the company demonstrated strong top-line growth, double-digit net income expansion, and robust cash generation.",
+  "analyst_note": "Costco delivered a strong Q1 FY26 with total revenue growing 8.3% YoY to $67.3 billion and net income up 11.3% YoY, driven by solid membership fee growth (+14% YoY). The significant build in inventory and accounts payable reflects typical seasonal preparation, while the cash position remains highly robust at $16.2 billion."
+}

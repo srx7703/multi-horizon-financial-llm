@@ -1,0 +1,24 @@
+{
+  "ticker": "HUM",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$32.65 billion, up 11.1% YoY",
+  "net_income": "$195 million, down 59.4% YoY",
+  "key_metrics": [
+    "Premium revenue of $30.71 billion, up 9.9% YoY",
+    "Benefits expense of $27.99 billion, up 11.4% YoY",
+    "Diluted earnings per common share of $1.62, down from $3.98 in Q3 2024"
+  ],
+  "qoq_changes": [
+    "Implied sequential net income plummeted, with Q3 contributing only $195 million to the $1.98 billion year-to-date total",
+    "Recognized a new $63 million loss on sale of business during the quarter",
+    "Operating income compressed significantly, dropping to $400 million for the quarter"
+  ],
+  "new_risks": [
+    "Medical cost trend acceleration, evidenced by benefits expense (+11.4%) growing faster than premium revenue (+9.9%)",
+    "Severe margin deterioration with operating income falling 45% YoY",
+    "Underlying profitability weakness masked by an $86 million income tax benefit in the quarter"
+  ],
+  "management_tone": "Cautious, as strong top-line premium growth is being severely undermined by accelerating medical benefit expenses and rising operating costs.",
+  "analyst_note": "Humana's Q3 2025 results reveal significant margin compression, with a 59% YoY drop in net income despite 11% revenue growth. Accelerating medical costs, rising operating expenses, and a $63 million divestiture loss highlight near-term operational headwinds that management must address to restore baseline profitability."
+}

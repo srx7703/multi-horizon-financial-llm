@@ -1,0 +1,13 @@
+{
+  "ticker": "WMT",
+  "filing_date": "2026-03-13",
+  "event_type": "Insider Trading Plans",
+  "headline": "Walmart announces the adoption of Rule 10b5-1 stock trading plans by executives C. Douglas McMillon, Daniel J. Bartlett, and David Guggina.",
+  "materiality": "Low",
+  "investor_impact": "These pre-arranged stock sales are routine measures for executive asset diversification and tax planning. They do not signal a shift in company fundamentals, and the executives continue to meet Walmart's stock ownership guidelines.",
+  "key_figures": [
+    "C. Douglas McMillon: 19,416 shares to be sold monthly from June 2026 through January 2027 (maximum 155,328 shares)",
+    "Daniel J. Bartlett: $416,666.67 worth of stock to be sold monthly from July 2026 to July 1, 2029 (maximum $15,000,000)",
+    "David Guggina: Net shares remaining after taxes from a vesting of 21,108 restricted shares on May 5, 2026"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CB",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$14.84 billion, up 7.2% YoY",
+  "net_income": "$2.97 billion, up 33.1% YoY",
+  "key_metrics": [
+    "Net premiums written of $14.20 billion, up 6.3% YoY",
+    "Net investment income of $1.57 billion, up 6.8% YoY",
+    "Total assets increased to $261.56 billion from $246.55 billion at year-end 2024"
+  ],
+  "qoq_changes": [
+    "Net income accelerated significantly in Q2 ($2.97 billion) compared to implied Q1 2025 results ($1.33 billion).",
+    "Total investments grew to $158.31 billion from $150.65 billion at the end of 2024.",
+    "Unpaid losses and loss expenses increased by $2.37 billion since year-end 2024."
+  ],
+  "new_risks": [
+    "Continued growth in unpaid losses and loss expenses, which reached $86.38 billion.",
+    "Potential exposure to foreign currency translation volatility, though currently favorable with a $796 million positive adjustment in Q2."
+  ],
+  "management_tone": "Bullish, as evidenced by strong top-line premium growth, higher investment yields, and a significant 33% year-over-year increase in net income.",
+  "analyst_note": "Chubb delivered a highly profitable Q2 2025, driven by steady premium growth and robust investment income. The 33.1% jump in net income highlights excellent underwriting and operational efficiency, positioning the firm well for the second half of the year."
+}

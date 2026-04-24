@@ -1,0 +1,25 @@
+{
+  "ticker": "INTU",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-10-31",
+  "revenue": "$3.885 billion (+18.3% YoY)",
+  "net_income": "$446 million (+126.4% YoY)",
+  "key_metrics": [
+    "Service revenue of $3.497 billion",
+    "Operating income of $534 million",
+    "Diluted EPS of $1.59",
+    "Share repurchases of $851 million"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $3.51 billion from $2.88 billion",
+    "Short-term debt increased to $749 million from $0",
+    "Funds held for customers decreased to $3.92 billion from $7.08 billion"
+  ],
+  "new_risks": [
+    "Execution risks related to investments in artificial intelligence products and services",
+    "Heightened focus on cybersecurity and protecting customers from fraud",
+    "Macroeconomic conditions impacting customer spending and loan portfolio judgments"
+  ],
+  "management_tone": "Bullish; the company delivered strong double-digit revenue growth and massive net income expansion while aggressively returning capital to shareholders.",
+  "analyst_note": "Intuit delivered a highly profitable Q1 FY26, driven by robust service revenue growth and operating leverage that more than doubled net income YoY. The company's strong cash generation supports continued investments in AI and substantial shareholder returns."
+}

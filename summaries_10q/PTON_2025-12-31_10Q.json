@@ -1,0 +1,25 @@
+{
+  "ticker": "PTON",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-12-31",
+  "revenue": "$656.5 million (down 2.6% YoY from $673.9 million)",
+  "net_income": "Not fully disclosed in excerpt (6-month net loss implied at $24.8 million based on accumulated deficit changes)",
+  "key_metrics": [
+    "Subscription Revenue: $412.6 million",
+    "Connected Fitness Products Revenue: $243.9 million",
+    "Gross Profit: $331.3 million (up 4.1% YoY)",
+    "Cash and Cash Equivalents: $1,179.6 million"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $1,179.6 million from $1,039.5 million at the end of the prior fiscal year.",
+    "Total liabilities decreased to $2,491.3 million from $2,539.1 million.",
+    "Inventories increased slightly to $214.9 million from $205.6 million."
+  ],
+  "new_risks": [
+    "Risks related to artificial intelligence (AI) and its integration into products, services, and business operations.",
+    "Risks related to changes in global trade policies, including tariffs and other protectionist measures.",
+    "Impacts from warranty claims, product returns, and the Original Series Bike+ recall."
+  ],
+  "management_tone": "Cautious but focused on operational efficiency; management emphasizes restructuring initiatives, cost-saving measures, and the goal of achieving profitability and positive free cash flow amidst declining revenues.",
+  "analyst_note": "Peloton's Q2 FY2026 results show continued top-line contraction with revenue down 2.6% YoY, but gross profit improved by 4.1% YoY, suggesting that management's aggressive cost-cutting and restructuring efforts are beginning to stabilize margins even as demand remains soft."
+}

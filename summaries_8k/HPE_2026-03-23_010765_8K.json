@@ -1,0 +1,15 @@
+{
+  "ticker": "HPE",
+  "filing_date": "2026-03-23",
+  "event_type": "Debt Issuance",
+  "headline": "Hewlett Packard Enterprise completed a $2.0 billion multi-tranche public offering of senior notes.",
+  "materiality": "Medium",
+  "investor_impact": "The $2.0 billion debt raise across four tranches secures medium-to-long-term liquidity at reasonable rates (4.500% to 5.250% fixed, plus a floating tranche). This strengthens HPE's balance sheet and extends its maturity profile, though analysts will look for clarity on whether proceeds are earmarked for refinancing existing debt, general corporate purposes, or potential M&A.",
+  "key_figures": [
+    "$300,000,000 Floating Rate Notes due 2028",
+    "$500,000,000 4.500% Notes due 2028",
+    "$600,000,000 4.600% Notes due 2029",
+    "$600,000,000 5.250% Notes due 2033",
+    "March 23, 2026"
+  ]
+}

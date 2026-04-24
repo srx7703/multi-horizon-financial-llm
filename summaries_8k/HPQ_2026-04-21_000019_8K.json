@@ -1,0 +1,14 @@
+{
+  "ticker": "HPQ",
+  "filing_date": "2026-04-21",
+  "event_type": "Annual Meeting Results",
+  "headline": "HP Inc. announced the voting results from its 2026 Annual Meeting, including the election of 12 directors, approval of executive compensation, and the rejection of an independent board chairman proposal.",
+  "materiality": "Low",
+  "investor_impact": "The results reflect standard corporate governance proceedings with no activist disruptions. Continued support for the current board and rejection of the independent chairman proposal indicates shareholder confidence in the existing leadership structure and strategic direction.",
+  "key_figures": [
+    "12 directors elected to the Board",
+    "Ernst & Young LLP ratified as independent auditor for fiscal year ending October 31, 2026",
+    "547,764,193 votes against the independent board chairman proposal vs 105,071,429 votes for",
+    "495,892,067 votes for the Fifth Amended and Restated HP Inc. 2004 Stock Incentive Plan"
+  ]
+}

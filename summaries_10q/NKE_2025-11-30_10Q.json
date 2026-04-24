@@ -1,0 +1,24 @@
+{
+  "ticker": "NKE",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-11-30",
+  "revenue": "$12.43 billion (+0.6% YoY)",
+  "net_income": "$792 million (-31.9% YoY)",
+  "key_metrics": [
+    "Gross Profit: $5.05 billion (down 6.4% YoY)",
+    "Diluted EPS: $0.53 (down from $0.78 YoY)",
+    "Demand Creation Expense: $1.27 billion (up 13.5% YoY)",
+    "Inventories: $7.73 billion (up from $7.49 billion at May 31, 2025)"
+  ],
+  "qoq_changes": [
+    "Cash and equivalents decreased to $6.97 billion from $7.46 billion at the end of the prior fiscal year.",
+    "Inventories increased to $7.73 billion from $7.49 billion at the end of the prior fiscal year."
+  ],
+  "new_risks": [
+    "Margin compression is evident as gross profit declined 6.4% despite flat revenue.",
+    "Rising marketing costs to stimulate sales, shown by a 13.5% increase in demand creation expense.",
+    "Qualitative risk factors (Item 1A) were omitted from the provided excerpt, but financial risks point to profitability pressures."
+  ],
+  "management_tone": "Cautious; while top-line revenue remained stable, significant margin compression and a 32% drop in net income indicate profitability headwinds and increased costs to drive demand.",
+  "analyst_note": "Nike's quarter ended November 30, 2025, shows stagnant revenue growth (+0.6% YoY) coupled with a sharp 31.9% decline in net income. The combination of lower gross margins, rising inventory levels, and a 13.5% spike in demand creation expenses suggests the company is facing a highly promotional environment and elevated costs to maintain market share."
+}

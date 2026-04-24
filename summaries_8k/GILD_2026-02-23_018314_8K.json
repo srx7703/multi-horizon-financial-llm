@@ -1,0 +1,17 @@
+{
+  "ticker": "GILD",
+  "filing_date": "2026-02-23",
+  "event_type": "M&A",
+  "headline": "Gilead Sciences announces the acquisition of Arcellx, Inc. for $115.00 per share in cash plus a $5.00 Contingent Value Right tied to anito-cel sales milestones.",
+  "materiality": "High",
+  "investor_impact": "This acquisition significantly strengthens Gilead's cell therapy oncology pipeline by adding Arcellx's BCMA-targeting CAR-T therapy, anito-cel, which just received FDA BLA acceptance. The deal structure, featuring a $5.00 CVR contingent on $6 billion in cumulative anito-cel sales by 2029, prudently balances commercial execution risk with substantial long-term revenue upside.",
+  "key_figures": [
+    "$115.00 per share in cash",
+    "$5.00 per Contingent Value Right (CVR)",
+    "$6,000,000,000 cumulative worldwide sales milestone for anito-cel",
+    "December 31, 2029 milestone expiration date",
+    "$260,000,000 termination fee",
+    "10.3% of outstanding shares locked up in support agreements",
+    "20 business days minimum tender offer period"
+  ]
+}

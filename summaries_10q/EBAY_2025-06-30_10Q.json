@@ -1,0 +1,24 @@
+{
+  "ticker": "EBAY",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$2.73 billion in Q2 2025 (6-month revenue up 3.6% YoY to $5.32 billion)",
+  "net_income": "$368 million in Q2 2025, up 64.3% YoY from $224 million",
+  "key_metrics": [
+    "Gross Profit: $1.95 billion in Q2 2025",
+    "Income from Operations: $484 million in Q2 2025 (down 11.8% YoY)",
+    "Diluted EPS: $0.79 in Q2 2025"
+  ],
+  "qoq_changes": [
+    "Revenue increased sequentially to $2.73 billion in Q2 2025 from an implied $2.59 billion in Q1 2025",
+    "Net income decreased sequentially to $368 million in Q2 2025 from an implied $503 million in Q1 2025",
+    "Cash and short-term investments declined to $3.75 billion from $5.89 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Macroeconomic headwinds including persistent inflationary pressure and elevated interest rates",
+    "Geopolitical instability, specifically citing ongoing wars in Ukraine and the Middle East",
+    "Uncertainty surrounding international trade relations, global regulations, and changing tariff policies"
+  ],
+  "management_tone": "Neutral to cautious, as management balances solid bottom-line growth against declining operating income and persistent macroeconomic and geopolitical uncertainties.",
+  "analyst_note": "eBay's Q2 2025 results show strong net income growth driven by reduced losses on equity investments, masking an 11.8% YoY decline in operating income. Investors should monitor the impact of rising operating expenses and macroeconomic pressures on core marketplace profitability."
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "AVGO",
+  "filing_date": "2026-03-04",
+  "event_type": "Earnings",
+  "headline": "Broadcom announced its Q1 2026 financial results and declared a quarterly cash dividend of $0.65 per share.",
+  "materiality": "High",
+  "investor_impact": "The Q1 earnings release will provide critical updates on semiconductor demand and AI infrastructure growth. The declared $0.65 per share dividend reinforces Broadcom's strong cash flow generation and commitment to shareholder returns.",
+  "key_figures": [
+    "Q1 ended February 1, 2026",
+    "$0.65 per share quarterly cash dividend",
+    "Dividend payable March 31, 2026",
+    "Record date March 23, 2026"
+  ]
+}

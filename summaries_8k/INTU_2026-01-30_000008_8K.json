@@ -1,0 +1,15 @@
+{
+  "ticker": "INTU",
+  "filing_date": "2026-01-30",
+  "event_type": "Material Agreement",
+  "headline": "Intuit secured a $5.8 billion short-term revolving credit facility to support its early tax refund offering.",
+  "materiality": "Medium",
+  "investor_impact": "This facility ensures Intuit has ample liquidity to meet peak tax season demand for its early refund product, a key competitive feature for TurboTax. Because funds are only disbursed post-IRS confirmation, credit risk is negligible while supporting top-line growth and customer retention.",
+  "key_figures": [
+    "$5.8 billion facility size",
+    "March 31, 2026 maturity date",
+    "Up to 5 days early access to tax refunds",
+    "0.875% SOFR margin",
+    "0.07% commitment fee"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "IBM",
+  "filing_date": "2026-02-02",
+  "event_type": "Debt Issuance",
+  "headline": "IBM announces the issuance of \u20ac3.5 billion in Euro Notes and $3.25 billion in USD Notes across multiple tranches.",
+  "materiality": "Medium",
+  "investor_impact": "This combined ~$7 billion debt raise allows IBM to secure long-term financing across a well-laddered maturity schedule (2028-2056). The capital will likely support general corporate purposes, refinancing of upcoming maturities, or strategic M&A, reflecting strong credit market access without diluting equity.",
+  "key_figures": [
+    "\u20ac3,500,000,000 aggregate principal amount of Euro Notes",
+    "$3,250,000,000 aggregate principal amount of USD Notes",
+    "Floating Rate Note due 2028",
+    "4.000% Note due 2029",
+    "3.000% Note due 2031",
+    "4.300% Note due 2031",
+    "4.600% Note due 2033",
+    "3.450% Note due 2034",
+    "4.950% Note due 2036",
+    "3.850% Note due 2038",
+    "5.800% Note due 2056"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "ABBV",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$15.78 billion, up 9.1% YoY",
+  "net_income": "$186 million, down 88.1% YoY",
+  "key_metrics": [
+    "Diluted EPS: $0.10 (down from $0.88 in Q3 2024)",
+    "Acquired IPR&D and milestones: $2.68 billion (up from $82 million in Q3 2024)",
+    "Operating earnings: $1.90 billion (down 50.3% YoY)"
+  ],
+  "qoq_changes": [
+    "Net revenues increased by $1.32 billion YoY.",
+    "Total operating costs and expenses surged by $3.24 billion YoY, primarily driven by a $2.6 billion increase in acquired IPR&D and milestones."
+  ],
+  "new_risks": [
+    "Significant earnings compression due to massive spikes in acquired IPR&D and milestone expenses.",
+    "Substantial increases in the fair value of contingent consideration liabilities ($5.09 billion for the nine months ended Sept 30, 2025)."
+  ],
+  "management_tone": "Cautiously optimistic; strong top-line revenue growth demonstrates core business resilience, though aggressive business development and IPR&D investments heavily pressured near-term profitability.",
+  "analyst_note": "AbbVie's Q3 2025 top-line grew a healthy 9.1%, but bottom-line results were decimated by a $2.68 billion charge for acquired IPR&D and milestones. While this signals aggressive pipeline investment, the resulting 88% drop in net income and rising contingent liabilities warrant close monitoring of future cash flow impacts."
+}

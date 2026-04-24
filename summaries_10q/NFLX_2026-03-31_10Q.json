@@ -1,0 +1,23 @@
+{
+  "ticker": "NFLX",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-31",
+  "revenue": "$12.25 billion (+16.2% YoY)",
+  "net_income": "$5.28 billion (+82.8% YoY)",
+  "key_metrics": [
+    "Operating Income: $3.96 billion (+18.2% YoY)",
+    "Diluted EPS: $1.23 (+86.4% YoY)",
+    "Net cash provided by operating activities: $5.29 billion",
+    "Content Assets: $33.38 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased significantly from $9.03 billion to $12.26 billion.",
+    "Total assets grew from $55.60 billion to $61.02 billion.",
+    "Retained earnings increased from $42.28 billion to $47.56 billion."
+  ],
+  "new_risks": [
+    "Specific new risks were not detailed in the provided excerpt, but reliance on a massive $2.85 billion 'Interest and other income' line item (up from $50.9 million YoY) poses a risk to future earnings quality if it is a non-recurring gain."
+  ],
+  "management_tone": "Bullish; the company demonstrated strong top-line growth, robust operating leverage, and generated massive operating cash flow during the quarter.",
+  "analyst_note": "Netflix posted a blowout Q1 2026 with revenue up 16.2% to $12.25 billion and net income surging 82.8% to $5.28 billion. However, analysts should adjust for a massive $2.85 billion 'Interest and other income' gain that heavily skewed the bottom line, though core operating income still grew a very solid 18.2% YoY."
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-02-25",
+  "event_type": "Material Agreement",
+  "headline": "AMC Entertainment amended the indenture for Muvico's 2029 Senior Secured Notes to subordinate security interests on Odeon Group assets to other debt.",
+  "materiality": "Medium",
+  "investor_impact": "This technical amendment facilitates AMC's broader debt refinancing efforts by clearing collateral conflicts for the new debt offerings announced on February 23, 2026. It highlights management's ongoing efforts to restructure the balance sheet and manage the company's highly leveraged capital structure.",
+  "key_figures": [
+    "Senior Secured Notes due 2029",
+    "February 24, 2026",
+    "February 23, 2026",
+    "Muvico, LLC",
+    "Odeon Group",
+    "CSC Delaware Trust Company"
+  ]
+}

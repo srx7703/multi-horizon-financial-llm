@@ -1,0 +1,16 @@
+{
+  "ticker": "HUM",
+  "filing_date": "2026-04-20",
+  "event_type": "Annual Meeting Results",
+  "headline": "Humana Inc. announced the results of its 2026 Annual Meeting, including the election of all ten director nominees, approval of the 2026 Stock Incentive Plan, and rejection of a stockholder proposal regarding golden parachutes.",
+  "materiality": "Low",
+  "investor_impact": "Routine annual meeting results confirm stability in board composition and executive compensation structures. The rejection of the golden parachute shareholder proposal maintains management's flexibility in severance arrangements without altering the core investment thesis.",
+  "key_figures": [
+    "April 16, 2026 annual meeting date",
+    "107,941,773 shares present constituting a quorum",
+    "10 director nominees elected",
+    "PricewaterhouseCoopers LLP ratified as auditor for 2026",
+    "2026 Stock Incentive Plan approved with 97,655,200 votes for",
+    "Golden parachute proposal rejected with 59,079,279 votes against and 41,970,892 votes for"
+  ]
+}

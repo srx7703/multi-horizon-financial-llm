@@ -1,0 +1,23 @@
+{
+  "ticker": "ETSY",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$678.0 million (+2.4% YoY)",
+  "net_income": "Not provided in excerpt",
+  "key_metrics": [
+    "Gross merchandise sales (GMS)",
+    "Active buyers",
+    "Active sellers",
+    "Adjusted EBITDA and Adjusted EBITDA margin"
+  ],
+  "qoq_changes": [
+    "Not provided in excerpt"
+  ],
+  "new_risks": [
+    "Potential elimination of the de minimis exemption for commercial goods imported into the United States",
+    "Continued pressure on levels of consumer discretionary product spending",
+    "Impairment charges for goodwill and other long-lived tangible and intangible assets"
+  ],
+  "management_tone": "Cautious; management heavily emphasizes ongoing macroeconomic uncertainty, inflation, and continued pressure on consumer discretionary spending.",
+  "analyst_note": "Etsy achieved modest top-line growth of 2.4% YoY to $678M in Q3 2025, but faces significant overhangs from consumer discretionary softness and potential regulatory headwinds regarding cross-border trade exemptions."
+}

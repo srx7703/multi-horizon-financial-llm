@@ -1,0 +1,21 @@
+{
+  "ticker": "PG",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-12-31",
+  "revenue": "$22.21 billion (+1.5% YoY)",
+  "net_income": "$4.32 billion (-6.7% YoY)",
+  "key_metrics": [
+    "Diluted EPS: $1.78 (down from $1.88 YoY)",
+    "Operating Income: $5.37 billion (-6.5% YoY)",
+    "Cash and cash equivalents: $10.83 billion (up from $9.56 billion at June 30, 2025)"
+  ],
+  "qoq_changes": [
+    "Net sales decreased slightly sequentially to $22.21 billion from an implied $22.39 billion in the prior quarter.",
+    "Net earnings declined sequentially to $4.32 billion from an implied $4.75 billion in the prior quarter."
+  ],
+  "new_risks": [
+    "No specific new risks were disclosed in the provided excerpt, but financial data indicates emerging margin pressure as COGS and SG&A growth outpaced revenue growth."
+  ],
+  "management_tone": "Cautious, as modest top-line revenue growth was offset by rising operating costs, resulting in margin compression and lower year-over-year net earnings.",
+  "analyst_note": "P&G delivered modest top-line growth of 1.5% YoY, but faced margin pressures as operating income and net earnings declined by over 6% YoY. The sequential and year-over-year earnings contraction suggests a need to monitor cost controls and pricing power going forward."
+}

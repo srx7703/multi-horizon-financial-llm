@@ -1,0 +1,25 @@
+{
+  "ticker": "AMD",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-28",
+  "revenue": "$7.69 billion (+31.7% YoY)",
+  "net_income": "$872 million (+229.1% YoY)",
+  "key_metrics": [
+    "Gross Profit: $3.06 billion",
+    "Operating Loss: $134 million",
+    "Diluted EPS: $0.54",
+    "R&D Expenses: $1.89 billion"
+  ],
+  "qoq_changes": [
+    "Revenue grew to $7.69 billion from an implied $7.44 billion in Q1 2025",
+    "Net income grew to $872 million from an implied $709 million in Q1 2025",
+    "Assets held for sale surged to $4.33 billion from $0 at the end of FY2024"
+  ],
+  "new_risks": [
+    "GAAP operating margins turned negative (-$134 million) due to heavy R&D and acquisition-related amortization",
+    "Heavy reliance on an $834 million tax benefit to achieve positive net income for the quarter",
+    "Uncertainty surrounding a major new divestiture or restructuring, evidenced by $4.33 billion in assets held for sale"
+  ],
+  "management_tone": "Cautiously bullish; while top-line growth is exceptionally strong at 32% YoY, core operating profitability is masked by heavy acquisition amortization and a massive one-time tax benefit.",
+  "analyst_note": "AMD delivered strong Q2 2025 revenue of $7.69B (+32% YoY), but the $872M net income was entirely driven by an $834M tax benefit and discontinued operations. Core GAAP operating income swung to a $134M loss due to $1.89B in R&D and $568M in amortization, while the balance sheet reveals a major impending divestiture with $4.3B in assets held for sale."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "HLT",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$3.14 billion in Q2 2025 (First half 2025 total revenues of $5.83 billion, up 5.6% YoY)",
+  "net_income": "$442 million in Q2 2025, up 4.7% YoY from $422 million",
+  "key_metrics": [
+    "Operating Income: $778 million in Q2 2025 (up 7.3% YoY)",
+    "Diluted EPS: $1.84 in Q2 2025",
+    "Treasury Stock: Increased by $1.65 billion in 1H 2025, indicating aggressive share repurchases"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased significantly to $371 million from $1.30 billion at year-end 2024.",
+    "Long-term debt increased to $10.91 billion from $10.62 billion at year-end 2024."
+  ],
+  "new_risks": [
+    "Substantial depletion of cash reserves (down ~71% since year-end) limits near-term liquidity flexibility.",
+    "Increased leverage profile with long-term debt rising alongside aggressive cash deployment for share buybacks."
+  ],
+  "management_tone": "Bullish, as demonstrated by the aggressive deployment of over $1.6 billion toward share repurchases in the first half of the year alongside steady operating income growth.",
+  "analyst_note": "Hilton's Q2 2025 results show steady operational growth with operating income up 7.3% YoY and net income up 4.7%. However, the balance sheet reflects a highly aggressive capital return strategy, drawing down cash balances significantly to fund share repurchases, which warrants monitoring for future liquidity constraints."
+}

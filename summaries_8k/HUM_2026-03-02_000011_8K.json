@@ -1,0 +1,16 @@
+{
+  "ticker": "HUM",
+  "filing_date": "2026-03-02",
+  "event_type": "Guidance Update",
+  "headline": "Humana reaffirms its FY 2026 guidance of at least $8.89 in GAAP EPS and $9.00 in Adjusted EPS ahead of March investor meetings.",
+  "materiality": "Low",
+  "investor_impact": "Reaffirming previously issued guidance signals operational stability and confirms the company is tracking to plan, removing near-term uncertainty ahead of management's March conference circuit. While the lack of a guidance raise limits immediate upside catalysts, it protects against downside risk.",
+  "key_figures": [
+    "At least $8.89 FY 2026 GAAP diluted EPS guidance",
+    "At least $9.00 FY 2026 Adjusted EPS guidance",
+    "March 2, 2026 to March 31, 2026 (dates for investor and analyst meetings)",
+    "February 11, 2026 (date of previous press release issuing consistent guidance)",
+    "$0.15 amortization of identifiable intangibles",
+    "$(0.04) cumulative net tax impact"
+  ]
+}

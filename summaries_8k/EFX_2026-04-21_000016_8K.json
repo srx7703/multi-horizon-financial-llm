@@ -1,0 +1,14 @@
+{
+  "ticker": "EFX",
+  "filing_date": "2026-04-21",
+  "event_type": "Earnings",
+  "headline": "Equifax Inc. furnished its results of operations and financial condition via a press release.",
+  "materiality": "High",
+  "investor_impact": "As a standard earnings release, this filing is highly material and will drive near-term stock performance. Investors and analysts must review the attached Exhibit 99.1 to assess actual financial results against consensus estimates and update financial models accordingly.",
+  "key_figures": [
+    "April 21, 2026",
+    "Item 2.02",
+    "Exhibit 99.1",
+    "John W. Gamble, Jr."
+  ]
+}

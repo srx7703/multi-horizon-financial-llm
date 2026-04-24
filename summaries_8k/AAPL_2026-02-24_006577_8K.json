@@ -1,0 +1,16 @@
+{
+  "ticker": "AAPL",
+  "filing_date": "2026-02-24",
+  "event_type": "Annual Shareholder Meeting Results",
+  "headline": "Apple announces the results of its 2026 Annual Meeting of Shareholders, including the election of all eight director nominees and the rejection of a shareholder proposal regarding a China entanglement audit.",
+  "materiality": "Low",
+  "investor_impact": "The voting results reflect a routine annual meeting with strong shareholder support for the current board, executive compensation, and management's stance against the China entanglement audit. This signals continued stability and no immediate shifts in corporate governance or strategic oversight.",
+  "key_figures": [
+    "February 24, 2026 (Date of Annual Meeting)",
+    "8 directors elected (Wanda Austin, Tim Cook, Alex Gorsky, Andrea Jung, Art Levinson, Monica Lozano, Ron Sugar, Sue Wagner)",
+    "11,794,611,709 votes for ratifying Ernst & Young LLP as FY 2026 auditor",
+    "8,304,055,118 votes for approving executive compensation",
+    "8,927,137,986 votes for approving the Non-Employee Director Stock Plan",
+    "8,939,194,258 votes against the 'China Entanglement Audit' shareholder proposal"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "SCHW",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$6.14 billion, up 27% YoY",
+  "net_income": "$2.36 billion, up 67% YoY",
+  "key_metrics": [
+    "$11.59 trillion total client assets",
+    "$137.5 billion core net new client assets",
+    "37.96 million active brokerage accounts",
+    "49.2% pre-tax profit margin",
+    "$1.31 adjusted diluted EPS"
+  ],
+  "qoq_changes": [
+    "Daily average trades (DATs) declined slightly from the second quarter of 2025"
+  ],
+  "new_risks": [
+    "Lower yields on interest-earning assets due to a 25 basis point Federal Reserve rate cut in September",
+    "Net outflows of $3.1 billion from off-platform brokered certificates of deposit (CDs)"
+  ],
+  "management_tone": "Bullish, as management highlighted strong client asset gathering, sustained client engagement, and record equity market levels driving significant revenue and earnings growth.",
+  "analyst_note": "Schwab delivered a highly profitable Q3 2025 with net income surging 67% YoY, fueled by $137.5 billion in core net new assets, reduced reliance on costly supplemental funding, and strong equity markets, positioning the firm well despite a shifting interest rate environment."
+}

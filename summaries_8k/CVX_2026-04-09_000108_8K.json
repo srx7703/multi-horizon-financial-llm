@@ -1,0 +1,17 @@
+{
+  "ticker": "CVX",
+  "filing_date": "2026-04-09",
+  "event_type": "Guidance Update",
+  "headline": "Chevron provides preliminary Q1 2026 financial update detailing significant negative timing effects and working capital outflows, partially offset by upstream commodity price benefits.",
+  "materiality": "High",
+  "investor_impact": "The substantial $2.7-$3.7 billion negative timing effect and $2-$4 billion working capital outflow will heavily impact Q1 reported cash flows, though management notes these should unwind in future periods. Investors will likely look past the accounting noise to focus on the $1.6-$2.2 billion upstream price benefit and monitor the production headwinds from Tengizchevroil and Middle East downtime.",
+  "key_figures": [
+    "Timing effects: $(2.7) to $(3.7) billion",
+    "Working capital outflow: $(2.0) to $(4.0) billion",
+    "Upstream commodity price impacts: $1.6 to $2.2 billion",
+    "Upstream net oil-equivalent production: 3.8 to 3.9 MMBOED",
+    "Legal matter charge: $(350) to $(400) million",
+    "Weighted-average shares outstanding: 1.98 billion",
+    "Financing cash inflows from stock options: $1 billion"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ticker": "F",
+  "filing_date": "2026-03-13",
+  "event_type": "Share Repurchase Program",
+  "headline": "Ford Motor Company announced an anti-dilutive share repurchase program of up to 31.7 million shares to offset dilution from share-based compensation and convertible note settlements.",
+  "materiality": "Low",
+  "investor_impact": "This is a standard corporate housekeeping measure that will prevent EPS drag from 2026 stock-based compensation and the upcoming convertible note settlement. It signals prudent capital management but does not represent a net-new return of capital to shareholders.",
+  "key_figures": [
+    "31.7 million shares authorized for repurchase",
+    "0.00% Senior Convertible Notes due March 15, 2026"
+  ]
+}

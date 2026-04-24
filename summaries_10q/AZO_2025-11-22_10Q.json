@@ -1,0 +1,23 @@
+{
+  "ticker": "AZO",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-11-22",
+  "revenue": "$4.63 billion (+8.2% YoY)",
+  "net_income": "$530.8 million (-6.0% YoY)",
+  "key_metrics": [
+    "Gross Profit: $2.36 billion (+4.0% YoY)",
+    "Diluted EPS: $31.04 (-4.6% YoY)",
+    "Share Repurchases: $427.2 million"
+  ],
+  "qoq_changes": [
+    "Net sales increased 8.2% YoY to $4.63 billion.",
+    "Operating profit decreased 6.8% YoY to $784.2 million.",
+    "Operating, selling, general and administrative expenses increased 10.4% YoY to $1.58 billion."
+  ],
+  "new_risks": [
+    "SG&A expense growth (10.4%) outpaced revenue growth (8.2%), leading to operating margin compression.",
+    "A newly recorded $98 million 'Other non-cash charge' weighed heavily on profitability metrics."
+  ],
+  "management_tone": "Cautious, as solid top-line revenue growth was overshadowed by rising SG&A expenses and significant non-cash charges that drove a year-over-year decline in net income.",
+  "analyst_note": "AutoZone demonstrated resilient demand with an 8.2% increase in net sales, but profitability was pressured by a 10.4% rise in SG&A and an unexplained $98 million non-cash charge. Investors should seek clarity on the nature of this non-cash charge and management's strategy to rein in operating expenses to protect margins."
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "JPM",
+  "filing_date": "2026-02-05",
+  "event_type": "Debt Offering",
+  "headline": "JPMorgan Chase closed a $3 billion public offering of Fixed-to-Floating Rate Subordinated Notes due 2037.",
+  "materiality": "Low",
+  "investor_impact": "This $3 billion subordinated debt issuance is a routine liability management exercise likely aimed at optimizing the bank's Tier 2 capital and TLAC (Total Loss-Absorbing Capacity) requirements. It has minimal direct impact on the equity investment thesis but demonstrates continued strong access to debt capital markets.",
+  "key_figures": [
+    "$3,000,000,000 aggregate principal amount",
+    "Fixed-to-Floating Rate Subordinated Notes due 2037",
+    "February 5, 2026"
+  ]
+}

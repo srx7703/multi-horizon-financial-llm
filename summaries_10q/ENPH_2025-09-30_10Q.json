@@ -1,0 +1,22 @@
+{
+  "ticker": "ENPH",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$410.4 million (+7.8% YoY)",
+  "net_income": "$66.6 million (+45.6% YoY)",
+  "key_metrics": [
+    "Gross profit of $196.2 million (+10.1% YoY)",
+    "Cash, cash equivalents, and marketable securities of $1.48 billion",
+    "Operating income of $66.2 million (+32.9% YoY)"
+  ],
+  "qoq_changes": [
+    "Sequential QoQ financial data not explicitly provided in the excerpt",
+    "YTD inventory increased to $188.7 million from $165.0 million at year-end 2024",
+    "YTD total debt decreased to $1.20 billion from $1.30 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Specific new risks are not disclosed in the provided excerpt (Item 1A omitted)"
+  ],
+  "management_tone": "Bullish but disciplined; the company achieved significant net income growth and margin expansion while executing minor restructuring to optimize operations.",
+  "analyst_note": "Enphase delivered a strong Q3 2025, translating 7.8% revenue growth into a 45.6% surge in net income through disciplined cost management and improved gross margins. The balance sheet remains robust with nearly $1.5 billion in liquidity, providing a solid buffer against broader solar market volatility."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "HLT",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$3,120 million in Q3 2025 (9-month revenue up 6.7% YoY to $8,952 million)",
+  "net_income": "$421 million in Q3 2025, up 22.4% YoY from $344 million in Q3 2024",
+  "key_metrics": [
+    "Franchise and licensing fees: $739 million",
+    "Operating income: $777 million (up 24.7% YoY)",
+    "Cash and cash equivalents: $1,057 million"
+  ],
+  "qoq_changes": [
+    "Operating income increased 24.7% YoY to $777 million",
+    "Net income increased 22.4% YoY to $421 million",
+    "Cash and cash equivalents decreased to $1,057 million from $1,301 million at year-end 2024"
+  ],
+  "new_risks": [
+    "No new risk factors were disclosed in the provided excerpt (Item 1A omitted)"
+  ],
+  "management_tone": "Bullish; the company demonstrated strong operating leverage and profitability, with net income growing over 22% year-over-year.",
+  "analyst_note": "Hilton's Q3 2025 results highlight the resilience of its fee-based, asset-light model, driving a 24.7% YoY increase in operating income to $777 million. The 6.7% top-line growth over the first nine months underscores steady demand and effective cost management."
+}

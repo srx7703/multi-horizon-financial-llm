@@ -1,0 +1,13 @@
+{
+  "ticker": "JPM",
+  "filing_date": "2026-04-14",
+  "event_type": "Earnings",
+  "headline": "JPMorgan Chase & Co. released its first quarter 2026 earnings presentation materials.",
+  "materiality": "High",
+  "investor_impact": "The release of Q1 2026 earnings materials provides critical updates on the firm's financial performance, balance sheet health, and forward-looking guidance, directly impacting near-term valuation and investment models.",
+  "key_figures": [
+    "April 14, 2026",
+    "1Q26",
+    "Exhibit 99"
+  ]
+}

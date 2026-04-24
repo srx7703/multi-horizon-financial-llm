@@ -1,0 +1,23 @@
+{
+  "ticker": "EFX",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-31",
+  "revenue": "$1,648.9 million (+14.3% YoY from $1,442.0 million)",
+  "net_income": "$171.5 million (+28.8% YoY from $133.1 million)",
+  "key_metrics": [
+    "Diluted EPS of $1.42, up 34% YoY from $1.06",
+    "Operating income of $287.7 million, up 22% YoY from $235.8 million",
+    "Dividends per common share increased to $0.56 from $0.39 YoY"
+  ],
+  "qoq_changes": [
+    "Short-term debt and current maturities increased by $214.5 million to $1,252.5 million",
+    "Accrued salaries and bonuses decreased significantly to $142.5 million from $286.1 million",
+    "Trade accounts receivable increased to $1,071.9 million from $1,012.7 million"
+  ],
+  "new_risks": [
+    "Continued exposure to U.S. mortgage market volatility driven by fluctuating interest rates and inflation levels",
+    "Execution and operational risks tied to the integration of artificial intelligence and ongoing data security infrastructure improvements"
+  ],
+  "management_tone": "Cautiously optimistic, as management delivered strong double-digit top and bottom-line growth but continues to flag macroeconomic uncertainties regarding inflation and the U.S. mortgage market.",
+  "analyst_note": "Equifax posted a robust Q1 2026, highlighted by 14.3% revenue growth and significant margin expansion leading to a 28.8% increase in net income. However, investors should monitor the rising short-term debt levels and the company's ongoing sensitivity to interest rates affecting mortgage origination volumes."
+}

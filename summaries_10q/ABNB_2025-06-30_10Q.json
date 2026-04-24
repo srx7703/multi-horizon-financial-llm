@@ -1,0 +1,25 @@
+{
+  "ticker": "ABNB",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$3.10 billion (+12.7% YoY)",
+  "net_income": "$642 million (+15.7% YoY)",
+  "key_metrics": [
+    "Nights and Seats Booked",
+    "Gross Booking Value (GBV)",
+    "Average Daily Rate (ADR)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $7.40 billion from $6.86 billion at year-end 2024",
+    "Funds held on behalf of customers surged to $11.07 billion from $5.93 billion, indicating strong seasonal bookings",
+    "Unearned fees increased to $2.86 billion from $1.62 billion",
+    "$2.0 billion of long-term debt was reclassified as a current liability"
+  ],
+  "new_risks": [
+    "Increasing regulatory restrictions and laws limiting hosts' ability to provide listings",
+    "Macroeconomic pressures including inflation, tariffs, and foreign currency fluctuations",
+    "Potential disruptions to global travel from geopolitical conflicts"
+  ],
+  "management_tone": "Cautiously optimistic; management is focused on global expansion and multi-year product investments, but remains highly vigilant regarding macroeconomic headwinds and municipal regulatory challenges.",
+  "analyst_note": "Airbnb posted a solid Q2 2025, with revenue growing 12.7% YoY to $3.10 billion and net income up 15.7% to $642 million. A massive sequential increase in customer funds and unearned fees points to a very strong summer travel pipeline, though the upcoming maturity of $2 billion in debt and ongoing regulatory battles remain key areas to monitor."
+}

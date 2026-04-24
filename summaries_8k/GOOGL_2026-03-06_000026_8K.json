@@ -1,0 +1,17 @@
+{
+  "ticker": "GOOGL",
+  "filing_date": "2026-03-06",
+  "event_type": "Executive Compensation",
+  "headline": "Alphabet Board approves a new triennial equity compensation package for CEO Sundar Pichai, featuring novel performance units tied specifically to the valuation growth of Waymo and Wing.",
+  "materiality": "High",
+  "investor_impact": "The unprecedented inclusion of $175 million in performance units tied directly to Waymo and Wing valuations strongly signals management's focus on commercializing and unlocking sum-of-the-parts value from its later-stage 'Other Bets'. This heavily aligns the CEO's incentives with long-term shareholder value creation and potential future monetization events for these autonomous technology assets.",
+  "key_figures": [
+    "March 4, 2026 (compensation approval date)",
+    "$2,000,000 annual base salary (unchanged)",
+    "$126,000,000 target value in Alphabet PSUs (two $63,000,000 tranches)",
+    "$84,000,000 target value in Alphabet GSUs",
+    "$130,000,000 target value in Waymo Bet Performance Units (BPUs)",
+    "$45,000,000 target value in Wing Bet Performance Units (BPUs)",
+    "0%-200% potential payout range for both PSUs and BPUs based on performance targets"
+  ]
+}

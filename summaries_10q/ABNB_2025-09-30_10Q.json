@@ -1,0 +1,24 @@
+{
+  "ticker": "ABNB",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$4,095 million (up 9.7% YoY)",
+  "net_income": "$1,374 million (up 0.4% YoY)",
+  "key_metrics": [
+    "Nights and Seats Booked",
+    "Gross Booking Value (GBV)",
+    "Average Daily Rate (ADR)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $7.53 billion from $6.86 billion at year-end 2024",
+    "Approximately $2.0 billion of long-term debt was reclassified entirely to current liabilities",
+    "Funds receivable and amounts held on behalf of customers increased to $7.21 billion from $5.93 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Intensifying regulatory scrutiny and local laws limiting hosts' ability to provide listings",
+    "Macroeconomic pressures including inflation, tariffs, and geopolitical conflicts impacting travel demand",
+    "Foreign currency exchange rate fluctuations affecting cash balances and operational results"
+  ],
+  "management_tone": "Cautiously optimistic; management emphasizes continued investments in global expansion and product innovation while acknowledging significant macroeconomic and regulatory headwinds.",
+  "analyst_note": "Airbnb delivered steady Q3 2025 results with estimated revenue growth of 9.7% YoY and flat net income, though the reclassification of $2 billion in long-term debt to current liabilities warrants attention for near-term capital allocation and refinancing strategies."
+}

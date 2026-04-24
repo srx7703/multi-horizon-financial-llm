@@ -1,0 +1,18 @@
+{
+  "ticker": "AXP",
+  "filing_date": "2026-04-15",
+  "event_type": "Credit Metrics Update",
+  "headline": "American Express reported March 2026 credit metrics, highlighting stable delinquency rates alongside a modest sequential increase in net write-offs for U.S. Consumer and Small Business loans.",
+  "materiality": "Medium",
+  "investor_impact": "Stable 30-day past due rates indicate that early-stage credit stress remains contained among AXP's premium customer base. However, the sequential creep in net write-off rates (Consumer reaching 2.2% and Small Business reaching 2.9%) will keep investors focused on credit normalization trends and potential impacts on provision expenses in upcoming earnings.",
+  "key_figures": [
+    "U.S. Consumer total loans: $97.5 billion (March 2026)",
+    "U.S. Consumer 30 days past due rate: 1.4% (flat Jan-Mar 2026)",
+    "U.S. Consumer net write-off rate: 2.2% in March (up from 2.0% in Feb)",
+    "U.S. Small Business total loans: $32.2 billion (March 2026)",
+    "U.S. Small Business 30 days past due rate: 1.7% (flat Jan-Mar 2026)",
+    "U.S. Small Business net write-off rate: 2.9% in March (up from 2.8% in Feb)",
+    "Total Card Member loans held for investment: $129.7 billion",
+    "Lending Trust annualized default rate: 1.2% in March (down from 1.3% in Feb)"
+  ]
+}

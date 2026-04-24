@@ -1,0 +1,15 @@
+{
+  "ticker": "DAL",
+  "filing_date": "2026-01-27",
+  "event_type": "Material Agreement",
+  "headline": "Delta Air Lines entered into a definitive agreement with Airbus to purchase 31 widebody aircraft, with options for 20 more, with deliveries beginning in 2029.",
+  "materiality": "Medium",
+  "investor_impact": "This fleet expansion secures Delta's long-term widebody capacity and modernization strategy without altering near-term capex guidance. The secured long-term financing and alignment with existing capacity targets provide visibility into the company's international growth plans starting in 2029.",
+  "key_figures": [
+    "16 Airbus A330-900 aircraft",
+    "15 Airbus A350-900 aircraft",
+    "Option to purchase up to an additional 20 widebody aircraft",
+    "Deliveries begin in 2029",
+    "Trent 7000 and Trent XWB-84 EP engines manufactured by Rolls-Royce"
+  ]
+}

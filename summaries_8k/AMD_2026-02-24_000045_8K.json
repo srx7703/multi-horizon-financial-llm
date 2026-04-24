@@ -1,0 +1,17 @@
+{
+  "ticker": "AMD",
+  "filing_date": "2026-02-24",
+  "event_type": "Material Agreement",
+  "headline": "AMD entered into a strategic agreement with Meta Platforms, issuing a performance-based warrant for up to 160 million shares tied to Meta's commitment to purchase up to 6 gigawatt equivalents of AMD Instinct GPUs.",
+  "materiality": "High",
+  "investor_impact": "This agreement provides massive revenue visibility and validates AMD's AI GPU roadmap by securing Meta as a major anchor customer. Although the 160 million share warrant introduces dilution, the escalating stock price vesting thresholds up to $600 per share align Meta's incentives with AMD's long-term shareholder value creation.",
+  "key_figures": [
+    "160 million shares of common stock",
+    "$0.01 per share exercise price",
+    "1 gigawatt equivalent initial GPU purchase commitment",
+    "6 gigawatt equivalent GPU purchase for full vesting",
+    "$600 per share final tranche stock price threshold",
+    "February 23, 2031 warrant expiration date",
+    "Meta Platforms, Inc."
+  ]
+}

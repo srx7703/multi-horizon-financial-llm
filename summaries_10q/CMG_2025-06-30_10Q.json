@@ -1,0 +1,22 @@
+{
+  "ticker": "CMG",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$3.06 billion, up 3.0% YoY from $2.97 billion",
+  "net_income": "$436.1 million, down 4.3% YoY from $455.7 million",
+  "key_metrics": [
+    "Diluted EPS of $0.32, down from $0.33 YoY",
+    "Income from operations of $559.1 million, down 4.6% YoY",
+    "Delivery service revenue of $15.6 million, down 14.1% YoY"
+  ],
+  "qoq_changes": [
+    "Net income increased 12.8% QoQ from $386.6 million in Q1 2025 to $436.1 million in Q2 2025",
+    "Share repurchases decreased QoQ to $440.6 million from $591.5 million in Q1 2025"
+  ],
+  "new_risks": [
+    "Margin compression driven by rising labor costs ($756.3M vs $716.6M YoY) and other operating costs ($428.7M vs $384.8M YoY)",
+    "Continued deterioration in delivery service revenue, indicating potential weakness or consumer shift away from the delivery channel"
+  ],
+  "management_tone": "Cautious, as modest top-line revenue growth was overshadowed by rising labor and operating costs that compressed margins and drove a YoY decline in net income.",
+  "analyst_note": "Chipotle posted a mixed quarter with 3% revenue growth offset by a 4.3% drop in net income due to persistent cost pressures. Investors should monitor the rising labor expenses and the double-digit decline in delivery revenue, which are currently weighing on operating margins despite aggressive share repurchases."
+}

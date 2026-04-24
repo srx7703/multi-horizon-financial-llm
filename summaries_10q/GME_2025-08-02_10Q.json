@@ -1,0 +1,24 @@
+{
+  "ticker": "GME",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-08-02",
+  "revenue": "$972.2 million (up 21.8% YoY from $798.3 million)",
+  "net_income": "$168.6 million (up from $14.8 million YoY)",
+  "key_metrics": [
+    "Cash and cash equivalents: $8.69 billion",
+    "Digital assets: $528.6 million",
+    "Long-term debt: $4.16 billion",
+    "Gross profit: $283.1 million (29.1% margin)"
+  ],
+  "qoq_changes": [
+    "Cash balance nearly doubled sequentially to $8.69 billion following a $4.2 billion convertible debt issuance.",
+    "Initiated a new digital asset position, purchasing $500 million in digital assets during the period.",
+    "Classified $177.0 million in assets and $151.7 million in liabilities as held for sale, indicating a pending divestiture."
+  ],
+  "new_risks": [
+    "Significant new exposure to cryptocurrency/digital asset volatility following a $500 million purchase.",
+    "Substantial increase in leverage and interest rate risk with $4.16 billion in new long-term convertible debt."
+  ],
+  "management_tone": "Neutral to bullish; management is aggressively fortifying the balance sheet and diversifying into digital assets, signaling a strategic pivot away from relying solely on legacy retail operations.",
+  "analyst_note": "GameStop's quarter is defined by a radical balance sheet transformation, raising $4.2 billion in convertible debt to amass an $8.7 billion cash pile and initiating a $500 million digital asset position. While retail revenue grew 22% YoY and net income surged, the company's future risk profile and valuation are now heavily tied to its capital allocation and crypto strategy rather than traditional gaming retail."
+}

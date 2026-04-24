@@ -1,0 +1,13 @@
+{
+  "ticker": "GME",
+  "filing_date": "2026-03-24",
+  "event_type": "Earnings",
+  "headline": "GameStop Corp. issued a press release announcing its financial results for the fourth quarter and fiscal year ended January 31, 2026.",
+  "materiality": "High",
+  "investor_impact": "This earnings release is a primary catalyst for the stock, providing critical visibility into GameStop's holiday quarter performance and full-year profitability. Investors will closely scrutinize the underlying financials for signs of successful turnaround execution, revenue stabilization, and cash flow generation.",
+  "key_figures": [
+    "March 24, 2026",
+    "January 31, 2026",
+    "Daniel Moore"
+  ]
+}

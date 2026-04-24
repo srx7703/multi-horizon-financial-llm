@@ -1,0 +1,13 @@
+{
+  "ticker": "CRM",
+  "filing_date": "2026-03-16",
+  "event_type": "Share Repurchase",
+  "headline": "Salesforce announced the prepayment and initial share delivery under its massive $25 billion accelerated share repurchase agreements.",
+  "materiality": "High",
+  "investor_impact": "The execution of this $25 billion accelerated share repurchase (ASR) program will significantly reduce the outstanding share count, providing a strong accretive tailwind to EPS. This aggressive capital return strategy signals management's high conviction in the company's valuation and ongoing free cash flow generation.",
+  "key_figures": [
+    "$25 billion aggregate share repurchase",
+    "March 16, 2026 (prepayment and initial share delivery date)",
+    "March 11, 2026 (ASR agreement date)"
+  ]
+}

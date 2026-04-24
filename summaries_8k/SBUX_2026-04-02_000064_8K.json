@@ -1,0 +1,14 @@
+{
+  "ticker": "SBUX",
+  "filing_date": "2026-04-02",
+  "event_type": "M&A",
+  "headline": "Starbucks completed its joint venture transaction with Boyu Capital, divesting a 60% interest in its China retail operations.",
+  "materiality": "High",
+  "investor_impact": "The completion of this joint venture significantly shifts Starbucks' strategy in its second-largest market from a company-owned model to a capital-light licensing approach. This de-risks the company's exposure to Chinese macroeconomic volatility while preserving brand upside through its 40% retained stake and licensing revenue.",
+  "key_figures": [
+    "60% interest in China retail operations acquired by Boyu Capital",
+    "40% interest retained by Starbucks",
+    "November 3, 2025 (initial agreement date)",
+    "April 2, 2026 (transaction completion date)"
+  ]
+}

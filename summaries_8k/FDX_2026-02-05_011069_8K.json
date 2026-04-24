@@ -1,0 +1,16 @@
+{
+  "ticker": "FDX",
+  "filing_date": "2026-02-05",
+  "event_type": "Debt Issuance",
+  "headline": "FedEx Freight Holding Company issued $3.7 billion in senior notes across four tranches in preparation for its planned spin-off from FedEx Corporation.",
+  "materiality": "High",
+  "investor_impact": "This $3.7 billion debt raise establishes the standalone capital structure for FedEx Freight, marking a critical execution milestone toward the planned spin-off. The successful placement provides visibility into the subsidiary's cost of debt and paves the way for the distribution of at least 80.1% of its shares, likely unlocking sum-of-the-parts valuation upside for FDX shareholders.",
+  "key_figures": [
+    "$3.7 billion total debt issued",
+    "$1.0 billion of 4.300% Senior Notes due 2029",
+    "$1.0 billion of 4.650% Senior Notes due 2031",
+    "$700 million of 4.950% Senior Notes due 2033",
+    "$1.0 billion of 5.250% Senior Notes due 2036",
+    "80.1% minimum common stock distribution required for the Spin-Off"
+  ]
+}

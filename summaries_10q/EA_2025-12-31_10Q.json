@@ -1,0 +1,22 @@
+{
+  "ticker": "EA",
+  "fiscal_period": "Q3 FY26",
+  "period_end": "2025-12-31",
+  "revenue": "$1,901 million (+1.0% YoY)",
+  "net_income": "$88 million (-70.0% YoY)",
+  "key_metrics": [
+    "Gross Profit: $1,403 million",
+    "Total Operating Expenses: $1,276 million",
+    "Deferred Net Revenue (online-enabled games): $2,490 million",
+    "Operating Cash Flow (9-month): $1,973 million"
+  ],
+  "qoq_changes": [
+    "Deferred net revenue increased significantly to $2,490 million from $1,700 million at the end of the prior fiscal year (March 31, 2025).",
+    "Cash and cash equivalents grew to $2,784 million from $2,136 million at March 31, 2025."
+  ],
+  "new_risks": [
+    "Severe margin compression risk emerged this quarter, as surging R&D ($704M vs $606M YoY) and Marketing ($356M vs $251M YoY) expenses drove a 70% decline in net income despite flat top-line revenue."
+  ],
+  "management_tone": "Neutral; while GAAP profitability took a significant hit from rising operating costs, strong cash flow generation and deferred revenue growth indicate underlying franchise health.",
+  "analyst_note": "EA's quarter reflects heavy investment in R&D and marketing, which crushed GAAP net income (-70% YoY) despite stable revenue. However, a massive $790M build in deferred revenue and nearly $2B in 9-month operating cash flow suggest strong bookings momentum that will convert to recognized revenue in future periods."
+}

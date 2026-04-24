@@ -1,0 +1,13 @@
+{
+  "ticker": "CB",
+  "filing_date": "2026-04-21",
+  "event_type": "Earnings",
+  "headline": "Chubb Limited issued a press release reporting its first quarter 2026 financial results.",
+  "materiality": "High",
+  "investor_impact": "This earnings release provides essential updates on Chubb's quarterly financial performance and operational metrics. Analysts will review the attached financial supplement to adjust forward-looking estimates and evaluate underwriting margins.",
+  "key_figures": [
+    "April 21, 2026",
+    "First quarter 2026",
+    "Peter Enns"
+  ]
+}

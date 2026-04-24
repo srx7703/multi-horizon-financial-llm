@@ -1,0 +1,23 @@
+{
+  "ticker": "AMZN",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$180.17 billion (+13.4% YoY)",
+  "net_income": "$21.19 billion (+38.2% YoY)",
+  "key_metrics": [
+    "Operating income of $17.42 billion (flat YoY compared to $17.41 billion)",
+    "Diluted EPS of $1.95 (up from $1.43 in Q3 2024)",
+    "9-month YTD Capital Expenditures of $120.13 billion (up 72.2% YoY)"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $727.92 billion from $624.89 billion at year-end 2024",
+    "Cash and cash equivalents decreased to $66.92 billion from $78.78 billion at year-end 2024",
+    "Long-term debt decreased slightly to $50.74 billion from $52.62 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Significant acceleration in capital expenditures and technology/infrastructure costs (up 30.2% YoY), likely pressuring near-term free cash flow margins",
+    "Total operating expenses grew 15% YoY, outpacing revenue growth and resulting in flat operating income despite strong top-line growth"
+  ],
+  "management_tone": "Bullish on growth but investment-heavy, evidenced by strong double-digit revenue and net income growth paired with massive infrastructure spending.",
+  "analyst_note": "Amazon's Q3 2025 shows robust top-line momentum and bottom-line expansion, but flat operating income and a massive $120B YTD CapEx bill highlight an aggressive, margin-dilutive investment cycle likely tied to generative AI and AWS infrastructure."
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "UNH",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$111.62 billion, up 12.9% YoY",
+  "net_income": "$3.41 billion, down 19.2% YoY",
+  "key_metrics": [
+    "Diluted EPS: $3.74 (down from $4.54 in Q2 2024)",
+    "Medical costs: $78.59 billion (up 20.1% YoY)",
+    "Earnings from operations: $5.15 billion (down 34.6% YoY)"
+  ],
+  "qoq_changes": [
+    "Total revenues increased sequentially to $111.6 billion in Q2 from an implied $109.6 billion in Q1 2025.",
+    "Net earnings attributable to shareholders declined sharply to $3.41 billion in Q2 from an implied $6.29 billion in Q1 2025.",
+    "Operating margins compressed sequentially due to escalating medical costs."
+  ],
+  "new_risks": [
+    "Severe margin compression as medical cost growth (20.1%) significantly outpaced premium revenue growth (14.3%).",
+    "Continued financial impacts from the disposition of subsidiaries, recording a $41 million loss in the quarter."
+  ],
+  "management_tone": "Cautious; while top-line revenue growth remains robust at nearly 13%, severe margin contraction from escalating medical costs is heavily weighing on bottom-line profitability.",
+  "analyst_note": "UNH's Q2 2025 results highlight a challenging operating environment where strong double-digit revenue growth was overshadowed by a 20% surge in medical costs. The resulting 19% YoY drop in net income suggests persistent medical utilization headwinds that will likely remain an overhang on the stock until premium pricing catches up."
+}

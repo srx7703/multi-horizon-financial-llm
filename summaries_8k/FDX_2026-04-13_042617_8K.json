@@ -1,0 +1,16 @@
+{
+  "ticker": "FDX",
+  "filing_date": "2026-04-13",
+  "event_type": "Executive Change",
+  "headline": "FedEx announces the departure of CFO John W. Dietrich and the appointment of Claude F. Russ as Interim CFO, effective June 1, 2026.",
+  "materiality": "High",
+  "investor_impact": "The departure of CFO John Dietrich introduces near-term leadership uncertainty, though the explicit statement of no financial disagreements provides some downside protection. Investors will closely monitor the search for a permanent successor and rely on Interim CFO Claude Russ to maintain financial discipline during the transition.",
+  "key_figures": [
+    "John W. Dietrich (Departing CFO)",
+    "Claude F. Russ (Interim CFO, age 50)",
+    "June 1, 2026 (Date Dietrich steps down and Russ assumes Interim CFO role)",
+    "July 31, 2026 (Date of Dietrich's final departure)",
+    "$25,000 (Additional monthly cash compensation for Russ)",
+    "$50,000 (One-time RSU award for Russ vesting over 3 years)"
+  ]
+}

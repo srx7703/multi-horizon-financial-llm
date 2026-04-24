@@ -1,0 +1,25 @@
+{
+  "ticker": "T",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$30.71 billion, up 1.6% YoY from $30.21 billion",
+  "net_income": "$9.31 billion, a significant turnaround from a net loss of $174 million YoY",
+  "key_metrics": [
+    "Service Revenue: $25.34 billion",
+    "Equipment Revenue: $5.37 billion",
+    "Operating Income: $6.12 billion",
+    "Diluted EPS: $1.29",
+    "Cash and Cash Equivalents: $20.27 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents surged to $20.27 billion from $3.30 billion at year-end 2024",
+    "Long-term debt increased to $128.09 billion from $118.44 billion at year-end 2024",
+    "Sequential Q-o-Q data is not explicitly provided, but year-to-date trends show strong margin recovery"
+  ],
+  "new_risks": [
+    "Long-term debt increased by nearly $10 billion since year-end 2024, which may impact future interest expenses",
+    "Qualitative MD&A and specific new risk factors were not included in the provided financial statement excerpt"
+  ],
+  "management_tone": "Bullish, as the company demonstrated a massive return to profitability, steady top-line growth, and a substantial buildup in cash reserves.",
+  "analyst_note": "AT&T's Q3 2025 results highlight a dramatic profitability turnaround, driven by steady revenue growth and the absence of prior-year asset impairments. The massive increase in cash reserves to $20.3 billion provides substantial liquidity, though the $10 billion increase in long-term debt warrants ongoing monitoring."
+}

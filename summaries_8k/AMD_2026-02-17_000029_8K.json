@@ -1,0 +1,22 @@
+{
+  "ticker": "AMD",
+  "filing_date": "2026-02-17",
+  "event_type": "Executive Compensation",
+  "headline": "AMD approves fiscal 2025 executive cash bonuses and grants CEO Lisa Su a $75 million performance-based long-term equity award.",
+  "materiality": "High",
+  "investor_impact": "The $75 million special equity grant for CEO Lisa Su heavily incentivizes long-term retention and massive shareholder value creation, requiring a $600 stock price to achieve the maximum 200% payout. This structure signals strong board confidence in AMD's strategic roadmap and ensures critical leadership continuity through 2031.",
+  "key_figures": [
+    "Lisa T. Su 2025 Bonus: $3,125,430",
+    "Jean Hu 2025 Bonus: $1,179,750",
+    "Mark Papermaster 2025 Bonus: $1,293,187",
+    "Forrest Norrod 2025 Bonus: $1,157,062",
+    "Ava Hahn 2025 Bonus: $738,100",
+    "CEO Value Creation Equity Award Target: $75 million",
+    "Performance Period: March 15, 2026 to March 15, 2031",
+    "Tranche 1 Hurdle (50% payout): 10% 5-Year CAGR",
+    "Tranche 2 Hurdle (100% payout): 15% 5-Year CAGR",
+    "Tranche 3 Hurdle (150% payout): 17.5% 5-Year CAGR",
+    "Tranche 4 Hurdle (200% payout): $600 stock price",
+    "All-time stock price high considered: $267.08"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "ABBV",
+  "filing_date": "2026-04-03",
+  "event_type": "Guidance Update",
+  "headline": "AbbVie updated its Q1 and full-year 2026 earnings guidance to include a $744 million pre-tax expense for acquired IPR&D and milestones.",
+  "materiality": "Medium",
+  "investor_impact": "While the $0.41 EPS reduction is a notable headline, it stems from acquired IPR&D and milestone expenses which are standard for AbbVie's business development activities and typically excluded from initial forecasts. Investors will likely look past this accounting adjustment, though near-term consensus models must be recalibrated to the new $13.96-$14.16 FY26 EPS range.",
+  "key_figures": [
+    "$744 million pre-tax acquired IPR&D and milestones expense",
+    "$0.41 unfavorable impact to GAAP and adjusted non-GAAP diluted EPS",
+    "$13.96 - $14.16 updated full-year 2026 adjusted diluted EPS guidance",
+    "$2.56 - $2.60 updated first quarter 2026 adjusted diluted EPS guidance"
+  ]
+}

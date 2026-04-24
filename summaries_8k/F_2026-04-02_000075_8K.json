@@ -1,0 +1,12 @@
+{
+  "ticker": "F",
+  "filing_date": "2026-04-02",
+  "event_type": "Sales Update",
+  "headline": "Ford Motor Company filed a news release reporting its U.S. sales figures for the first quarter of 2026.",
+  "materiality": "Medium",
+  "investor_impact": "The Q1 2026 U.S. sales data provides critical early insight into consumer demand and inventory levels, directly impacting near-term revenue modeling and sentiment ahead of the full earnings release.",
+  "key_figures": [
+    "April 2, 2026",
+    "first quarter of 2026"
+  ]
+}

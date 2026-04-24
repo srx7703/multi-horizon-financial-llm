@@ -1,0 +1,23 @@
+{
+  "ticker": "BAC",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$28.09 billion (up sequentially from $26.46 billion; 9-month revenue up 7.0% YoY)",
+  "net_income": "$8.47 billion (up sequentially from $7.12 billion; 9-month net income up 12.3% YoY)",
+  "key_metrics": [
+    "Diluted EPS of $1.06 (up from $0.81 in Q3 2024)",
+    "Return on average tangible common shareholders' equity (ROTCE) of 15.43%",
+    "Provision for credit losses of $1.30 billion"
+  ],
+  "qoq_changes": [
+    "Total revenue increased to $28.09 billion from $26.46 billion in Q2 2025",
+    "Net income grew to $8.47 billion from $7.12 billion in Q2 2025",
+    "Provision for credit losses decreased to $1.30 billion from $1.59 billion in Q2 2025"
+  ],
+  "new_risks": [
+    "Ongoing consumer and commercial credit risk exposure, maintaining a $1.30 billion provision for credit losses",
+    "Continued monitoring of climate risk and interest rate risk in the banking book"
+  ],
+  "management_tone": "Bullish, driven by strong sequential growth in revenue and net income, alongside a reduction in quarter-over-quarter credit loss provisions.",
+  "analyst_note": "Bank of America delivered a strong Q3 2025, marked by $28.1 billion in revenue and a solid 15.43% ROTCE. The sequential decline in credit loss provisions suggests stabilizing credit quality, supporting robust bottom-line growth."
+}

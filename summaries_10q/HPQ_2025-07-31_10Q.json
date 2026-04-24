@@ -1,0 +1,24 @@
+{
+  "ticker": "HPQ",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-07-31",
+  "revenue": "$13.93 billion, up 3.1% YoY from $13.52 billion",
+  "net_income": "$763 million, up 19.2% YoY from $640 million",
+  "key_metrics": [
+    "Diluted EPS: $0.80, up 23.1% YoY from $0.65",
+    "Gross Profit: $2.85 billion, down 1.9% YoY from $2.91 billion",
+    "Products Revenue: $13.11 billion, up 2.9% YoY",
+    "Services Revenue: $818 million, up 6.4% YoY"
+  ],
+  "qoq_changes": [
+    "Cash, cash equivalents and restricted cash decreased to $2.87 billion from $3.25 billion at the end of fiscal 2024",
+    "Inventory increased to $8.36 billion from $7.72 billion at the end of fiscal 2024"
+  ],
+  "new_risks": [
+    "Intensifying geopolitical tensions, specifically citing the Middle East, Ukraine, Taiwan Strait, and South China Sea",
+    "Macroeconomic volatility including inflation, benchmark interest rate increases, and financial institution instability",
+    "Execution risks tied to the Fiscal 2023 Plan structural cost savings and the transition to artificial intelligence technologies"
+  ],
+  "management_tone": "Cautious but resilient, balancing steady top-line and bottom-line YoY growth against significant geopolitical, macroeconomic, and supply chain uncertainties.",
+  "analyst_note": "HPQ posted a solid Q3 2025 with 3.1% revenue growth and a 19.2% jump in net income, aided by a favorable tax benefit. However, a slight dip in gross profit and a $636 million build in inventory since fiscal year-end suggest potential margin pressures or demand timing issues ahead."
+}

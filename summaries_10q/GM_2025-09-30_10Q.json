@@ -1,0 +1,24 @@
+{
+  "ticker": "GM",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$48.59 billion, down 0.3% YoY",
+  "net_income": "$1.33 billion, down 56.6% YoY",
+  "key_metrics": [
+    "Diluted EPS: $1.35 (down 49.6% YoY from $2.68)",
+    "Operating Income: $1.08 billion (down 70.5% YoY from $3.65 billion)",
+    "Automotive Cost of Sales: $41.94 billion (up 7.5% YoY from $39.01 billion)",
+    "Cash and Cash Equivalents: $22.91 billion (up 15.3% from $19.87 billion at year-end 2024)"
+  ],
+  "qoq_changes": [
+    "Severe operating margin compression driven by a $2.93 billion YoY increase in automotive and other cost of sales despite flat top-line revenue.",
+    "Automotive selling, general and administrative expenses decreased to $2.04 billion from $2.75 billion YoY, partially offsetting gross margin declines.",
+    "Total assets increased to $288.17 billion from $279.76 billion at year-end 2024, bolstered by strong cash generation and receivables growth."
+  ],
+  "new_risks": [
+    "Significant margin deterioration risk as cost of goods sold outpaces revenue growth, severely impacting operating leverage.",
+    "Potential pricing power erosion in the core automotive segment, evidenced by a slight YoY decline in automotive net sales ($44.26B vs $44.74B) amidst rising production costs."
+  ],
+  "management_tone": "Cautious, as flat top-line performance and surging automotive cost of sales have severely compressed operating margins and profitability despite a strong liquidity position.",
+  "analyst_note": "GM's Q3 2025 print reveals alarming margin pressure, with net income plummeting over 56% YoY driven by a nearly $3 billion spike in automotive cost of sales against stagnant revenue. While the balance sheet remains highly liquid with $22.9 billion in cash, the immediate focus must shift to cost containment and pricing strategies to arrest the rapid deterioration in operating leverage."
+}

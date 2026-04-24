@@ -1,0 +1,22 @@
+{
+  "ticker": "AMC",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$1,397.9 million, up 35.6% YoY from $1,030.6 million",
+  "net_income": "Net loss of $4.7 million, an improvement from a net loss of $32.8 million YoY",
+  "key_metrics": [
+    "Admissions revenue: $762.6 million (up 35.1% YoY)",
+    "Food and beverage revenue: $499.6 million (up 36.1% YoY)",
+    "Operating income: $92.6 million (improved from an operating loss of $47.4 million YoY)"
+  ],
+  "qoq_changes": [
+    "Strong sequential revenue growth, with Q2 revenue of $1,397.9 million significantly outpacing implied Q1 2025 revenue of $862.5 million.",
+    "Cash and cash equivalents decreased to $423.7 million from $632.3 million at the end of Q4 2024."
+  ],
+  "new_risks": [
+    "Interest expense on corporate borrowings increased 22.9% YoY to $109.6 million, reflecting the growing burden of debt servicing.",
+    "Liquidity contraction, with cash reserves dropping by over $200 million in the first six months of 2025 despite improved operating income."
+  ],
+  "management_tone": "Cautiously optimistic, as strong box office performance drove a 35.6% revenue increase and a return to positive operating income, though heavy debt and interest expenses continue to prevent net profitability.",
+  "analyst_note": "AMC demonstrated robust top-line recovery in Q2 2025, driven by strong admissions and concession sales that pushed operating income into the black. However, the company's highly leveraged balance sheet ($3.99 billion in corporate borrowings) and shrinking cash reserves remain significant structural overhangs."
+}

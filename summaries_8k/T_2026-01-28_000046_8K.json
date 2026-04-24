@@ -1,0 +1,22 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-01-28",
+  "event_type": "Earnings",
+  "headline": "AT&T reports Q4 2025 and full-year 2025 financial results, highlighting revenue growth driven by Mobility and Consumer Wireline, alongside a significant gain from the sale of DIRECTV.",
+  "materiality": "High",
+  "investor_impact": "AT&T demonstrated solid operational momentum with 3.6% Q4 revenue growth and strong cash flow generation, driven by Mobility and Consumer Wireline subscriber additions. However, continued declines in Business Wireline and slight margin pressures in Mobility due to higher equipment and selling costs remain areas for investor focus.",
+  "key_figures": [
+    "Q4 2025 net income: $3.8 billion ($0.53 per diluted share)",
+    "Full-year 2025 net income: $21.9 billion ($3.04 per diluted share)",
+    "Q4 2025 operating revenues: $33.5 billion (+3.6% YoY)",
+    "Full-year 2025 operating revenues: $125.6 billion (+2.7% YoY)",
+    "Full-year 2025 cash from operating activities: $40.3 billion",
+    "Full-year 2025 capital expenditures: $20.8 billion",
+    "Q4 2025 Mobility revenues: $24.4 billion (+5.3% YoY)",
+    "Q4 2025 postpaid phone net adds: 421,000",
+    "Total wireless subscribers at Dec 31, 2025: 120.1 million",
+    "Q4 2025 Business Wireline revenues: $4.2 billion (-7.5% YoY)",
+    "Q4 2025 Consumer Wireline revenues: $3.6 billion (+2.9% YoY)",
+    "Q4 2025 Fiber broadband net adds: 283,000"
+  ]
+}

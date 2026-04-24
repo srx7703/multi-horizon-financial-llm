@@ -1,0 +1,16 @@
+{
+  "ticker": "FDX",
+  "filing_date": "2026-02-09",
+  "event_type": "M&A",
+  "headline": "FedEx announces a joint consortium agreement to acquire InPost S.A. in an all-cash public offer, taking a 37% stake valued at approximately $2.6 billion.",
+  "materiality": "High",
+  "investor_impact": "The $2.6 billion investment secures FedEx a strategic 37% stake in InPost, significantly enhancing its European e-commerce and out-of-home delivery capabilities through planned commercial agreements. Investors will likely view the strategic synergies positively, though attention will be paid to the utilization of cash balances and new liquidity sources to fund the transaction.",
+  "key_figures": [
+    "\u20ac15.60 offer price per share",
+    "37% FedEx ownership stake",
+    "$2.6 billion FedEx investment value",
+    "37% Advent ownership stake",
+    "16% A&R Investments ownership stake",
+    "10% PPF ownership stake"
+  ]
+}

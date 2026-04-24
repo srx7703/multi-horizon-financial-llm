@@ -1,0 +1,13 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-04-09",
+  "event_type": "Shareholder Communication",
+  "headline": "Amazon furnishes its 2025 Letter to Shareholders and accompanying non-GAAP financial reconciliations.",
+  "materiality": "Low",
+  "investor_impact": "The annual shareholder letter provides qualitative insights into management's strategic vision and operational focus following the 2025 fiscal year. While unlikely to be an immediate catalyst for price action, it serves as a key document for long-term thesis validation and understanding management's non-GAAP adjustments.",
+  "key_figures": [
+    "Year Ended December 31, 2025",
+    "Exhibit 99.1 (2025 Letter to Shareholders)",
+    "Exhibit 99.2 (Reconciliation of Non-GAAP Financial Measure)"
+  ]
+}

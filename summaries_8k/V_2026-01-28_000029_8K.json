@@ -1,0 +1,15 @@
+{
+  "ticker": "V",
+  "filing_date": "2026-01-28",
+  "event_type": "Annual Meeting Results",
+  "headline": "Visa Inc. announced the results of its 2026 Annual Meeting of Shareholders, including the election of all 11 director nominees, approval of executive compensation, and an amendment to limit officer liability.",
+  "materiality": "Low",
+  "investor_impact": "The voting results reflect strong shareholder alignment with management and the board, with all directors re-elected and executive compensation overwhelmingly approved. The amendment to limit officer liability is standard corporate housekeeping under recent Delaware law changes and does not alter the fundamental investment thesis.",
+  "key_figures": [
+    "11 director nominees elected to the Board",
+    "93.28% of votes cast in favor of executive compensation",
+    "97.84% of votes cast to ratify KPMG LLP as independent auditor for fiscal 2026",
+    "70.22% of outstanding shares approved the amendment to the Eighth Restated Certificate of Incorporation to limit officer liability",
+    "4 shareholder proposals were rejected, including an independent chair policy (83.33% against) and action by written consent (66.82% against)"
+  ]
+}

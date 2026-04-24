@@ -1,0 +1,23 @@
+{
+  "ticker": "LULU",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-11-02",
+  "revenue": "$2.57 billion (+7.1% YoY)",
+  "net_income": "$306.8 million (-12.8% YoY)",
+  "key_metrics": [
+    "Gross Profit: $1.43 billion (Gross Margin compressed to 55.6% from 58.5% YoY)",
+    "Diluted EPS: $2.59 (down from $2.87 YoY)",
+    "Inventories: $2.00 billion (up from $1.44 billion at fiscal year-end)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased to $1.04 billion from $1.98 billion at the end of the prior fiscal year.",
+    "Inventories increased significantly to $2.00 billion from $1.44 billion at fiscal year-end.",
+    "The company executed $190.9 million in share repurchases during the quarter."
+  ],
+  "new_risks": [
+    "Inventory buildup risk: Inventories surged to $2.00 billion, which may necessitate future markdowns if sell-through slows.",
+    "Margin compression: Cost of goods sold (+14.6% YoY) and SG&A expenses (+8.6% YoY) outpaced revenue growth (+7.1% YoY), negatively impacting operating income."
+  ],
+  "management_tone": "Cautious; while top-line revenue continues to grow, rising costs, gross margin compression, and a heavy inventory build are weighing on bottom-line profitability.",
+  "analyst_note": "Lululemon posted a mixed Q3 2025, achieving 7.1% YoY revenue growth but suffering a 12.8% drop in net income due to rising costs and margin contraction. The notable inventory buildup to $2.0 billion and declining operating income are key areas of concern heading into the critical holiday season."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "KR",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-08-16",
+  "revenue": "$33.94 billion, +0.1% YoY",
+  "net_income": "$609 million, +30.7% YoY",
+  "key_metrics": [
+    "Diluted EPS of $0.91, up from $0.64 YoY",
+    "Operating profit of $863 million, up 5.9% YoY",
+    "YTD Operating Cash Flow of $3.69 billion, up from $3.46 billion YoY"
+  ],
+  "qoq_changes": [
+    "Cash and temporary cash investments increased to $4.88 billion from $3.96 billion at the end of the prior fiscal year.",
+    "Current portion of long-term debt increased significantly to $827 million from $272 million at the end of the prior fiscal year."
+  ],
+  "new_risks": [
+    "Net interest expense increased sharply to $144 million from $84 million YoY, indicating higher borrowing costs.",
+    "YTD asset impairment and store closure charges accelerated to $114 million compared to $31 million in the prior year."
+  ],
+  "management_tone": "Cautiously optimistic; while top-line sales were essentially flat, management successfully drove significant bottom-line expansion through operating leverage and favorable investment gains.",
+  "analyst_note": "Kroger delivered a strong bottom-line beat with EPS up over 30% despite stagnant revenue growth, aided by a $177 million YoY favorable swing in investment gains and solid operating profit expansion. The balance sheet remains highly liquid with nearly $4.9 billion in cash, though rising interest expenses and an uptick in store closure charges warrant close monitoring."
+}

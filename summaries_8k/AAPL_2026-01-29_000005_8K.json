@@ -1,0 +1,13 @@
+{
+  "ticker": "AAPL",
+  "filing_date": "2026-01-29",
+  "event_type": "Earnings",
+  "headline": "Apple Inc. issued a press release announcing its financial results for the first fiscal quarter ended December 27, 2025.",
+  "materiality": "High",
+  "investor_impact": "The release of Q1 earnings is a major catalyst, providing critical data on Apple's holiday quarter performance, including hardware demand and Services revenue growth. Investors and analysts will need to review the attached Exhibit 99.1 to update financial models and assess the company's near-term trajectory.",
+  "key_figures": [
+    "January 29, 2026",
+    "December 27, 2025",
+    "Kevan Parekh"
+  ]
+}

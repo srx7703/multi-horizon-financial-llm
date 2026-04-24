@@ -1,0 +1,18 @@
+{
+  "ticker": "HAS",
+  "filing_date": "2026-02-20",
+  "event_type": "Material Agreement",
+  "headline": "Hasbro entered into a Fourth Amended and Restated Revolving Credit Agreement, securing a $1.1 billion senior unsecured revolving credit facility and extending its maturity to February 2031.",
+  "materiality": "Medium",
+  "investor_impact": "This amendment bolsters Hasbro's long-term liquidity profile by extending the facility's maturity to 2031 and providing up to $1.65 billion in total potential capacity. The maintained financial covenants and favorable pricing grid suggest stable credit health, removing near-term refinancing risks and supporting ongoing operational flexibility.",
+  "key_figures": [
+    "$1.1 billion aggregate principal amount",
+    "Up to $550.0 million potential additional incremental commitment",
+    "Maturity extended from September 5, 2028 to February 20, 2031",
+    "$75.0 million sub-facility for letters of credit",
+    "$50.0 million sub-facility for swing line loans",
+    "Consolidated Interest Coverage Ratio minimum of 3.00:1.00",
+    "Consolidated Net Total Leverage Ratio maximum of 3.75:1.00 (Q1, Q2, Q4) and 4.00:1.00 (Q3)",
+    "Bank of America, N.A. (Administrative Agent)"
+  ]
+}

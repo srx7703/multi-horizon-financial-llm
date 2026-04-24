@@ -1,0 +1,23 @@
+{
+  "ticker": "HD",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-11-02",
+  "revenue": "$41.35 billion (+2.8% YoY compared to $40.22 billion)",
+  "net_income": "$3.60 billion (-1.3% YoY compared to $3.65 billion)",
+  "key_metrics": [
+    "Gross Profit: $13.82 billion",
+    "Operating Income: $5.35 billion",
+    "Diluted EPS: $3.62 (down from $3.67 YoY)"
+  ],
+  "qoq_changes": [
+    "Merchandise inventories increased to $26.20 billion from $23.45 billion at the end of the prior fiscal year.",
+    "Operating expenses rose to $8.46 billion, compressing operating margins slightly compared to the prior year."
+  ],
+  "new_risks": [
+    "Integration and execution risks related to the recent acquisitions of SRS Distribution Inc. (SRS) and GMS Inc. (GMS).",
+    "Potential supply chain and cost impacts from tariffs, trade policy changes, or international trade disputes.",
+    "Continued macroeconomic pressures on the housing market, credit markets, and consumer home improvement demand."
+  ],
+  "management_tone": "Neutral; the company demonstrated resilient top-line growth but faces margin pressure from rising operating expenses and ongoing macroeconomic uncertainty in the housing sector.",
+  "analyst_note": "Home Depot delivered modest revenue growth of 2.8% in Q3 2025, though higher SG&A costs led to a slight 1.3% contraction in net income. Investors should closely monitor the integration of the SRS and GMS acquisitions and the potential impact of tariffs and housing market headwinds on future profitability."
+}

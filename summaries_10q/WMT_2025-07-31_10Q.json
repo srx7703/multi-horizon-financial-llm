@@ -1,0 +1,24 @@
+{
+  "ticker": "WMT",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-07-31",
+  "revenue": "$177.40 billion (+4.8% YoY)",
+  "net_income": "$7.03 billion (+56.1% YoY)",
+  "key_metrics": [
+    "Net Sales: $175.75 billion (+4.8% YoY)",
+    "Operating Income: $7.29 billion (-8.2% YoY)",
+    "Diluted EPS: $0.88 (vs $0.56 in Q2 2024)",
+    "Membership and other income: $1.65 billion (+5.4% YoY)",
+    "Other Gains: $2.71 billion (primary driver of net income growth)"
+  ],
+  "qoq_changes": [
+    "Total revenues increased to $177.40 billion in Q2 from an implied $165.61 billion in Q1.",
+    "Inventories increased to $57.73 billion from $56.44 billion at the end of the prior fiscal year (Jan 31, 2025)."
+  ],
+  "new_risks": [
+    "Core operating margin compression, evidenced by an 8.2% YoY decline in operating income despite 4.8% revenue growth.",
+    "Heavy reliance on non-operating gains to drive bottom-line growth this quarter (specific textual risk factors were omitted from the provided excerpt)."
+  ],
+  "management_tone": "Neutral; while top-line revenue and membership income continue to grow steadily, the contraction in operating income highlights underlying cost pressures that were masked by a one-time $2.7 billion non-operating gain.",
+  "analyst_note": "Walmart delivered a complex quarter where a massive 56% YoY surge in net income was entirely driven by $2.7 billion in non-operating gains. Core retail operations showed margin compression, with operating income falling 8.2% YoY despite healthy 4.8% top-line revenue growth, warranting closer scrutiny on SG&A and cost of sales trends."
+}

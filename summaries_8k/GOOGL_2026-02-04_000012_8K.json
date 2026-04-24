@@ -1,0 +1,13 @@
+{
+  "ticker": "GOOGL",
+  "filing_date": "2026-02-04",
+  "event_type": "Earnings",
+  "headline": "Alphabet Inc. announces its financial results and conference call for the fourth quarter and fiscal year ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material events that dictate near-term stock performance and update the fundamental thesis. Investors will focus on the accompanying press release and conference call for updates on AI monetization, Google Cloud growth, and core search advertising margins.",
+  "key_figures": [
+    "February 4, 2026 (Date of press release and conference call)",
+    "December 31, 2025 (End of reported quarter and fiscal year)",
+    "Anat Ashkenazi (Senior Vice President, Chief Financial Officer)"
+  ]
+}

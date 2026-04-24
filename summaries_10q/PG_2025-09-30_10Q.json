@@ -1,0 +1,22 @@
+{
+  "ticker": "PG",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-09-30",
+  "revenue": "$22.39 billion, up 3.0% YoY compared to $21.74 billion",
+  "net_income": "$4.75 billion, up 20.0% YoY compared to $3.96 billion",
+  "key_metrics": [
+    "Diluted EPS: $1.95 vs $1.61 YoY",
+    "Operating Income: $5.86 billion vs $5.80 billion YoY",
+    "Total Assets: $127.60 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased by $1.61 billion to $11.17 billion",
+    "Total assets increased from $125.23 billion to $127.60 billion",
+    "Total inventories increased from $7.55 billion to $7.85 billion"
+  ],
+  "new_risks": [
+    "No specific new risks were disclosed in the provided financial statement excerpts"
+  ],
+  "management_tone": "Bullish, driven by solid 3% top-line growth and significant 20% bottom-line expansion year-over-year.",
+  "analyst_note": "P&G delivered a highly profitable quarter, leveraging 3% sales growth into a 20% increase in net earnings. The balance sheet remains robust with sequential growth in cash reserves, positioning the company well for continued capital returns or strategic investments."
+}

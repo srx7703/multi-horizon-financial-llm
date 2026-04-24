@@ -1,0 +1,25 @@
+{
+  "ticker": "ETSY",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$672.7 million (up 3.8% YoY from $647.8 million)",
+  "net_income": "Not provided in excerpt (statement of operations truncated)",
+  "key_metrics": [
+    "Gross merchandise sales (GMS)",
+    "Active buyers",
+    "Active sellers",
+    "Adjusted EBITDA"
+  ],
+  "qoq_changes": [
+    "Revenue increased 3.3% QoQ to $672.7 million (vs implied Q1 2025 revenue of $651.2 million)",
+    "Goodwill decreased significantly from $137.1 million to $38.1 million, reflecting an impairment charge",
+    "Long-term debt increased substantially from $2.29 billion to $2.98 billion"
+  ],
+  "new_risks": [
+    "Potential elimination of the de minimis exemption for commercial goods imported into the U.S.",
+    "Incurred impairment charges for goodwill and other long-lived assets",
+    "Continued pressure on consumer discretionary spending due to inflation and macroeconomic uncertainty"
+  ],
+  "management_tone": "Cautious, as management highlights ongoing macroeconomic pressures on consumer discretionary spending, geopolitical uncertainty, and recent goodwill impairment charges.",
+  "analyst_note": "While Etsy achieved modest 3.8% YoY revenue growth in Q2 2025, the balance sheet indicates a significant goodwill impairment and a nearly $700 million increase in long-term debt, suggesting underlying challenges and a need to monitor capital allocation and profitability closely."
+}

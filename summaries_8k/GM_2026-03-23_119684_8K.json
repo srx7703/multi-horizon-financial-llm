@@ -1,0 +1,16 @@
+{
+  "ticker": "GM",
+  "filing_date": "2026-03-23",
+  "event_type": "Material Agreement",
+  "headline": "General Motors entered into an Eighth Amended and Restated 364-Day Revolving Credit Agreement for a $2.0 billion unsecured facility allocated for GM Financial.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine renewal of a $2.0 billion short-term credit facility for GM Financial, ensuring continued robust liquidity for the captive finance arm. The required liquidity covenants of $4.0 billion globally and $2.0 billion in the U.S. are well below GM's typical cash balances, posing no near-term risk to the investment thesis.",
+  "key_figures": [
+    "$2.0 billion facility",
+    "March 22, 2027 maturity date",
+    "$4.0 billion minimum global liquidity",
+    "$2.0 billion minimum U.S. liquidity",
+    "JPMorgan Chase Bank, N.A.",
+    "Citibank, N.A."
+  ]
+}

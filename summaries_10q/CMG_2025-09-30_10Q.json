@@ -1,0 +1,22 @@
+{
+  "ticker": "CMG",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$3.00 billion (+7.5% YoY)",
+  "net_income": "$382.1 million (-1.4% YoY)",
+  "key_metrics": [
+    "Diluted EPS of $0.29 (up from $0.28 in Q3 2024)",
+    "Food, beverage and packaging costs of $902.4 million",
+    "Labor costs of $756.7 million",
+    "Income from operations of $477.2 million"
+  ],
+  "qoq_changes": [
+    "Net income decreased 12.4% sequentially to $382.1 million in Q3 2025 from $436.1 million in Q2 2025."
+  ],
+  "new_risks": [
+    "Margin compression is evident as total operating expenses grew 8.9% YoY, outpacing the 7.5% YoY revenue growth.",
+    "Specific qualitative risk factors (Item 1A) were omitted from the provided excerpt."
+  ],
+  "management_tone": "Neutral, balancing solid 7.5% top-line revenue growth against margin pressures from rising food and labor costs that caused a slight dip in net income.",
+  "analyst_note": "Chipotle delivered steady Q3 2025 revenue growth of 7.5% YoY to $3.0 billion, though profitability faced headwinds with net income contracting 1.4% YoY due to elevated operating expenses. Despite the net income decline, aggressive share repurchases reduced the share count, allowing diluted EPS to edge higher to $0.29."
+}

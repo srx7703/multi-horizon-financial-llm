@@ -1,0 +1,14 @@
+{
+  "ticker": "NFLX",
+  "filing_date": "2026-04-16",
+  "event_type": "Earnings and Executive Change",
+  "headline": "Netflix announced Q1 2026 financial results and the upcoming departure of founder Reed Hastings from the Board of Directors.",
+  "materiality": "High",
+  "investor_impact": "Reed Hastings' departure from the Board marks the completion of a long-term leadership transition and is largely symbolic, minimizing operational disruption. However, the concurrent release of Q1 2026 earnings will be the primary driver of near-term stock action as the market digests fundamental performance.",
+  "key_figures": [
+    "April 16, 2026 (Earnings announcement date)",
+    "March 31, 2026 (Q1 end date)",
+    "April 10, 2026 (Date Reed Hastings gave notice)",
+    "Reed Hastings (Departing Chairman of the Board)"
+  ]
+}

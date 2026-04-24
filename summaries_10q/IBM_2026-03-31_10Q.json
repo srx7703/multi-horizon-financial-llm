@@ -1,0 +1,24 @@
+{
+  "ticker": "IBM",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-31",
+  "revenue": "$15.92 billion (+9.5% YoY)",
+  "net_income": "$1.22 billion (+15.3% YoY)",
+  "key_metrics": [
+    "Services Revenue: $7.69 billion",
+    "Sales Revenue: $8.01 billion",
+    "Gross Profit: $8.95 billion",
+    "Diluted EPS: $1.28"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased by $2.77 billion to $10.82 billion",
+    "Goodwill increased by $6.99 billion to $74.71 billion",
+    "Total debt (short and long-term) increased by $5.1 billion to $66.36 billion"
+  ],
+  "new_risks": [
+    "Integration and execution risks associated with a recent major acquisition (implied by the $7B increase in goodwill and $3.2B increase in intangibles)",
+    "Increased leverage risk due to a $5.1B increase in total debt to fund recent asset growth"
+  ],
+  "management_tone": "Bullish, driven by solid 9.5% YoY revenue growth, 15.3% net income expansion, and aggressive capital deployment toward acquisitions.",
+  "analyst_note": "IBM posted a strong Q1 2026 with broad-based growth across Services and Sales. The balance sheet reflects a significant recent acquisition, driving up goodwill, intangibles, and debt, which will be the key focal point for investors assessing future ROIC."
+}

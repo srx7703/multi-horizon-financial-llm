@@ -1,0 +1,21 @@
+{
+  "ticker": "DLTR",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-08-02",
+  "revenue": "$4.57 billion (+12.3% YoY)",
+  "net_income": "$188.4 million (+42.3% YoY)",
+  "key_metrics": [
+    "Diluted EPS: $0.91 (vs $0.62 YoY)",
+    "Operating Income: $231.0 million (+7.0% YoY)",
+    "Share Repurchases: $496.5 million during the quarter"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased to $666.3 million from $1.26 billion at the end of the prior fiscal year.",
+    "Short-term borrowings increased to $299.5 million, up from zero at the end of the prior fiscal year."
+  ],
+  "new_risks": [
+    "No explicit qualitative risks provided in the excerpt, but quantitative risks include a significant reduction in cash reserves and an increase in short-term debt."
+  ],
+  "management_tone": "Bullish - The company delivered strong double-digit YoY growth in both revenue and net income, and signaled confidence through nearly $500 million in share repurchases.",
+  "analyst_note": "Dollar Tree posted a solid Q2 2025 with revenue up 12.3% and net income surging 42.3% YoY, driven by core operations and a boost from discontinued operations. While aggressive share buybacks highlight management's confidence, the notable drop in cash and rise in short-term borrowings will be key areas to monitor for liquidity health."
+}

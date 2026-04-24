@@ -1,0 +1,15 @@
+{
+  "ticker": "CAT",
+  "filing_date": "2026-03-26",
+  "event_type": "Segment Realignment",
+  "headline": "Caterpillar provided recast historical segment financial data reflecting the realignment of its Rail division from the Power & Energy segment to the Resource Industries segment.",
+  "materiality": "Low",
+  "investor_impact": "This reporting change requires analysts to update their segment-level financial models to reflect the new structure and responsibility shifts. However, it does not impact previously reported consolidated financial statements or alter the fundamental investment thesis.",
+  "key_figures": [
+    "January 1, 2026",
+    "November 4, 2025",
+    "September 30, 2025",
+    "December 31, 2025",
+    "February 13, 2026"
+  ]
+}

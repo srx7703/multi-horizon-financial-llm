@@ -1,0 +1,24 @@
+{
+  "ticker": "AXP",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$18.43 billion, up 11% YoY",
+  "net_income": "$2.90 billion, up 16% YoY",
+  "key_metrics": [
+    "Billed business of $387.3 billion, up 9% YoY",
+    "Diluted EPS of $4.14, up 19% YoY",
+    "Total loans and Card Member receivables of $216.4 billion, up 7% YoY",
+    "3.2 million proprietary new cards acquired",
+    "Net interest yield of 8.2%, up from 8.0% YoY"
+  ],
+  "qoq_changes": [
+    "Net card fee revenue growth moderated from the prior quarter due to the previous cycle of product refreshes",
+    "Launched refreshed U.S. Consumer and Business Platinum Cards with expanded benefits and increased annual fees"
+  ],
+  "new_risks": [
+    "Uncertainty of the geopolitical and macroeconomic environment",
+    "Evolving competitive landscape and changes in response to evolving technologies and business dynamics"
+  ],
+  "management_tone": "Bullish, driven by record levels of Card Member spending, excellent credit performance, and confidence in their Membership-focused business model and product refresh strategy.",
+  "analyst_note": "American Express delivered a strong Q3 2025 with 11% revenue growth and 16% net income growth, supported by robust Millennial and Gen-Z spending, stable credit metrics, and successful premium card refreshes."
+}

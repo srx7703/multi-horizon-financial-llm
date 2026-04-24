@@ -1,0 +1,18 @@
+{
+  "ticker": "AXP",
+  "filing_date": "2026-03-16",
+  "event_type": "Credit Metrics Update",
+  "headline": "American Express releases monthly delinquency and write-off statistics for U.S. Consumer and Small Business Card Member loans for February 2026.",
+  "materiality": "Medium",
+  "investor_impact": "U.S. Consumer 30-day delinquencies remained flat month-over-month at 1.4%, while net write-offs ticked up slightly to 2.0%, signaling stable but normalizing credit conditions. These metrics are critical for analysts modeling near-term provision expenses and assessing overall consumer health.",
+  "key_figures": [
+    "Total U.S. Consumer Card Member loans (Feb 28, 2026): $95.1 billion",
+    "U.S. Consumer 30 days past due rate (Feb 28, 2026): 1.4%",
+    "U.S. Consumer net write-off rate (Feb 28, 2026): 2.0%",
+    "Total U.S. Small Business Card Member loans (Feb 28, 2026): $31.3 billion",
+    "U.S. Small Business 30 days past due rate (Feb 28, 2026): 1.7%",
+    "U.S. Small Business net write-off rate (Feb 28, 2026): 2.8%",
+    "Total Card Member loans held for investment (Feb 28, 2026): $126.4 billion",
+    "Lending Trust annualized default rate (Feb 2026): 1.3%"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "EBAY",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$2.82 billion (Q3 2024 data omitted in excerpt; 9-month revenue up 5.6% YoY to $8.14 billion)",
+  "net_income": "$632 million (down 0.3% YoY from $634 million)",
+  "key_metrics": [
+    "Gross profit: $2.00 billion",
+    "Income from operations: $576 million",
+    "Diluted EPS: $1.35"
+  ],
+  "qoq_changes": [
+    "Short-term investments decreased significantly to $955 million from $3.46 billion at year-end 2024",
+    "Long-term debt was reduced to $5.00 billion from $5.75 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Macroeconomic headwinds including inflationary pressure and elevated interest rates",
+    "Geopolitical instability including the war in Ukraine and uncertainty in the Middle East",
+    "Evolving global tariff policies and cross-border trade regulations"
+  ],
+  "management_tone": "Cautious but resilient, focusing on steady operational execution and capital allocation amidst ongoing macroeconomic and geopolitical uncertainties.",
+  "analyst_note": "eBay delivered stable Q3 2025 results with $2.82 billion in revenue and $632 million in net income, maintaining profitability despite macro headwinds. The significant reduction in short-term investments and long-term debt suggests active balance sheet management and deleveraging during the period."
+}

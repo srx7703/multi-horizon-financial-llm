@@ -1,0 +1,15 @@
+{
+  "ticker": "NKE",
+  "filing_date": "2026-03-09",
+  "event_type": "Material Agreement",
+  "headline": "Nike entered into a new $1 billion 364-day unsecured revolving credit facility, replacing its expiring facility of the same amount.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine liquidity management exercise to roll over an expiring credit facility used as a backstop for commercial paper and general working capital. With zero balance outstanding on the prior facility and no financial covenants on the new agreement, there is no material impact to Nike's capital structure or the broader investment thesis.",
+  "key_figures": [
+    "$1 billion initial borrowing capacity",
+    "$1.5 billion maximum expanded capacity",
+    "March 6, 2026 agreement date",
+    "March 5, 2027 maturity date",
+    "Term SOFR plus 0.595% applicable margin"
+  ]
+}

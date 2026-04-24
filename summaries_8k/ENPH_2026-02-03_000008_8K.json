@@ -1,0 +1,13 @@
+{
+  "ticker": "ENPH",
+  "filing_date": "2026-02-03",
+  "event_type": "Earnings",
+  "headline": "Enphase Energy issued a press release announcing its financial results for the fourth quarter ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "The release of Q4 2025 earnings is a primary catalyst for the stock, providing essential data on revenue, margins, and potential forward guidance. Analysts will need to review the furnished Exhibit 99.1 to assess fundamental performance and adjust valuation models accordingly.",
+  "key_figures": [
+    "February 3, 2026",
+    "December 31, 2025",
+    "Mandy Yang"
+  ]
+}

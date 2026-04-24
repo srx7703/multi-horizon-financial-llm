@@ -1,0 +1,16 @@
+{
+  "ticker": "HPE",
+  "filing_date": "2026-03-18",
+  "event_type": "Debt Offering",
+  "headline": "Hewlett Packard Enterprise priced a $2 billion multi-tranche senior unsecured notes offering.",
+  "materiality": "Medium",
+  "investor_impact": "This $2 billion debt issuance secures medium-to-long-term capital, increasing near-term leverage and interest expense while providing liquidity for general corporate purposes or strategic initiatives like the Juniper Networks integration. Investors should evaluate the blended cost of debt and its impact on HPE's overall balance sheet flexibility.",
+  "key_figures": [
+    "$300,000,000 Floating Rate Notes due 2028",
+    "$500,000,000 4.500% Notes due 2028",
+    "$600,000,000 4.600% Notes due 2029",
+    "$600,000,000 5.250% Notes due 2033",
+    "March 16, 2026 pricing date",
+    "March 23, 2026 expected closing date"
+  ]
+}

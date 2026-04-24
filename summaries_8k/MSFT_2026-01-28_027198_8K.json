@@ -1,0 +1,13 @@
+{
+  "ticker": "MSFT",
+  "filing_date": "2026-01-28",
+  "event_type": "Earnings",
+  "headline": "Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "Quarterly earnings releases are highly material as they provide critical updates on the company's financial performance, including revenue growth, margins, and segment performance like Azure and AI. Investors and analysts must review the furnished Exhibit 99.1 to assess actual results against consensus estimates and update financial models accordingly.",
+  "key_figures": [
+    "January 28, 2026",
+    "December 31, 2025",
+    "Exhibit 99.1"
+  ]
+}

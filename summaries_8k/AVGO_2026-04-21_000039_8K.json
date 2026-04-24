@@ -1,0 +1,14 @@
+{
+  "ticker": "AVGO",
+  "filing_date": "2026-04-21",
+  "event_type": "Shareholder Meeting Results",
+  "headline": "Broadcom announced the results of its 2026 Annual Meeting of Stockholders, including the election of eight directors, ratification of its auditor, and approval of executive compensation.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine corporate governance event with no immediate impact on the fundamental investment thesis. However, the notable 33% opposition to the executive compensation package may prompt increased shareholder engagement regarding pay structures going forward.",
+  "key_figures": [
+    "April 20, 2026 meeting date",
+    "8 directors elected, including Hock E. Tan and Henry Samueli",
+    "PricewaterhouseCoopers LLP ratified as auditor for fiscal year ending November 1, 2026",
+    "2,433,503,375 votes For and 1,232,879,962 votes Against executive compensation"
+  ]
+}

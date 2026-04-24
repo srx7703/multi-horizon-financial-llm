@@ -1,0 +1,20 @@
+{
+  "ticker": "CAT",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$17.64 billion (+9.5% YoY)",
+  "net_income": "$2.30 billion (-6.7% YoY)",
+  "key_metrics": [
+    "Diluted EPS: $4.88 (vs $5.06 in Q3 2024)",
+    "Operating Profit: $3.05 billion (vs $3.15 billion in Q3 2024)",
+    "Cost of Goods Sold: $11.67 billion (+16.0% YoY)"
+  ],
+  "qoq_changes": [
+    "Sequential quarterly data is not explicitly provided in the excerpt, but Q3 revenue of $17.64B contributed to a 9-month total of $48.46B."
+  ],
+  "new_risks": [
+    "Not disclosed in the provided excerpt (Item 1A Risk Factors was omitted from the text)."
+  ],
+  "management_tone": "Neutral to cautious; while top-line revenue demonstrated solid growth, rising costs compressed operating margins and led to a year-over-year decline in net income.",
+  "analyst_note": "Caterpillar's Q3 2025 results highlight a divergence between top-line growth (+9.5% YoY) and bottom-line contraction (-6.7% YoY), driven by a 16% increase in cost of goods sold that warrants monitoring for ongoing margin pressure."
+}

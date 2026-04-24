@@ -1,0 +1,24 @@
+{
+  "ticker": "DVA",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$3.38 billion (+6.1% YoY)",
+  "net_income": "$199.3 million (-10.5% YoY)",
+  "key_metrics": [
+    "Diluted EPS of $2.58 (+3.2% YoY)",
+    "Operating income of $537.8 million (+6.2% YoY)",
+    "Dialysis patient service revenues of $3.21 billion (+4.8% YoY)",
+    "Six-month share repurchases totaling approximately $994 million"
+  ],
+  "qoq_changes": [
+    "Estimated Q2 revenue of $3.38 billion increased 4.8% sequentially vs implied Q1 2025 revenue of $3.22 billion",
+    "Estimated Q2 net income of $199.3 million increased 22.4% sequentially vs implied Q1 2025 net income of $162.9 million"
+  ],
+  "new_risks": [
+    "Debt expense surged 49.4% YoY to $146.1 million in Q2 2025",
+    "Six-month operating cash flow declined 24% YoY to $504.2 million",
+    "Long-term debt increased to $10.08 billion from $9.18 billion at year-end 2024"
+  ],
+  "management_tone": "Cautiously bullish; core operating performance and top-line growth remain solid, and aggressive share repurchases are successfully driving EPS growth despite the drag of significantly higher debt expenses.",
+  "analyst_note": "DaVita delivered a mixed but resilient quarter, pairing 6.1% revenue growth and expanded operating margins with a 10.5% drop in net income due to surging interest costs. Aggressive share buybacks masked the net income decline, allowing the company to post a 3.2% increase in diluted EPS."
+}

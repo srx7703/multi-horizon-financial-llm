@@ -1,0 +1,13 @@
+{
+  "ticker": "JPM",
+  "filing_date": "2026-02-23",
+  "event_type": "Investor Presentation",
+  "headline": "JPMorgan Chase & Co. held its 2026 Company Update presentation and furnished the associated presentation slides to investors.",
+  "materiality": "Medium",
+  "investor_impact": "While the 8-K itself only furnishes the presentation materials, the 2026 Company Update will be highly scrutinized by the Street for shifts in strategic priorities, capital return plans, and updated financial targets. Analysts must review the attached Exhibit 99.2 slides to update their models and investment thesis.",
+  "key_figures": [
+    "February 23, 2026",
+    "Exhibits 99.1, 99.2, and 99.3",
+    "Elena Korablina"
+  ]
+}

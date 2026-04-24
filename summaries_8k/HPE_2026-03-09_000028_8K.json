@@ -1,0 +1,14 @@
+{
+  "ticker": "HPE",
+  "filing_date": "2026-03-09",
+  "event_type": "Earnings",
+  "headline": "Hewlett Packard Enterprise reports Q1 2026 financial results and declares a quarterly dividend of $0.1425 per share.",
+  "materiality": "High",
+  "investor_impact": "The Q1 2026 earnings release and continued dividend payout signal stable cash flow generation, while forward-looking commentary highlights the ongoing integration of Juniper Networks and the disposition of H3C shares as key strategic catalysts for the stock.",
+  "key_figures": [
+    "Quarter ended January 31, 2026",
+    "$0.1425 quarterly dividend per share",
+    "March 24, 2026 dividend record date",
+    "April 23, 2026 dividend payable date"
+  ]
+}

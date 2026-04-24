@@ -1,0 +1,23 @@
+{
+  "ticker": "EA",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-09-30",
+  "revenue": "$1.84 billion (3-month YoY comparison obscured in filing; 6-month revenue down 4.7% YoY to $3.51 billion)",
+  "net_income": "$137 million (down 53.4% YoY from $294 million)",
+  "key_metrics": [
+    "Operating Income: $200 million (down 47.9% YoY from $384 million)",
+    "Diluted EPS: $0.54",
+    "Share Repurchases: $377 million executed during the quarter",
+    "Operating Cash Flow (6-month): $147 million (down 58.5% YoY from $354 million)"
+  ],
+  "qoq_changes": [
+    "Net income declined sequentially to $137 million from an implied $201 million in the prior quarter.",
+    "Cash and cash equivalents decreased to $1.15 billion from $2.14 billion at the end of the prior fiscal year (March 31, 2025)."
+  ],
+  "new_risks": [
+    "Significant margin compression driven by rising R&D ($686 million) and marketing ($304 million) expenses.",
+    "Deteriorating operating cash flow, which fell sharply YoY for the six-month period due to working capital changes and lower net income."
+  ],
+  "management_tone": "Cautious; while the company continues aggressive capital returns through buybacks and dividends, rising operating expenses are severely compressing margins and operating cash flow.",
+  "analyst_note": "EA is facing notable profitability headwinds as elevated R&D and marketing spend drove a 53% YoY decline in quarterly net income and a nearly 48% drop in operating income. Despite top-line and margin pressures, management remains committed to shareholder returns, executing $377 million in buybacks during the quarter to help support EPS."
+}

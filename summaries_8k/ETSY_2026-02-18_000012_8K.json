@@ -1,0 +1,16 @@
+{
+  "ticker": "ETSY",
+  "filing_date": "2026-02-18",
+  "event_type": "M&A",
+  "headline": "Etsy has entered into a definitive agreement to sell its wholly-owned subsidiary, Depop, to eBay Inc. for approximately $1.2 billion in cash.",
+  "materiality": "High",
+  "investor_impact": "The divestiture of Depop provides Etsy with a significant $1.2 billion cash infusion, allowing management to refocus on its core marketplace and potentially return capital to shareholders. While it removes Etsy's exposure to the fast-growing Gen Z resale market, the transaction simplifies the business model, strengthens the balance sheet, and will likely be viewed favorably by investors seeking margin expansion.",
+  "key_figures": [
+    "$1.2 billion cash purchase price",
+    "Q2 2026 expected closing date",
+    "$90 million termination fee payable by eBay for antitrust failure",
+    "$70 million additional termination fee under certain conditions",
+    "November 15, 2026 initial outside date for closing",
+    "February 15, 2027 extended outside date for antitrust approvals"
+  ]
+}

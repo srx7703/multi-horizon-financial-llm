@@ -1,0 +1,19 @@
+{
+  "ticker": "AVGO",
+  "filing_date": "2026-04-02",
+  "event_type": "Executive Change",
+  "headline": "Broadcom announces the retirement of CFO Kirsten M. Spears and the appointment of former Alphabet executive Amie Thuener as the new CFO, effective June 12, 2026.",
+  "materiality": "Medium",
+  "investor_impact": "The appointment of a seasoned mega-cap tech executive from Alphabet signals strong continued financial leadership for Broadcom. The extended consulting agreement with the outgoing CFO ensures an orderly transition, minimizing execution risk and maintaining investor confidence.",
+  "key_figures": [
+    "Kirsten M. Spears (Retiring CFO)",
+    "Amie Thuener (Incoming CFO)",
+    "June 12, 2026 (Transition effective date)",
+    "March 15, 2027 (End of Spears' consulting period)",
+    "$700,000 (Thuener annual base salary)",
+    "100% (Thuener target bonus opportunity)",
+    "$1,000,000 (Thuener sign-on cash bonus)",
+    "50,000 RSUs (Thuener restricted stock units)",
+    "50,000 PSUs (Thuener performance stock units)"
+  ]
+}

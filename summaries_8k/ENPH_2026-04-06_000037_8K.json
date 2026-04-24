@@ -1,0 +1,18 @@
+{
+  "ticker": "ENPH",
+  "filing_date": "2026-04-06",
+  "event_type": "Material Agreement and Guidance Update",
+  "headline": "Enphase Energy entered into an agreement to sell $235 million in Section 45X tax credits for $218.55 million, prompting a downward revision to its Q1 2026 GAAP gross margin guidance.",
+  "materiality": "Medium",
+  "investor_impact": "The sale provides an immediate $218.55 million cash infusion, bolstering liquidity at a 7% discount to face value. While Q1 2026 GAAP gross margins will be negatively impacted by 6.7 percentage points due to the discount and fees, non-GAAP metrics remain unaffected, leaving the core operating thesis intact.",
+  "key_figures": [
+    "$235,000,000 of advanced manufacturing production tax credits",
+    "$218,550,000 purchase price",
+    "93% of face value",
+    "$16.5 million discount",
+    "$2.5 million in transaction-related fees",
+    "6.7 percentage points reduction in Q1 2026 GAAP gross margin",
+    "March 31, 2026 (Effective Date)",
+    "Mandy Yang (EVP and CFO)"
+  ]
+}

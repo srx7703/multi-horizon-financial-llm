@@ -1,0 +1,13 @@
+{
+  "ticker": "NVDA",
+  "filing_date": "2026-02-25",
+  "event_type": "Earnings",
+  "headline": "NVIDIA announced its financial results and CFO commentary for the fourth quarter and fiscal year 2026 ended January 25, 2026.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material events that dictate near-term stock performance. Analysts will closely review the attached CFO commentary and press release to update revenue, margin, and EPS estimates for FY2027.",
+  "key_figures": [
+    "Quarter ended January 25, 2026",
+    "Fiscal 2026",
+    "Colette M. Kress"
+  ]
+}

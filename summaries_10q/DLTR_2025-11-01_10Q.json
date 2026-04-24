@@ -1,0 +1,23 @@
+{
+  "ticker": "DLTR",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-11-01",
+  "revenue": "$4.75 billion, up 9.4% YoY from $4.34 billion",
+  "net_income": "$244.6 million, up 4.8% YoY from $233.3 million",
+  "key_metrics": [
+    "Diluted EPS of $1.20, up 11.1% YoY from $1.08",
+    "Operating income of $343.3 million, up 3.8% YoY",
+    "Share repurchases of $395.1 million (4.0 million shares) executed during the quarter"
+  ],
+  "qoq_changes": [
+    "Assets and liabilities from discontinued operations dropped to zero, indicating a completed divestiture or spin-off",
+    "Short-term borrowings increased to $619.5 million, while the $1.0 billion current portion of long-term debt was retired or refinanced",
+    "Transition services agreement income generated $23.8 million in the quarter"
+  ],
+  "new_risks": [
+    "SG&A expenses increased 14.8% YoY to $1.39 billion, outpacing revenue growth and compressing operating margins",
+    "Increased reliance on short-term borrowings ($619.5 million vs $0 at the end of the prior fiscal year)"
+  ],
+  "management_tone": "Neutral to bullish; the company is signaling confidence through aggressive share repurchases and a cleaned-up balance sheet post-discontinued operations, despite ongoing SG&A cost pressures.",
+  "analyst_note": "Dollar Tree delivered a solid Q3 2025 with 9.4% top-line growth and a notable $395M in share buybacks. The complete removal of discontinued operations from the balance sheet marks a clean slate, allowing investors to focus on the core business, provided management can successfully rein in outpacing SG&A expenses."
+}

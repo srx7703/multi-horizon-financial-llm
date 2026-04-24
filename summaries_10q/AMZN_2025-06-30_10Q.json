@@ -1,0 +1,23 @@
+{
+  "ticker": "AMZN",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$167.70 billion (+13.3% YoY)",
+  "net_income": "$18.16 billion (+34.7% YoY)",
+  "key_metrics": [
+    "Operating Income: $19.17 billion (+30.7% YoY)",
+    "Diluted EPS: $1.68 (+33.3% YoY)",
+    "1H25 Capital Expenditures: $107.66 billion (+80.6% YoY)"
+  ],
+  "qoq_changes": [
+    "Total assets increased to $682.17 billion from $624.89 billion at year-end 2024.",
+    "Property and equipment (net) increased by $44.95 billion since year-end 2024, reflecting massive infrastructure build-out.",
+    "Cash and cash equivalents decreased to $57.74 billion from $78.78 billion at year-end 2024, partially offset by increased marketable securities."
+  ],
+  "new_risks": [
+    "Massive acceleration in capital expenditures ($107.66B in 1H25) heightens ROI and execution risks for cloud and AI infrastructure.",
+    "Technology and infrastructure operating expenses rose 21.8% YoY to $27.17 billion, outpacing overall revenue growth."
+  ],
+  "management_tone": "Bullish; strong top-line growth and significant operating leverage (net income up 34.7%) are funding an aggressive, confident expansion in technology and infrastructure.",
+  "analyst_note": "Amazon delivered a highly profitable Q2 2025 with $167.7B in revenue and $18.16B in net income, but the defining narrative is the staggering 80% YoY surge in first-half CapEx to $107.6B, signaling an all-out arms race in AI and cloud infrastructure."
+}

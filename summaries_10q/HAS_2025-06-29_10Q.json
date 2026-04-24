@@ -1,0 +1,23 @@
+{
+  "ticker": "HAS",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-29",
+  "revenue": "$980.8 million (YoY comparison unavailable due to document omission)",
+  "net_income": "Net loss of $855.8 million (down from net earnings of $138.5 million in Q2 2024)",
+  "key_metrics": [
+    "Goodwill Impairment: $1,021.9 million",
+    "Operating Loss: $798.2 million",
+    "Inventories: $417.1 million"
+  ],
+  "qoq_changes": [
+    "Goodwill decreased from $2,278.2 million at year-end 2024 to $1,256.8 million due to a massive impairment charge.",
+    "Inventories increased from $274.2 million at year-end 2024 to $417.1 million.",
+    "Cash and cash equivalents decreased from $695.0 million at year-end 2024 to $546.9 million."
+  ],
+  "new_risks": [
+    "Risks associated with the integration of artificial intelligence (AI) into product development, marketing, and consumer engagement, including ethical concerns and evolving regulatory standards.",
+    "Challenges in attracting and retaining talented and diverse employees following recent workforce reductions."
+  ],
+  "management_tone": "Cautious; while management remains focused on executing its 'Playing to Win' strategy and technological transformation, the quarter's financials were severely impacted by a $1.02 billion goodwill impairment.",
+  "analyst_note": "Hasbro's Q2 2025 results were heavily overshadowed by a $1.02 billion goodwill impairment, driving a substantial net loss of $855.8 million despite generating $980.8 million in revenue. Investors should closely monitor the company's inventory build-up, the execution and regulatory risks of its new AI integration strategy, and operational stability following recent workforce reductions."
+}

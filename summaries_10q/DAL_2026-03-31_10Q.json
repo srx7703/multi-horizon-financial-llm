@@ -1,0 +1,24 @@
+{
+  "ticker": "DAL",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-31",
+  "revenue": "$15.85 billion, up 12.9% YoY",
+  "net_income": "$289 million net loss, down from $240 million net income YoY",
+  "key_metrics": [
+    "Passenger Revenue: $12.30 billion (+7.2% YoY)",
+    "Operating Income: $501 million (-12.0% YoY)",
+    "Net Loss on Investments: $550 million (vs. $40 million loss YoY)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased 17.2% to $5.05 billion",
+    "Air traffic liability surged 50.1% to $10.74 billion, indicating strong forward bookings",
+    "Total current liabilities increased 18.4% to $32.70 billion"
+  ],
+  "new_risks": [
+    "Significant non-operating exposure evidenced by a $550 million net loss on investments",
+    "Rising operating expenses, particularly in refinery expense (+55.7% YoY) and salaries, pressuring operating margins",
+    "No new material risk factors explicitly disclosed beyond the 2025 Form 10-K"
+  ],
+  "management_tone": "Neutral; while forward booking demand appears exceptionally strong given the surge in air traffic liability and top-line revenue growth, severe non-operating investment losses and rising costs have pressured bottom-line profitability.",
+  "analyst_note": "DAL demonstrated solid core demand with a 12.9% YoY increase in total operating revenue and a massive $3.58 billion QoQ build in air traffic liability. However, a $550 million loss on investments and higher operating expenses dragged the bottom line into a $289 million net loss, highlighting vulnerability to non-core financial headwinds."
+}

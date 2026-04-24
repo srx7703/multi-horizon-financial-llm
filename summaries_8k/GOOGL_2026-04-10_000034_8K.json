@@ -1,0 +1,16 @@
+{
+  "ticker": "GOOGL",
+  "filing_date": "2026-04-10",
+  "event_type": "Executive Compensation",
+  "headline": "Alphabet's Board of Directors approved 2026 equity awards for key executive officers, utilizing a mix of performance and restricted stock units.",
+  "materiality": "Low",
+  "investor_impact": "The compensation structure aligns executive incentives with long-term shareholder value through TSR-linked PSUs and retention-focused GSUs, while finalizing the transition away from the SVP Bonus program. This is a standard corporate governance update with no immediate impact on financial modeling or the core investment thesis.",
+  "key_figures": [
+    "Anat Ashkenazi (CFO): $10,000,000 PSUs, $20,000,000 GSUs, $6,000,000 transitional award",
+    "Ruth Porat (CIO): $9,000,000 PSUs, $20,000,000 GSUs, $5,000,000 transitional award",
+    "Philipp Schindler (CBO): $16,000,000 PSUs, $26,000,000 GSUs, $5,666,667 transitional award",
+    "Kent Walker (CLO): $9,000,000 PSUs, $20,000,000 GSUs, $5,000,000 transitional award",
+    "PSU payout range: 0%-200% of target based on 2026-2028 relative TSR vs S&P 100",
+    "GSU vesting schedule: Monthly over 3 years (2026-2028)"
+  ]
+}

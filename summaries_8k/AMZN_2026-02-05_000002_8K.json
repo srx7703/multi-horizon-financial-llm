@@ -1,0 +1,14 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-02-05",
+  "event_type": "Earnings",
+  "headline": "Amazon.com, Inc. announced its financial results for the fourth quarter and full year ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material as they provide critical updates on revenue, profitability, and operational metrics. Analysts will scrutinize the attached press release for Q4 2025 performance, AWS growth, and forward-looking guidance to adjust their valuation models.",
+  "key_figures": [
+    "February 5, 2026",
+    "Fourth quarter 2025",
+    "December 31, 2025",
+    "Brian T. Olsavsky"
+  ]
+}

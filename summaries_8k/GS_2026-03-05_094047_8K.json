@@ -1,0 +1,13 @@
+{
+  "ticker": "GS",
+  "filing_date": "2026-03-05",
+  "event_type": "Debt Issuance",
+  "headline": "Goldman Sachs issued a total of CAD 2.75 billion in fixed/floating rate notes maturing in 2032 and 2037.",
+  "materiality": "Low",
+  "investor_impact": "This routine debt issuance in the Canadian market supports Goldman Sachs' standard funding and liquidity management. It does not alter the fundamental equity thesis but demonstrates continued strong access to international debt capital markets at favorable rates.",
+  "key_figures": [
+    "CAD 1,750,000,000 3.641% Fixed/Floating Rate Notes due 2032",
+    "CAD 1,000,000,000 4.340% Fixed/Floating Rate Notes due 2037",
+    "March 5, 2026"
+  ]
+}

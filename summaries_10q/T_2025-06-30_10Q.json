@@ -1,0 +1,24 @@
+{
+  "ticker": "T",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$30.85 billion, up 3.5% YoY from $29.80 billion",
+  "net_income": "$4.50 billion, up 25.1% YoY from $3.60 billion",
+  "key_metrics": [
+    "Service revenues: $25.29 billion (up 1.1% YoY)",
+    "Equipment revenues: $5.56 billion (up 15.9% YoY)",
+    "Operating income: $6.50 billion (up 12.9% YoY)",
+    "Diluted EPS: $0.62 (up from $0.49 YoY)",
+    "Net cash provided by operating activities (6 months): $18.81 billion (up 13.1% YoY)"
+  ],
+  "qoq_changes": [
+    "Total operating revenues increased slightly to $30.85 billion in Q2 2025 from an implied $30.63 billion in Q1 2025.",
+    "Net income attributable to AT&T increased to $4.50 billion in Q2 2025 from an implied $4.35 billion in Q1 2025."
+  ],
+  "new_risks": [
+    "Equipment costs rose 19.2% YoY to $5.74 billion, outpacing equipment revenue growth and potentially pressuring hardware margins.",
+    "Short-term debt maturing within one year increased significantly to $9.25 billion from $5.09 billion at year-end 2024."
+  ],
+  "management_tone": "Bullish, as the financials reflect accelerating equipment sales, expanding operating margins, and robust cash flow generation that comfortably covers capital expenditures.",
+  "analyst_note": "AT&T delivered a strong Q2 2025, highlighted by a 25% YoY increase in net income and solid 15.9% growth in equipment revenues. The company's robust first-half operating cash flow of $18.8 billion positions it well to manage its increased short-term debt maturities while sustaining capital investments."
+}

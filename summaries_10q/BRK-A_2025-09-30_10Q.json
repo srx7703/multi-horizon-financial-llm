@@ -1,0 +1,22 @@
+{
+  "ticker": "BRK-A",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$94.97 billion (up 2.1% YoY from $93.00 billion)",
+  "net_income": "$30.80 billion (up 17.3% YoY from $26.25 billion)",
+  "key_metrics": [
+    "Insurance premiums earned: $22.45 billion",
+    "Investment gains: $21.94 billion",
+    "Total cash, cash equivalents, and short-term U.S. Treasury Bills: $381.67 billion"
+  ],
+  "qoq_changes": [
+    "Net earnings attributable to shareholders surged to $30.80 billion in Q3 from $12.37 billion in Q2 2025",
+    "Short-term investments in U.S. Treasury Bills increased to $305.37 billion, up from year-end 2024 levels of $286.47 billion"
+  ],
+  "new_risks": [
+    "Reinvestment risk on the massive $381 billion cash/T-bill pile if short-term interest rates decline",
+    "Elevated equity market valuations limiting capital deployment and acquisition opportunities"
+  ],
+  "management_tone": "Cautious; the unprecedented accumulation of over $381 billion in cash and short-term T-bills indicates extreme valuation discipline and a highly defensive posture regarding current market opportunities.",
+  "analyst_note": "Berkshire Hathaway delivered a strong Q3 2025 with net earnings up 17.3% YoY, heavily bolstered by $21.9 billion in investment gains. However, the primary takeaway remains management's defensive positioning, as the cash and T-bill fortress grows to record levels, signaling a lack of attractive acquisition targets or equity valuations."
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "INTU",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2026-01-31",
+  "revenue": "$4.65 billion (6-month revenue up 17.8% YoY to $8.54 billion)",
+  "net_income": "$693 million (up 47.1% YoY from $471 million)",
+  "key_metrics": [
+    "Service revenue: $3.87 billion",
+    "Operating income: $855 million",
+    "Share repurchases: $961 million",
+    "Dividends declared: $1.20 per share"
+  ],
+  "qoq_changes": [
+    "Short-term debt increased from $0 to $749 million",
+    "Long-term debt decreased from $5.97 billion to $5.41 billion",
+    "Cash and cash equivalents increased from $2.88 billion to $2.94 billion"
+  ],
+  "new_risks": [
+    "Execution risks related to integrating artificial intelligence into products and services",
+    "Heightened industry-wide risks regarding customer fraud and cybersecurity",
+    "Potential impacts from macroeconomic conditions and regulatory inquiries"
+  ],
+  "management_tone": "Bullish; management demonstrated confidence through aggressive capital returns ($961 million in Q2 buybacks) and continued investment in AI, supported by strong profitability growth.",
+  "analyst_note": "Intuit delivered a highly profitable Q2 FY26, highlighted by a 47% YoY increase in net income and robust service revenue. The company's strategic shift in its debt profile and heavy investments in AI-driven products position it well for future growth, while aggressive share repurchases underscore strong underlying cash flow."
+}

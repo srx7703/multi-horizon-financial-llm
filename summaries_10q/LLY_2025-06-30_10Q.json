@@ -1,0 +1,23 @@
+{
+  "ticker": "LLY",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$15.56 billion, an increase of 37.6% YoY compared to $11.30 billion in Q2 2024",
+  "net_income": "$5.66 billion, an increase of 90.8% YoY compared to $2.97 billion in Q2 2024",
+  "key_metrics": [
+    "Diluted EPS increased 91.8% YoY to $6.29 from $3.28",
+    "Research and development expenses increased 23.0% YoY to $3.34 billion",
+    "Inventory levels increased 45.1% to $11.01 billion from $7.59 billion at year-end 2024"
+  ],
+  "qoq_changes": [
+    "Revenue increased 22.2% sequentially to $15.56 billion in Q2 2025 from an implied $12.73 billion in Q1 2025",
+    "Net income more than doubled sequentially to $5.66 billion in Q2 2025 from an implied $2.76 billion in Q1 2025"
+  ],
+  "new_risks": [
+    "Risks associated with the use of artificial intelligence or other emerging technologies exacerbating competitive, regulatory, litigation, and cybersecurity vulnerabilities",
+    "Proliferation of counterfeit, misbranded, adulterated, or illegally compounded products",
+    "Supply chain unpredictability and variability in demand, including labor shortages and third-party performance issues"
+  ],
+  "management_tone": "Highly bullish, as evidenced by explosive top-line growth of 37.6% and a near-doubling of net income, reflecting massive market uptake and successful scaling of operations.",
+  "analyst_note": "Eli Lilly delivered a blowout Q2 2025 with revenue up 37.6% and net income surging 90.8% YoY, driven by robust demand and expanding margins. The significant $3.4 billion inventory build since year-end suggests the company is aggressively scaling supply to meet unprecedented demand for its key therapies, though counterfeit products and supply chain variability remain key risks to monitor."
+}

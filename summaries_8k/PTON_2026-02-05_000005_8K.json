@@ -1,0 +1,14 @@
+{
+  "ticker": "PTON",
+  "filing_date": "2026-02-05",
+  "event_type": "Earnings and Executive Change",
+  "headline": "Peloton announced its quarterly financial results for the period ended December 31, 2025, alongside the upcoming departure of CFO Liz Coddington.",
+  "materiality": "High",
+  "investor_impact": "The simultaneous release of quarterly earnings and the announcement of the CFO's departure introduces near-term uncertainty regarding financial leadership. However, the explicit statement that her exit is not due to accounting disagreements mitigates worst-case fears, shifting investor focus to the ongoing executive search and the underlying quarterly performance.",
+  "key_figures": [
+    "December 31, 2025 (Quarter end date)",
+    "Liz Coddington (Departing CFO)",
+    "March 27, 2026 (CFO departure effective date)",
+    "Peter Stern (CEO)"
+  ]
+}

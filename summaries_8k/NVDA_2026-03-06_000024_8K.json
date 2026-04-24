@@ -1,0 +1,16 @@
+{
+  "ticker": "NVDA",
+  "filing_date": "2026-03-06",
+  "event_type": "Executive Compensation",
+  "headline": "NVIDIA's Compensation Committee adopted the Fiscal Year 2027 Variable Compensation Plan, establishing revenue-based cash bonus targets for key executive officers.",
+  "materiality": "Low",
+  "investor_impact": "The establishment of revenue-based performance goals for FY2027 ensures management remains incentivized to drive top-line growth. This is a standard corporate governance procedure and does not materially alter our fundamental outlook or investment thesis for the company.",
+  "key_figures": [
+    "Jen-Hsun Huang target award: $4,000,000 (200% of base salary)",
+    "Colette M. Kress target award: $1,500,000 (150% of base salary)",
+    "Ajay K. Puri target award: $1,500,000 (150% of base salary)",
+    "Debora Shoquist target award: $1,500,000 (150% of base salary)",
+    "Timothy S. Teter target award: $1,500,000 (150% of base salary)",
+    "Fiscal Year 2027 ending January 31, 2027"
+  ]
+}

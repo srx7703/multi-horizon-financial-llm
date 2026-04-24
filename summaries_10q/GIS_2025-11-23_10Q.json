@@ -1,0 +1,22 @@
+{
+  "ticker": "GIS",
+  "fiscal_period": "Q2 2026",
+  "period_end": "2025-11-23",
+  "revenue": "$4,860.8 million, down 7.2% YoY",
+  "net_income": "$413.0 million, down 48.1% YoY",
+  "key_metrics": [
+    "Diluted EPS of $0.78, down 45.1% YoY from $1.42",
+    "Operating profit of $728.0 million, down 32.5% YoY from $1,077.9 million",
+    "Restructuring, transformation, and impairment costs of $122.1 million, up significantly from $1.2 million YoY"
+  ],
+  "qoq_changes": [
+    "Net sales increased sequentially to $4,860.8 million in Q2 from an implied $4,517.5 million in Q1",
+    "Net earnings decreased sequentially to $413.0 million in Q2 from an implied $1,204.2 million in Q1, as Q1 benefited from a $1.05 billion divestiture gain"
+  ],
+  "new_risks": [
+    "Elevated restructuring and transformation costs are severely pressuring operating margins",
+    "Joint venture performance deteriorated sharply, swinging to an after-tax loss of $59.6 million from a $30.0 million gain YoY"
+  ],
+  "management_tone": "Cautious, as the company navigates a 7.2% YoY decline in net sales and significant margin pressures from restructuring efforts and joint venture losses.",
+  "analyst_note": "General Mills is in the midst of a major portfolio transformation, evidenced by a massive $1.05 billion YTD divestiture gain and elevated Q2 restructuring costs. While YoY top-line and bottom-line metrics are weak, sequential revenue growth suggests core operations are stabilizing as the company executes its strategic realignment."
+}

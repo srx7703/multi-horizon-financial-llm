@@ -1,0 +1,24 @@
+{
+  "ticker": "CMCSA",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$31.20 billion, down 2.7% YoY",
+  "net_income": "$3.33 billion, down 8.2% YoY",
+  "key_metrics": [
+    "Diluted EPS: $0.90 (down 4.3% YoY from $0.94)",
+    "Operating Income: $5.53 billion (down 5.5% YoY from $5.86 billion)",
+    "9M 2025 Operating Cash Flow: $24.80 billion (up 26.6% YoY from $19.59 billion)"
+  ],
+  "qoq_changes": [
+    "Q3 net income of $3.33 billion came in significantly below the 9M 2025 quarterly average of $5.94 billion, indicating recent sequential margin compression.",
+    "Q3 revenue of $31.20 billion trended slightly above the 9M 2025 quarterly average of $30.46 billion."
+  ],
+  "new_risks": [
+    "Accelerating changes in consumer behavior challenging existing business models.",
+    "Increasing programming expenses on a per-subscriber basis pressuring video margins.",
+    "Potential loss or unfavorable renewal terms of key programming distribution agreements.",
+    "Vulnerability to labor disputes involving employees or sports organizations."
+  ],
+  "management_tone": "Cautious; management explicitly highlights ongoing secular headwinds in linear video, rising programming costs, and dynamic shifts in consumer behavior and advertising markets.",
+  "analyst_note": "CMCSA delivered a soft Q3 2025 with revenue and net income contracting 2.7% and 8.2% YoY respectively, driven by secular challenges in traditional media and a 10.4% YoY increase in marketing spend. Despite top-line and margin pressures, the company maintains robust year-to-date cash generation ($24.8B operating cash flow) to support its ongoing capital return program and strategic investments."
+}

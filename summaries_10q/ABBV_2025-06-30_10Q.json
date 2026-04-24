@@ -1,0 +1,23 @@
+{
+  "ticker": "ABBV",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$15.42 billion (+6.6% YoY)",
+  "net_income": "$938 million (-31.5% YoY)",
+  "key_metrics": [
+    "Operating earnings of $4.89 billion (+22.4% YoY)",
+    "Diluted earnings per share of $0.52 (down from $0.77 YoY)",
+    "Research and development expenses of $2.13 billion (+9.4% YoY)",
+    "Other expense, net of $2.64 billion (+96.2% YoY)"
+  ],
+  "qoq_changes": [
+    "Net revenues increased sequentially to $15.42 billion in Q2 from an implied $13.34 billion in Q1 2025.",
+    "Net income declined sequentially to $938 million in Q2 from an implied $1.29 billion in Q1 2025, driven by higher non-operating expenses."
+  ],
+  "new_risks": [
+    "Massive increase in 'Other expense, net' ($2.64 billion in Q2 2025 vs $1.35 billion in Q2 2024) severely dragging down GAAP profitability.",
+    "Significant earnings volatility and cash flow impact from contingent consideration liabilities, which saw a $4.31 billion fair value adjustment in H1 2025."
+  ],
+  "management_tone": "Neutral; while core operating performance and top-line growth remain robust, massive non-operating expenses and contingent liability adjustments are heavily weighing on bottom-line GAAP results.",
+  "analyst_note": "AbbVie demonstrated strong core operational health with a 6.6% increase in revenue and a 22.4% expansion in operating earnings. However, the 31.5% YoY drop in GAAP net income warrants close scrutiny, as it was entirely driven by a massive $2.64 billion 'Other expense' charge and ongoing fair value adjustments to contingent consideration liabilities."
+}

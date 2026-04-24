@@ -1,0 +1,25 @@
+{
+  "ticker": "AXP",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-31",
+  "revenue": "$18.91 billion, up 11% YoY",
+  "net_income": "$2.97 billion, up 15% YoY",
+  "key_metrics": [
+    "Diluted EPS of $4.28, up 18% YoY",
+    "Billed business of $428.0 billion, up 10% YoY",
+    "Total Card balances and Other loans of $224.16 billion, up 8% YoY",
+    "Provisions for credit losses of $1.25 billion, up 9% YoY",
+    "Net write-off rate (principal, interest and fees) of 2.3%"
+  ],
+  "qoq_changes": [
+    "Sequential decrease in Card balances driving a reserve release",
+    "Softening of airline spend in the last few weeks of the quarter"
+  ],
+  "new_risks": [
+    "Travel disruptions and softening airline spend due to the Middle East conflict",
+    "Uncertainty in the macroeconomic, geopolitical, and regulatory landscape",
+    "Higher net write-offs and lower reserve releases impacting credit loss provisions"
+  ],
+  "management_tone": "Bullish, as management highlighted strong engagement on refreshed premium products, accelerated billed business growth, and confidence in navigating evolving economic environments.",
+  "analyst_note": "American Express posted a strong Q1 2026 with double-digit top and bottom-line growth fueled by Millennial/Gen-Z spending and international expansion. However, rising credit provisions and late-quarter travel softening warrant close monitoring in the near term."
+}

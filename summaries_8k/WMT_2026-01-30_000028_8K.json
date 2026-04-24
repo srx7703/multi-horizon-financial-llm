@@ -1,0 +1,17 @@
+{
+  "ticker": "WMT",
+  "filing_date": "2026-01-30",
+  "event_type": "Executive Change",
+  "headline": "Walmart finalizes separation agreement with departing Walmart International CEO Kathryn McLay, including $2.82 million in severance and accelerated equity vesting.",
+  "materiality": "Low",
+  "investor_impact": "The financial terms of the separation agreement are immaterial to Walmart's overall financials, as the executive's departure was previously announced. The inclusion of a two-year non-compete clause provides strategic protection during the leadership transition for the International segment.",
+  "key_figures": [
+    "Kathryn McLay (EVP, President and CEO, Walmart International)",
+    "January 31, 2026 (steps down from position)",
+    "April 30, 2026 (separation date)",
+    "$2,820,000 (severance payments over two years)",
+    "24,051 (restricted shares accelerated)",
+    "2 years (non-compete period)",
+    "6 months (non-solicitation period)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "ABBV",
+  "filing_date": "2026-02-26",
+  "event_type": "Debt Offering",
+  "headline": "AbbVie priced an $8.0 billion multi-tranche senior notes offering to refinance near-term debt and fund general corporate purposes.",
+  "materiality": "Medium",
+  "investor_impact": "This $8.0 billion debt issuance allows AbbVie to proactively manage its maturity profile by refinancing its 364-day term loan due May 2026. The transaction secures long-term financing across multiple tranches up to 2066, mitigating near-term refinancing risk and terming out its capital structure without diluting equity.",
+  "key_figures": [
+    "$7.95 billion expected net proceeds",
+    "$750 million senior floating rate notes due 2028",
+    "$1.5 billion 3.775% senior notes due 2028",
+    "$1.25 billion 4.125% senior notes due 2031",
+    "$1.25 billion 4.400% senior notes due 2033",
+    "$1.5 billion 4.750% senior notes due 2036",
+    "$1.25 billion 5.550% senior notes due 2056",
+    "$500 million 5.650% senior notes due 2066",
+    "$4.0 billion 364-Day delayed draw term loan facility maturing May 2026 ($2.0 billion currently outstanding) targeted for repayment",
+    "March 4, 2026 expected closing date"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "NVDA",
+  "fiscal_period": "Q2 FY26",
+  "period_end": "2025-07-27",
+  "revenue": "$46.74 billion, up 55.6% YoY from $30.04 billion",
+  "net_income": "$26.42 billion, up 59.2% YoY from $16.60 billion",
+  "key_metrics": [
+    "Gross Profit: $33.85 billion (72.4% gross margin)",
+    "Operating Income: $28.44 billion",
+    "Diluted EPS: $1.08 (up from $0.67 YoY)"
+  ],
+  "qoq_changes": [
+    "Revenue increased 6.1% sequentially (implied Q1 revenue of $44.06 billion based on 6-month total)",
+    "Net income increased 40.7% sequentially (implied Q1 net income of $18.78 billion based on 6-month total)"
+  ],
+  "new_risks": [
+    "Specific new risks were not detailed in the provided excerpt, as the text cuts off before Item 1A (Risk Factors)."
+  ],
+  "management_tone": "Bullish \u2014 The financial results demonstrate massive, sustained demand and exceptional operational leverage, yielding over 55% YoY revenue growth and nearly 60% YoY net income growth.",
+  "analyst_note": "NVIDIA delivered another blowout quarter with $46.7B in revenue and $26.4B in net income, reflecting sustained hyper-growth and dominant market positioning in AI accelerators."
+}

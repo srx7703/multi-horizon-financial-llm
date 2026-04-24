@@ -1,0 +1,15 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-02-27",
+  "event_type": "Material Agreement",
+  "headline": "Amazon commits to invest up to $35.0 billion in OpenAI's Series C Preferred Stock and enters into a strategic AWS cloud and AI collaboration agreement.",
+  "materiality": "High",
+  "investor_impact": "This massive $35 billion commitment, combined with a separate $15 billion near-term investment, significantly strengthens Amazon's position in the generative AI arms race. Securing OpenAI as a major AWS customer and integrating OpenAI models into AWS will likely drive substantial cloud revenue growth and directly challenge competitors' AI market share.",
+  "key_figures": [
+    "$35.0 billion commitment amount for OpenAI Series C Preferred Stock",
+    "$15.0 billion separate investment in OpenAI's current funding round",
+    "March 31, 2026 obligation date for the $15.0 billion investment",
+    "December 31, 2028 termination date for the $35.0 billion commitment",
+    "February 27, 2026 agreement date"
+  ]
+}

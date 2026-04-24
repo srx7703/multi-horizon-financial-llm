@@ -1,0 +1,13 @@
+{
+  "ticker": "AXP",
+  "filing_date": "2026-03-02",
+  "event_type": "Dividend Update",
+  "headline": "American Express announced an increase in its quarterly dividend on common shares from $0.82 to $0.95 per share.",
+  "materiality": "Medium",
+  "investor_impact": "The nearly 16% increase in the quarterly dividend signals strong management confidence in ongoing cash flow generation and capital adequacy. This shareholder-friendly move enhances the stock's yield profile and reinforces a positive outlook on the company's fundamental earnings power.",
+  "key_figures": [
+    "$0.95 new quarterly dividend per common share",
+    "$0.82 previous quarterly dividend per common share",
+    "March 2, 2026"
+  ]
+}

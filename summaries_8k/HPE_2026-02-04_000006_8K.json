@@ -1,0 +1,15 @@
+{
+  "ticker": "HPE",
+  "filing_date": "2026-02-04",
+  "event_type": "Dividend Declaration",
+  "headline": "Hewlett Packard Enterprise declared a cash dividend of $0.953125 per share on its 7.625% Series C Mandatory Convertible Preferred Stock.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine preferred dividend declaration for the Series C Mandatory Convertible Preferred Stock and has no material impact on the common equity investment thesis. It signals continued normal course operations and adherence to preferred equity obligations.",
+  "key_figures": [
+    "$0.953125 per share cash dividend",
+    "7.625% Series C Mandatory Convertible Preferred Stock",
+    "March 1, 2026 payable date",
+    "February 15, 2026 record date",
+    "David Antczak"
+  ]
+}

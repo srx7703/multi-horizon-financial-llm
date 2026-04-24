@@ -1,0 +1,15 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-02-23",
+  "event_type": "Debt Refinancing",
+  "headline": "AMC announces a $1.73 billion first lien notes offering and a new $750 million term loan to refinance existing debt, including the redemption of its 12.750% Odeon Notes due 2027.",
+  "materiality": "High",
+  "investor_impact": "This comprehensive debt refinancing pushes out near-term maturities to 2031 and retires the expensive 12.75% Odeon notes, significantly improving AMC's liquidity runway and mitigating near-term default risk. However, the massive $2.48 billion aggregate debt package underscores the company's ongoing heavy debt burden and reliance on capital markets to sustain operations.",
+  "key_figures": [
+    "$1,730 million first lien notes due 2031",
+    "$750 million new term loan facility",
+    "$400 million 12.750% Senior Secured Notes due 2027 (Odeon Notes)",
+    "103.188% redemption price for Odeon Notes",
+    "$2,480 million minimum aggregate gross proceeds required for conditional redemption"
+  ]
+}

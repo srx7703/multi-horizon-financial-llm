@@ -1,0 +1,13 @@
+{
+  "ticker": "DVA",
+  "filing_date": "2026-02-02",
+  "event_type": "Earnings",
+  "headline": "DaVita Inc. issued a press release announcing its financial results for the quarter ended December 31, 2025.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material events that provide critical visibility into the company's operational performance, treatment volumes, and margin trends. Investors should review the furnished press release to evaluate Q4 2025 fundamentals and any forward-looking guidance provided by management.",
+  "key_figures": [
+    "Quarter ended December 31, 2025",
+    "February 2, 2026",
+    "Christopher M. Berry"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "CRM",
+  "filing_date": "2026-03-12",
+  "event_type": "Material Agreement",
+  "headline": "Salesforce entered into a $25 billion accelerated share repurchase agreement funded by a multi-tranche senior notes offering, and secured a new $6 billion five-year credit agreement.",
+  "materiality": "High",
+  "investor_impact": "The massive $25 billion debt-funded accelerated share repurchase will be highly accretive to EPS and signals strong management confidence in valuation, albeit at the cost of increased leverage. Additionally, the $6 billion credit facility effectively refinances near-term maturities, extending the company's debt profile and preserving financial flexibility.",
+  "key_figures": [
+    "$25 billion accelerated share repurchase (ASR) aggregate amount",
+    "$50 billion total share repurchase authorization as of February 2026",
+    "80% initial share delivery on March 16, 2026",
+    "$24.885 billion expected net proceeds from the senior notes offering",
+    "$3.5 billion of 4.500% Senior Notes due 2028",
+    "$4.25 billion of 4.650% Senior Notes due 2029",
+    "$3.75 billion of 4.900% Senior Notes due 2031",
+    "$2.75 billion of 5.200% Senior Notes due 2033",
+    "$4.5 billion of 5.550% Senior Notes due 2036",
+    "$1.5 billion of 6.400% Senior Notes due 2046",
+    "$3.75 billion of 6.550% Senior Notes due 2056",
+    "$1.0 billion of 6.700% Senior Notes due 2066",
+    "$6 billion Five-Year Credit Agreement",
+    "$4 billion repayment of 364-Day Credit Agreement",
+    "$2 billion repayment of Three-Year Credit Agreement"
+  ]
+}

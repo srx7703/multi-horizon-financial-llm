@@ -1,0 +1,24 @@
+{
+  "ticker": "DVA",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$3.42 billion, up 4.8% YoY compared to $3.26 billion in Q3 2024",
+  "net_income": "$150.3 million, down 30.0% YoY compared to $214.7 million in Q3 2024",
+  "key_metrics": [
+    "Dialysis patient service revenues: $3.30 billion (up from $3.14 billion YoY)",
+    "Operating income: $505.8 million (down from $534.9 million YoY)",
+    "Diluted EPS: $2.04 (down from $2.50 YoY)"
+  ],
+  "qoq_changes": [
+    "Patient care costs increased to $2.33 billion, outpacing revenue growth and pressuring margins",
+    "Debt expense rose to $150.6 million, reflecting higher borrowing costs",
+    "Long-term debt increased to $10.18 billion from $9.18 billion at the end of 2024"
+  ],
+  "new_risks": [
+    "Margin compression due to rising patient care and administrative costs",
+    "Increased leverage risk, with long-term debt growing by $1 billion in the first nine months of 2025",
+    "Aggressive share repurchases ($1.46 billion in 9 months) reducing equity while debt increases"
+  ],
+  "management_tone": "Cautious, as steady top-line revenue growth is being overshadowed by rising operating costs, higher debt expenses, and a significant contraction in net income.",
+  "analyst_note": "DaVita demonstrated resilient top-line growth driven by dialysis patient services, but profitability took a hit with a 30% YoY decline in net income due to escalating care costs and interest expenses. The company's aggressive share buyback strategy, funded partially by increasing long-term debt, warrants close monitoring of its leverage profile."
+}

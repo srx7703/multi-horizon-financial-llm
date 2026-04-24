@@ -1,0 +1,14 @@
+{
+  "ticker": "HAS",
+  "filing_date": "2026-02-10",
+  "event_type": "Earnings",
+  "headline": "Hasbro, Inc. furnished its results of operations and financial condition via a press release.",
+  "materiality": "High",
+  "investor_impact": "As an earnings release, this is a highly material event that will dictate near-term stock price movement. Investors must review the attached Exhibit 99.1 for actual financial results, margin performance, and forward guidance to update valuation models.",
+  "key_figures": [
+    "February 10, 2026",
+    "Item 2.02",
+    "Exhibit 99.1",
+    "Gina Goetter"
+  ]
+}

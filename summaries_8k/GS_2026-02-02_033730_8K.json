@@ -1,0 +1,14 @@
+{
+  "ticker": "GS",
+  "filing_date": "2026-02-02",
+  "event_type": "Debt Issuance",
+  "headline": "Goldman Sachs announced the issuance of $2.5 billion in 5.387% Fixed-Rate Reset Subordinated Notes due 2041.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine debt issuance under the company's shelf registration for standard balance sheet and capital management. While it marginally increases interest expense, a $2.5 billion subordinated debt offering is ordinary course of business for a bank of Goldman's size and does not alter the core investment thesis.",
+  "key_figures": [
+    "$2,500,000,000 principal amount",
+    "5.387% fixed-rate reset",
+    "Maturity year 2041",
+    "February 2, 2026 issuance date"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "KO",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-26",
+  "revenue": "$12.46 billion (+5.1% YoY)",
+  "net_income": "$3.70 billion (+29.8% YoY)",
+  "key_metrics": [
+    "Gross Profit: $7.66 billion (+6.5% YoY)",
+    "Operating Income: $3.98 billion (+58.6% YoY)",
+    "Diluted EPS: $0.86 (vs $0.66 in Q3 2024)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $12.73 billion from $10.83 billion at year-end 2024",
+    "Total assets expanded to $106.05 billion from $100.55 billion at year-end 2024",
+    "Accounts payable and accrued expenses decreased to $17.69 billion from $21.72 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Potential unfavorable outcome of the ongoing tax dispute with the United States Internal Revenue Service, which could significantly change estimated aggregate incremental tax and interest liabilities"
+  ],
+  "management_tone": "Bullish; the company demonstrated strong operating leverage with significant margin expansion and robust top-line growth, despite looming IRS tax litigation risks.",
+  "analyst_note": "Coca-Cola delivered a highly profitable quarter, expanding operating income by nearly 59% YoY on the back of solid 5% revenue growth and a massive reduction in other operating charges. While core operations are firing on all cylinders and cash generation remains robust, investors should closely monitor the ongoing IRS tax dispute for potential balance sheet impacts."
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-01-28",
+  "event_type": "Earnings",
+  "headline": "AT&T announced Q4 2025 financial results and a new segment reporting structure effective Q1 2026 to separate Advanced Connectivity from Legacy copper operations.",
+  "materiality": "Medium",
+  "investor_impact": "The new reporting structure (Advanced Connectivity, Legacy, Latin America) gives investors better visibility into 5G and fiber growth versus the secular decline of legacy copper assets. Analysts will need to update their models using the provided recast 2023-2025 financials, though consolidated operating income and Adjusted EBITDA are unaffected.",
+  "key_figures": [
+    "Q4 2025",
+    "March 31, 2026",
+    "2023, 2024, 2025"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "BRK-A",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$92.52 billion (down 1.2% YoY from $93.65 billion)",
+  "net_income": "$12.37 billion (down 59.2% YoY from $30.35 billion)",
+  "key_metrics": [
+    "Cash and short-term U.S. Treasury Bills combined reached a massive $339.8 billion",
+    "Investment gains declined sharply to $6.36 billion from $23.86 billion YoY",
+    "Equity method earnings swung to a $4.75 billion loss compared to a $252 million gain YoY",
+    "Insurance premiums earned remained stable at $22.20 billion vs $21.95 billion YoY"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents more than doubled to $96.19 billion from $44.33 billion at year-end 2024",
+    "Short-term investments in U.S. Treasury Bills decreased to $243.61 billion from $286.47 billion at year-end 2024",
+    "Total assets increased to $1.164 trillion from $1.154 trillion at year-end 2024"
+  ],
+  "new_risks": [
+    "A substantial $4.75 billion loss in equity method investments significantly dragged down pre-tax earnings",
+    "Opportunity cost and inflation drag associated with hoarding nearly $340 billion in cash and short-term treasuries",
+    "Continued high volatility in headline net income due to fluctuations in unrealized investment gains"
+  ],
+  "management_tone": "Cautious; the continued accumulation of a record $339.8 billion in cash and T-bills strongly suggests management sees a lack of attractively valued acquisition or equity investment opportunities in the current market.",
+  "analyst_note": "While Berkshire's core operating businesses like insurance and freight rail remain highly stable, headline earnings were heavily compressed by a steep drop in unrealized investment gains and a notable $4.7 billion equity method loss. The defining takeaway is the fortress balance sheet, with cash and short-term treasuries nearing $340 billion, signaling extreme patience and a highly defensive posture regarding current market valuations."
+}

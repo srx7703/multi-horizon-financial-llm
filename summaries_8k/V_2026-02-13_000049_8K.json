@@ -1,0 +1,15 @@
+{
+  "ticker": "V",
+  "filing_date": "2026-02-13",
+  "event_type": "Exchange Offer",
+  "headline": "Visa's Board of Directors has authorized a successive exchange offer for outstanding Class B common stock, contingent upon meeting specific litigation reduction conditions.",
+  "materiality": "Medium",
+  "investor_impact": "The anticipated exchange offer will provide liquidity to Class B-1 and B-2 shareholders by allowing conversion into a mix of restricted Class B-3 and freely transferable Class C stock, which may impact voting dilution and market float. Additionally, the authorization signals management's confidence that unresolved U.S. covered litigation claims will soon fall below the required 50% reduction threshold.",
+  "key_figures": [
+    "50% or more reduction required in unresolved claims",
+    "$49.6 billion estimated interchange reimbursement fees at issue as of October 1, 2023",
+    "$39.4 billion estimated interchange reimbursement fees at issue as of October 1, 2025",
+    "December 7, 2023 proxy statement date",
+    "No. 13-cv-4442 (AKH) 7-Eleven, Inc., et al., v. Visa Inc. litigation case"
+  ]
+}

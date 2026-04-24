@@ -1,0 +1,21 @@
+{
+  "ticker": "BAC",
+  "filing_date": "2026-02-13",
+  "event_type": "Executive Compensation",
+  "headline": "Bank of America's Board of Directors approved a $41 million 2025 total compensation package for CEO Brian Moynihan, while raising the performance standards required for future equity payouts.",
+  "materiality": "Medium",
+  "investor_impact": "The revised compensation structure strongly aligns CEO incentives with aggressive long-term growth, requiring unprecedented net income levels of up to $37 billion annually to achieve maximum equity payouts. This signals strong Board confidence in the bank's future profitability and operational leverage.",
+  "key_figures": [
+    "Brian T. Moynihan (Chair and CEO)",
+    "$41,000,000 (2025 total compensation)",
+    "$35,000,000 (2024 total compensation)",
+    "$30.5 billion (2025 net income, up 13%)",
+    "$113.1 billion (2025 revenue, up 7%)",
+    "$1.5 million (annual base salary)",
+    "$39.5 million (2025 equity incentive)",
+    "$92 billion (aggregate net income needed from 2026-2028 for 100% target payout)",
+    "$112 billion (aggregate net income needed from 2026-2028 for 150% maximum payout)",
+    "10.5% (Target 3-year average growth of adjusted tangible book value)",
+    "90bps (Target 3-year average return on assets)"
+  ]
+}

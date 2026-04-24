@@ -1,0 +1,17 @@
+{
+  "ticker": "SCHW",
+  "filing_date": "2026-04-22",
+  "event_type": "Capital Raise",
+  "headline": "Charles Schwab raised approximately $1.48 billion in net proceeds through the issuance of 1.5 million depositary shares of 6.100% Series L preferred stock.",
+  "materiality": "Medium",
+  "investor_impact": "This $1.48 billion preferred stock issuance bolsters Schwab's regulatory capital and liquidity profile, reinforcing balance sheet strength. However, the 6.100% fixed dividend introduces a new preferred dividend obligation that will marginally reduce earnings available to common shareholders and includes standard restrictions on common stock dividends and buybacks if preferred dividends are suspended.",
+  "key_figures": [
+    "1,500,000 depositary shares issued",
+    "6.100% fixed-rate reset non-cumulative perpetual preferred stock, Series L",
+    "$1,480 million approximate net proceeds",
+    "$100,000 liquidation preference per preferred share ($1,000 per Depositary Share)",
+    "1/100th ownership interest per depositary share",
+    "April 20, 2026 (Underwriting Agreement date)",
+    "April 22, 2026 (Issuance date)"
+  ]
+}

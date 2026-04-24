@@ -1,0 +1,15 @@
+{
+  "ticker": "JPM",
+  "filing_date": "2026-04-14",
+  "event_type": "Earnings",
+  "headline": "JPMorgan Chase & Co. reported first quarter 2026 net income of $16.5 billion, or $5.94 per share, representing a strong year-over-year increase.",
+  "materiality": "High",
+  "investor_impact": "The substantial year-over-year growth in both net income and EPS signals robust fundamental performance and operational strength. This earnings beat is likely to reinforce a positive investment thesis and drive near-term momentum for the stock.",
+  "key_figures": [
+    "Q1 2026 net income of $16.5 billion",
+    "Q1 2026 EPS of $5.94",
+    "Q1 2025 net income of $14.6 billion",
+    "Q1 2025 EPS of $5.07",
+    "April 14, 2026"
+  ]
+}

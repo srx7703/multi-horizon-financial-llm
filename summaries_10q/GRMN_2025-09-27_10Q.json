@@ -1,0 +1,21 @@
+{
+  "ticker": "GRMN",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-27",
+  "revenue": "$1.77 billion, up 11.7% YoY compared to $1.59 billion",
+  "net_income": "$401.6 million, up 0.6% YoY compared to $399.1 million",
+  "key_metrics": [
+    "Gross profit increased to $1.05 billion from $951.6 million YoY",
+    "Operating income increased to $456.8 million from $437.5 million YoY",
+    "Research and development expenses rose 15% YoY to $286.5 million",
+    "Inventories increased to $1.89 billion from $1.47 billion at the end of 2024"
+  ],
+  "qoq_changes": [
+    "Sequential quarter-over-quarter (Q2 2025 to Q3 2025) financial data was not provided in the excerpt, but 39-week YTD revenue grew 14.4% to $5.12 billion."
+  ],
+  "new_risks": [
+    "Specific new risks are not detailed in the provided excerpt as Item 1A (Risk Factors) was omitted from the text."
+  ],
+  "management_tone": "Cautiously optimistic; top-line revenue and gross profit showed strong double-digit growth, though net income growth was constrained by rising operating expenses and higher income tax provisions.",
+  "analyst_note": "Garmin delivered solid top-line growth of 11.7% in Q3 2025, but bottom-line expansion was muted by a 14.7% increase in total operating expenses (driven by R&D and SG&A) and higher taxes, resulting in essentially flat net income YoY."
+}

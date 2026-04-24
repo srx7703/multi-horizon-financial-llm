@@ -1,0 +1,24 @@
+{
+  "ticker": "AAPL",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-06-28",
+  "revenue": "$94.04 billion (+9.6% YoY)",
+  "net_income": "$23.43 billion (+9.3% YoY)",
+  "key_metrics": [
+    "Services Revenue: $27.42 billion (+13.3% YoY)",
+    "Products Revenue: $66.61 billion (+8.2% YoY)",
+    "Gross Margin: $43.72 billion (46.5% of total net sales)",
+    "Diluted EPS: $1.57 (vs $1.40 YoY)",
+    "Share Repurchases: $21.17 billion in the quarter"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $36.27 billion from $29.94 billion at the end of the prior fiscal year.",
+    "Total assets decreased to $331.50 billion from $364.98 billion at the end of the prior fiscal year.",
+    "Total current liabilities decreased to $141.12 billion from $176.39 billion at the end of the prior fiscal year."
+  ],
+  "new_risks": [
+    "Specific risk factor details (Item 1A) were not included in the provided financial tables excerpt."
+  ],
+  "management_tone": "Bullish, driven by strong nearly double-digit YoY growth in both total revenue and net income, anchored by a highly profitable and rapidly expanding Services segment.",
+  "analyst_note": "Apple delivered a robust Q3 2025, demonstrating resilient top-line growth with Services continuing to act as a major high-margin growth engine. The company's ability to expand gross margins while aggressively returning capital to shareholders via $21.1 billion in quarterly share repurchases highlights exceptional operational execution."
+}

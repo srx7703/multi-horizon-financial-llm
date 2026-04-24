@@ -1,0 +1,14 @@
+{
+  "ticker": "AXP",
+  "filing_date": "2026-02-10",
+  "event_type": "Debt Offering",
+  "headline": "American Express issued $3.5 billion in combined senior and subordinated notes across four tranches with maturities ranging from 2029 to 2041.",
+  "materiality": "Low",
+  "investor_impact": "This $3.5 billion debt issuance represents routine balance sheet management and funding operations for the firm. The staggered maturities and mix of fixed-to-floating and floating rate notes will help optimize AXP's cost of capital and interest rate exposure, with no material change to the broader equity thesis.",
+  "key_figures": [
+    "$1,350,000,000 of 4.009% Fixed-to-Floating Rate Notes due February 9, 2029",
+    "$1,000,000,000 of 4.456% Fixed-to-Floating Rate Notes due February 10, 2032",
+    "$650,000,000 of Floating Rate Notes due February 9, 2029",
+    "$500,000,000 of 5.412% Fixed-to-Fixed Rate Subordinated Notes due February 8, 2041"
+  ]
+}

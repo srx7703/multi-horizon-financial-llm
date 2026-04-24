@@ -1,0 +1,25 @@
+{
+  "ticker": "SBUX",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2025-12-28",
+  "revenue": "$9.92 billion, up 5.5% YoY",
+  "net_income": "$293.3 million, down 62.4% YoY",
+  "key_metrics": [
+    "Company-operated stores revenue: $8.19 billion",
+    "Operating income: $890.8 million (down 20.6% YoY)",
+    "Diluted EPS: $0.26 (down from $0.69 YoY)",
+    "Restructuring and impairments: $88.1 million"
+  ],
+  "qoq_changes": [
+    "Assets held for sale surged to $4.72 billion from $0 in the prior quarter.",
+    "Goodwill decreased sharply to $1.31 billion from $3.37 billion.",
+    "Cash and cash equivalents increased to $3.41 billion from $3.22 billion."
+  ],
+  "new_risks": [
+    "Severe margin compression driven by rising store operating expenses and product costs.",
+    "Uncertainty surrounding a major divestiture or spin-off, evidenced by $4.7 billion in assets moved to held-for-sale.",
+    "Disproportionately high income tax expense ($471.6 million on $764.8 million pre-tax income) severely impacting bottom-line profitability."
+  ],
+  "management_tone": "Cautious, as modest top-line growth is overshadowed by severe margin contraction, restructuring efforts, and a massive 62% drop in net income.",
+  "analyst_note": "Starbucks delivered 5.5% revenue growth to $9.9B, but net income plummeted 62% to $293M due to surging operating expenses, restructuring charges, and an unusually high tax burden. The balance sheet indicates a massive strategic shift, with $4.7B reclassified to assets held for sale and a corresponding $2B drop in goodwill, signaling an imminent major divestiture."
+}

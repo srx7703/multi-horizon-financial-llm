@@ -1,0 +1,21 @@
+{
+  "ticker": "CVS",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$102.87 billion (up 7.8% YoY from $95.43 billion)",
+  "net_income": "$(3.98) billion net loss (down from $87 million net income YoY)",
+  "key_metrics": [
+    "Goodwill impairment: $5.73 billion",
+    "Health care costs: $32.02 billion (up 7.0% YoY)",
+    "Diluted EPS: $(3.13) vs $0.07 YoY"
+  ],
+  "qoq_changes": [
+    "Swung to a significant net loss in Q3 driven by a newly recognized $5.73 billion goodwill impairment charge not present in the first half of the year."
+  ],
+  "new_risks": [
+    "Massive $5.73 billion goodwill impairment indicates severe valuation deterioration in acquired assets or reporting units.",
+    "Continued margin pressure from rising health care costs, which increased to $32.02 billion from $29.92 billion YoY."
+  ],
+  "management_tone": "Cautious; despite solid 7.8% top-line revenue growth, the recognition of a massive $5.7 billion goodwill impairment and rising medical costs highlight significant profitability and operational headwinds.",
+  "analyst_note": "CVS reported a challenging Q3 2025, where a 7.8% YoY increase in total revenues to $102.9 billion was completely overshadowed by a $5.7 billion goodwill impairment. This non-cash charge drove a net loss of $4.0 billion, signaling underlying asset valuation issues and continued medical cost pressures that require close monitoring."
+}

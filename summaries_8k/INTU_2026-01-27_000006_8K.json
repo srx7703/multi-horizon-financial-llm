@@ -1,0 +1,14 @@
+{
+  "ticker": "INTU",
+  "filing_date": "2026-01-27",
+  "event_type": "Annual Meeting Results",
+  "headline": "Intuit announced the results of its Annual Meeting of Stockholders, including the election of 11 directors, ratification of auditors, and approval of an amended Non-Employee Director Compensation Program.",
+  "materiality": "Low",
+  "investor_impact": "This is a routine corporate governance filing detailing standard annual meeting outcomes. The predictable re-election of the board, approval of executive compensation, and rejection of the shareholder proposal present no material changes to the company's strategic direction or investment thesis.",
+  "key_figures": [
+    "11 directors elected to the Board, including CEO Sasan K. Goodarzi and founder Scott D. Cook",
+    "Ernst & Young LLP ratified as independent auditor for the fiscal year ending July 31, 2026",
+    "228,853,804 votes against the stockholder proposal requesting a report on diversity and inclusion program ROI",
+    "215,761,247 votes for the advisory approval of executive compensation"
+  ]
+}

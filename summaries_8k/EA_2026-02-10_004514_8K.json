@@ -1,0 +1,16 @@
+{
+  "ticker": "EA",
+  "filing_date": "2026-02-10",
+  "event_type": "M&A",
+  "headline": "The HSR Act waiting period has expired for Electronic Arts' pending acquisition by an investor consortium including PIF, Silver Lake, and Affinity.",
+  "materiality": "High",
+  "investor_impact": "The expiration of the HSR waiting period removes a major domestic antitrust hurdle, significantly de-risking the transaction. The merger arbitrage spread should narrow as the deal remains on track to close between April and June 2026, pending remaining global regulatory clearances.",
+  "key_figures": [
+    "September 28, 2025 (Merger Agreement date)",
+    "February 9, 2026 (HSR waiting period expiration)",
+    "April 1, 2026 to June 30, 2026 (Expected closing window)",
+    "Public Investment Fund (PIF)",
+    "Silver Lake",
+    "Affinity"
+  ]
+}

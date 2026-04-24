@@ -1,0 +1,13 @@
+{
+  "ticker": "CMCSA",
+  "filing_date": "2026-04-23",
+  "event_type": "Earnings",
+  "headline": "Comcast Corporation issued a press release reporting its financial results for the first quarter ended March 31, 2026.",
+  "materiality": "High",
+  "investor_impact": "This filing provides the Q1 2026 financial results, which are critical for updating financial models and assessing the company's operational performance. Investors will focus on the attached press release and non-GAAP reconciliations to evaluate revenue growth, profitability, and management's forward-looking commentary.",
+  "key_figures": [
+    "April 23, 2026",
+    "March 31, 2026",
+    "Daniel C. Murdock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "GS",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$14.58 billion, up 14.5% YoY",
+  "net_income": "$3.72 billion, up 22.3% YoY",
+  "key_metrics": [
+    "Diluted EPS: $10.91 (up 26.6% YoY from $8.62)",
+    "Investment banking revenue: $2.19 billion (up 26.6% YoY)",
+    "Market making revenue: $4.73 billion (up 9.2% YoY)",
+    "Provision for credit losses: $384 million (up 36.2% YoY)"
+  ],
+  "qoq_changes": [
+    "Net revenues decreased 3.2% sequentially to $14.58 billion (vs estimated $15.06 billion in Q1 2025 based on YTD figures)",
+    "Net earnings decreased 21.4% sequentially to $3.72 billion (vs estimated $4.74 billion in Q1 2025 based on YTD figures)"
+  ],
+  "new_risks": [
+    "Provision for credit losses increased 36.2% YoY to $384 million, indicating potential credit deterioration or portfolio stress",
+    "Total operating expenses increased 8.3% YoY to $9.24 billion, driven by higher compensation and transaction-based costs"
+  ],
+  "management_tone": "Bullish but prudent; strong YoY growth in core investment banking and market making highlights franchise strength, though higher credit provisions reflect a cautious stance on the macro environment.",
+  "analyst_note": "Goldman Sachs posted a robust Q2 2025, driven by a strong rebound in investment banking and steady market making revenues. While sequential results cooled slightly from a massive Q1, the 26%+ YoY growth in EPS demonstrates excellent operating leverage despite rising credit provisions."
+}

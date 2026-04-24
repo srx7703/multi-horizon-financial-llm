@@ -1,0 +1,12 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-04-22",
+  "event_type": "Earnings",
+  "headline": "AT&T Inc. announced its results of operations and financial condition for the first quarter of 2026.",
+  "materiality": "High",
+  "investor_impact": "This earnings release is a primary catalyst for the stock, providing critical updates on Q1 2026 operating data and non-GAAP financial measures. Investors and analysts will scrutinize the attached exhibits to assess subscriber metrics, revenue growth, and free cash flow generation against consensus estimates.",
+  "key_figures": [
+    "April 22, 2026",
+    "March 31, 2026"
+  ]
+}

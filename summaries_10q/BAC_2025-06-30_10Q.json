@@ -1,0 +1,23 @@
+{
+  "ticker": "BAC",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$26.46 billion in Q2 2025 (Total revenue, net of interest expense)",
+  "net_income": "$7.12 billion in Q2 2025 (Net income applicable to common shareholders was $6.83 billion)",
+  "key_metrics": [
+    "Diluted earnings per share: $0.89 (up from $0.83 in Q2 2024)",
+    "Provision for credit losses: $1.59 billion",
+    "Return on average tangible common shareholders' equity (ROTCE): 13.40%"
+  ],
+  "qoq_changes": [
+    "Total revenue decreased sequentially to $26.46 billion from $27.37 billion in Q1 2025",
+    "Net income declined sequentially to $7.12 billion from $7.40 billion in Q1 2025",
+    "Provision for credit losses increased sequentially to $1.59 billion from $1.48 billion in Q1 2025"
+  ],
+  "new_risks": [
+    "Sequential increase in provision for credit losses ($1.59B vs $1.48B in Q1) suggests potential credit quality normalization or deterioration",
+    "Quarter-over-quarter contraction in both top-line revenue and net income indicates potential macroeconomic or interest rate headwinds"
+  ],
+  "management_tone": "Neutral, as the bank demonstrated solid YoY EPS growth and maintained a strong 13.40% ROTCE, but faced sequential top- and bottom-line contraction alongside rising credit provisions.",
+  "analyst_note": "Bank of America posted a mixed Q2 2025, delivering $0.89 in diluted EPS to beat the prior year's $0.83, though sequential performance softened with revenue dropping to $26.46 billion. The uptick in credit loss provisions to $1.59 billion warrants close monitoring, but the bank's core profitability remains resilient with an efficiency ratio of 64.93%."
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "FDX",
+  "filing_date": "2026-03-19",
+  "event_type": "Earnings",
+  "headline": "FedEx Corporation announced its financial results for the fiscal quarter ended February 28, 2026.",
+  "materiality": "High",
+  "investor_impact": "Earnings releases are highly material events that dictate near-term stock performance. Investors and analysts will analyze the attached press release (Exhibit 99.1) for updates on parcel volumes, yield management, margin trajectory, and progress on cost-saving initiatives.",
+  "key_figures": [
+    "March 19, 2026",
+    "February 28, 2026",
+    "Guy M. Erwin II"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "HPQ",
+  "filing_date": "2026-02-24",
+  "event_type": "Earnings",
+  "headline": "HP Inc. announced its financial results for the fiscal quarter ended January 31, 2026.",
+  "materiality": "High",
+  "investor_impact": "This earnings release provides critical visibility into HP's quarterly financial performance and operational health. Investors will need to review the attached Exhibit 99.1 to assess revenue trends, margin stability, and forward-looking guidance in the PC and printing markets.",
+  "key_figures": [
+    "February 24, 2026",
+    "January 31, 2026",
+    "Julie Jacobs"
+  ]
+}

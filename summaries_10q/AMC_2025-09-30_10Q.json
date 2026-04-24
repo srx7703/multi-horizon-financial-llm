@@ -1,0 +1,25 @@
+{
+  "ticker": "AMC",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$1,300.2 million (down 3.6% YoY from $1,348.8 million)",
+  "net_income": "Net loss of $298.2 million (widened significantly YoY from a net loss of $20.7 million)",
+  "key_metrics": [
+    "Admissions revenue: $715.1 million",
+    "Food and beverage revenue: $451.8 million",
+    "Operating income: $35.8 million (down 50.1% YoY from $71.8 million)",
+    "Cash and cash equivalents: $365.8 million",
+    "Total corporate borrowings (current and long-term): $4,010.0 million"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents depleted significantly, dropping to $365.8 million from $632.3 million at year-end 2024.",
+    "Class A common shares outstanding increased to 512.9 million from 414.4 million at year-end 2024, reflecting substantial equity dilution."
+  ],
+  "new_risks": [
+    "Massive spike in 'Other expense' ($194.8 million in Q3 2025), driven by losses on the extinguishment of debt.",
+    "Accelerating equity dilution as the company issues nearly 100 million new shares YTD to manage its capital structure.",
+    "Core operational contraction with both admissions and food & beverage revenues declining YoY."
+  ],
+  "management_tone": "Defensive and cautious, as the company is forced to execute aggressive debt restructuring and heavy equity dilution to manage liquidity amidst shrinking revenues and widening losses.",
+  "analyst_note": "AMC's Q3 2025 results highlight severe fundamental distress, with top-line revenue shrinking 3.6% YoY and net losses ballooning to $298.2 million due to heavy debt extinguishment costs. While management is actively restructuring the balance sheet, the heavy reliance on equity dilution (shares outstanding up ~24% YTD) and a rapidly depleting cash runway present substantial ongoing risks to shareholders."
+}

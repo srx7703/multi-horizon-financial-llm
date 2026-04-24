@@ -1,0 +1,24 @@
+{
+  "ticker": "KO",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-27",
+  "revenue": "$12.54 billion (+1.4% YoY)",
+  "net_income": "$3.81 billion (+58.0% YoY)",
+  "key_metrics": [
+    "Diluted EPS: $0.88 (+57.1% YoY)",
+    "Operating Income: $4.28 billion (+62.6% YoY)",
+    "Gross Margin: 62.4% (expanded from 61.1% in Q2 2024)",
+    "YTD Operating Cash Flow: -$1.39 billion (down from +$4.11 billion in prior year)"
+  ],
+  "qoq_changes": [
+    "Revenue increased 12.6% sequentially to $12.54 billion from an implied $11.13 billion in Q1 2025",
+    "Net income increased 14.4% sequentially to $3.81 billion from an implied $3.33 billion in Q1 2025",
+    "Other operating charges decreased significantly, driving sequential operating margin expansion"
+  ],
+  "new_risks": [
+    "Severe deterioration in YTD operating cash flow (-$1.39 billion) driven by a massive $9.23 billion negative change in operating assets and liabilities",
+    "Heightened uncertainty and potential for significant incremental tax and interest liabilities related to the ongoing IRS tax dispute"
+  ],
+  "management_tone": "Bullish on operational efficiency and bottom-line growth, but cautious regarding the ongoing IRS tax dispute and working capital impacts.",
+  "analyst_note": "Coca-Cola demonstrated excellent operating leverage this quarter, driving a 58% YoY increase in net income despite muted 1.4% top-line growth, largely due to a significant drop in other operating charges. However, the massive $9.2B drag in operating assets and liabilities pushing YTD operating cash flow into negative territory is a major red flag requiring immediate management clarification."
+}

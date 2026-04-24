@@ -1,0 +1,14 @@
+{
+  "ticker": "HAS",
+  "filing_date": "2026-04-01",
+  "event_type": "Cybersecurity Incident",
+  "headline": "Hasbro disclosed a network cybersecurity incident discovered on March 28, 2026, prompting the company to take certain systems offline and implement interim business continuity plans.",
+  "materiality": "Medium",
+  "investor_impact": "The cyberattack has forced Hasbro to rely on interim operational measures, which could cause order and shipping delays over the next several weeks. Investors should monitor for potential impacts on near-term revenue, supply chain efficiency, and any subsequent data breach liabilities.",
+  "key_figures": [
+    "March 28, 2026 (Date unauthorized access was identified)",
+    "April 1, 2026 (Date of 8-K report)",
+    "Several weeks (Expected duration of interim business continuity measures)",
+    "Gina Goetter (Chief Financial Officer and Chief Operating Officer)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "SBUX",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-06-29",
+  "revenue": "$9.46 billion, up 3.8% YoY compared to $9.11 billion",
+  "net_income": "$558.3 million, down 47.1% YoY compared to $1.05 billion",
+  "key_metrics": [
+    "Company-operated stores revenue: $7.81 billion (up 3.9% YoY)",
+    "Operating income: $935.6 million (down 38.3% YoY)",
+    "Diluted EPS: $0.49 (down 47.3% YoY from $0.93)"
+  ],
+  "qoq_changes": [
+    "Store operating expenses surged 13.5% YoY to $4.34 billion.",
+    "General and administrative expenses increased 17.6% YoY to $677.2 million.",
+    "Recorded $20.8 million in new restructuring costs for the quarter."
+  ],
+  "new_risks": [
+    "Severe margin compression driven by escalating store operating and administrative expenses.",
+    "Execution risks and costs associated with newly initiated restructuring activities.",
+    "Declining income from equity investees, which fell 22.7% YoY to $57.1 million."
+  ],
+  "management_tone": "Cautious, as modest top-line revenue growth is being heavily overshadowed by surging operating expenses, severe margin compression, and the need for active restructuring.",
+  "analyst_note": "Starbucks delivered resilient top-line growth of 3.8% in Q3 2025, but profitability collapsed with net income plunging 47% YoY. Surging store operating costs and new restructuring initiatives highlight significant margin pressures that management must urgently address to restore bottom-line growth."
+}

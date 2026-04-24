@@ -1,0 +1,23 @@
+{
+  "ticker": "HSY",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-29",
+  "revenue": "$2.61 billion (+26.0% YoY)",
+  "net_income": "$62.7 million (-65.3% YoY)",
+  "key_metrics": [
+    "Gross Margin: 30.4% (down ~970 bps YoY from 40.2%)",
+    "Diluted EPS (Common): $0.31 (down 65.2% YoY from $0.89)",
+    "Unrealized derivative losses: $464.7 million (6-month period)"
+  ],
+  "qoq_changes": [
+    "Inventories increased by $588.2 million to $1.84 billion compared to December 31, 2024.",
+    "Long-term debt increased by $1.99 billion while short-term debt decreased by $1.14 billion, indicating significant debt refinancing."
+  ],
+  "new_risks": [
+    "Severe cost of sales inflation (+46.6% YoY) is vastly outpacing revenue growth, severely compressing margins.",
+    "Massive unrealized losses on derivative contracts ($464.7M) suggest significant exposure to commodity price volatility.",
+    "Substantial inventory buildup is tying up working capital and impacting operating cash flow."
+  ],
+  "management_tone": "Cautious, as severe commodity cost inflation and massive derivative losses have severely compressed margins and profitability despite strong top-line growth.",
+  "analyst_note": "While Hershey delivered impressive 26% top-line growth, a 970 bps gross margin contraction and a 65% drop in net income highlight acute vulnerability to commodity inflation. The massive $464M unrealized derivative loss and $588M inventory build warrant immediate scrutiny of their hedging and pricing strategies."
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "IBM",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$16.33 billion (+9.1% YoY)",
+  "net_income": "$1.74 billion (vs -$330 million in Q3 2024)",
+  "key_metrics": [
+    "Gross Profit: $9.36 billion (+11.2% YoY)",
+    "Diluted EPS: $1.84 (vs -$0.36 in Q3 2024)",
+    "Total Debt: $63.1 billion (up from $55.0 billion at year-end 2024)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents decreased to $11.57 billion from $13.95 billion at year-end 2024",
+    "Long-term debt increased to $55.17 billion from $49.88 billion at year-end 2024",
+    "Goodwill increased to $67.40 billion from $60.71 billion at year-end 2024, indicating recent acquisition activity"
+  ],
+  "new_risks": [
+    "Rising debt burden, with total debt increasing by over $8 billion since year-end 2024",
+    "Interest expense increased 14.7% YoY to $492 million, reflecting the higher debt load and potential pressure on future free cash flow"
+  ],
+  "management_tone": "Bullish, as the company demonstrated strong 9.1% top-line growth and a clean return to profitability following prior-year pension settlement charges.",
+  "analyst_note": "IBM delivered a robust Q3 2025 with solid revenue growth and gross margin expansion, though the significant $8 billion increase in total debt since year-end 2024 warrants close monitoring of future capital allocation and interest coverage."
+}

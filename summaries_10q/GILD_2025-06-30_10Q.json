@@ -1,0 +1,23 @@
+{
+  "ticker": "GILD",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$7.08 billion, up 1.8% YoY compared to $6.95 billion in Q2 2024",
+  "net_income": "$1.96 billion, up 21.4% YoY compared to $1.61 billion in Q2 2024",
+  "key_metrics": [
+    "Product sales of $7.05 billion, up from $6.91 billion YoY",
+    "Diluted EPS of $1.56, up from $1.29 YoY",
+    "Cash and cash equivalents of $5.14 billion, down from $9.99 billion at Dec 31, 2024",
+    "R&D expenses of $1.49 billion, up from $1.35 billion YoY"
+  ],
+  "qoq_changes": [
+    "Implied Q2 2025 revenue of $7.08 billion represents sequential growth from implied Q1 2025 revenue of $6.67 billion (based on $13.75 billion six-month total)",
+    "Continued reduction in cash and cash equivalents balance since year-end 2024"
+  ],
+  "new_risks": [
+    "Potential impacts from the newly cited 'One Big Beautiful Bill Act' alongside the Inflation Reduction Act",
+    "Changes in U.S. trade policies, specifically including new tariffs"
+  ],
+  "management_tone": "Cautiously optimistic; while the company delivered solid YoY earnings and revenue growth, forward-looking statements heavily emphasize emerging legislative and tariff-related headwinds.",
+  "analyst_note": "Gilead demonstrated strong bottom-line leverage in Q2 2025, growing net income 21.4% on modest 1.8% revenue growth. However, a significant reduction in cash reserves and newly flagged macro risks regarding U.S. tariffs and healthcare legislation warrant close monitoring."
+}

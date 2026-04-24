@@ -1,0 +1,15 @@
+{
+  "ticker": "ABNB",
+  "filing_date": "2026-03-16",
+  "event_type": "Material Agreement",
+  "headline": "Airbnb closed a $2.5 billion senior notes offering across three tranches to refinance $2.0 billion of maturing 0% convertible debt.",
+  "materiality": "High",
+  "investor_impact": "Refinancing the 0% convertible notes with 4.400%-5.250% senior notes will increase annual interest expense, creating a slight headwind to near-term EPS and free cash flow. However, retiring the convertible debt eliminates a major equity dilution overhang, which is a net positive for long-term shareholders and demonstrates strong debt market access.",
+  "key_figures": [
+    "$2.5 billion aggregate principal amount of senior notes",
+    "$850.0 million of 4.400% Senior Notes due 2029",
+    "$850.0 million of 4.650% Senior Notes due 2031",
+    "$800.0 million of 5.250% Senior Notes due 2036",
+    "$2.0 billion repayment of 0% convertible senior notes due March 2026"
+  ]
+}

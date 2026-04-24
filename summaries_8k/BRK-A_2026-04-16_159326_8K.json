@@ -1,0 +1,17 @@
+{
+  "ticker": "BRK-A",
+  "filing_date": "2026-04-16",
+  "event_type": "Debt Issuance",
+  "headline": "Berkshire Hathaway announces the issuance of six tranches of Yen-denominated senior notes.",
+  "materiality": "Low",
+  "investor_impact": "The issuance of Yen-denominated debt allows Berkshire to secure low-cost capital, likely acting as a natural currency hedge for its existing equity stakes in Japanese trading houses. This is a routine capital structure optimization that is accretive to the thesis but immaterial to the overall fortress balance sheet.",
+  "key_figures": [
+    "\u00a5128,900,000,000 of 2.077% Senior Notes due 2029",
+    "\u00a586,800,000,000 of 2.465% Senior Notes due 2031",
+    "\u00a522,300,000,00 of 2.739% Senior Notes due 2033",
+    "\u00a527,300,000,000 of 3.084% Senior Notes due 2036",
+    "2,000,000,000 of 3.452% Senior Notes due 2041",
+    "5,000,000,000 of 4.037% Senior Notes due 2056",
+    "April 10, 2026 underwriting agreement date"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "JNJ",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-03-29",
+  "revenue": "$24.06 billion (+9.9% YoY)",
+  "net_income": "$5.24 billion (-52.4% YoY)",
+  "key_metrics": [
+    "Diluted EPS of $2.14 vs $4.54 in Q1 2025",
+    "Gross profit margin stable at 66.3%",
+    "R&D expense of $3.53 billion (14.7% of sales)"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased from $19.71 billion to $21.69 billion",
+    "Short-term loans and notes payable surged from $8.50 billion to $17.46 billion",
+    "Long-term debt decreased slightly from $39.44 billion to $37.53 billion"
+  ],
+  "new_risks": [
+    "Risks related to the planned separation of the Orthopaedics business, including failure to consummate or realize anticipated benefits",
+    "Impact of inflation, interest rate fluctuations, and global tensions on supply chain and margins"
+  ],
+  "management_tone": "Cautiously optimistic; while top-line sales grew nearly 10%, management heavily emphasizes execution risks surrounding the planned Orthopaedics business separation and ongoing macroeconomic pressures.",
+  "analyst_note": "JNJ delivered solid top-line growth of 9.9% YoY, though net income fell sharply by 52% due to a tough comparison against a $7.3B one-time 'other income' gain in the prior year. The upcoming separation of the Orthopaedics business and a significant increase in short-term debt warrant close monitoring."
+}

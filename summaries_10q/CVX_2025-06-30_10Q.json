@@ -1,0 +1,23 @@
+{
+  "ticker": "CVX",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$44.38 billion, down 10.5% YoY compared to $49.57 billion in Q2 2024",
+  "net_income": "$2.49 billion, down 43.8% YoY compared to $4.43 billion in Q2 2024",
+  "key_metrics": [
+    "Diluted EPS of $1.45, down from $2.43 YoY",
+    "Total Revenues and Other Income of $44.82 billion, down 12.4% YoY",
+    "Cash and cash equivalents decreased to $4.06 billion from $6.78 billion at year-end 2024"
+  ],
+  "qoq_changes": [
+    "Estimated sequential revenue decline from approximately $46.1 billion in Q1 2025 to $44.38 billion in Q2 2025",
+    "Estimated sequential net income decline from approximately $3.50 billion in Q1 2025 to $2.49 billion in Q2 2025"
+  ],
+  "new_risks": [
+    "Integration risks and realization of anticipated synergies associated with the Hess Corporation transaction",
+    "Geopolitical volatility including the conflict in the Middle East and Russia/Ukraine affecting supply chains",
+    "Uncertainties regarding the pace and scale of development for large carbon capture and offset markets"
+  ],
+  "management_tone": "Cautious, given the significant year-over-year declines in both revenue and net income, compounded by macroeconomic and geopolitical uncertainties.",
+  "analyst_note": "Chevron's Q2 2025 results highlight a challenging quarter with net income falling nearly 44% year-over-year, driven by lower revenues and sustained operating costs. Focus remains on the successful integration of Hess Corporation and navigating a volatile global energy landscape."
+}

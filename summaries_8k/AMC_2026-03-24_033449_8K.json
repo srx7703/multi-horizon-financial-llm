@@ -1,0 +1,13 @@
+{
+  "ticker": "AMC",
+  "filing_date": "2026-03-24",
+  "event_type": "Capital Structure Update",
+  "headline": "AMC registers the resale of 15.38 million Class A shares issued to stockholders as consent fees for amending Muvico LLC's 2030 exchangeable notes.",
+  "materiality": "Medium",
+  "investor_impact": "The registration of 15.38 million shares for resale introduces near-term supply overhang to the market. Although AMC receives no cash proceeds, utilizing equity as a consent fee underscores the company's continued reliance on dilution to manage its debt load and restructure obligations.",
+  "key_figures": [
+    "15,378,194 shares of Class A common stock",
+    "March 23, 2026",
+    "Muvico, LLC's 6.00%/8.00% Cash/PIK Toggle Senior Secured Exchangeable Notes due 2030"
+  ]
+}

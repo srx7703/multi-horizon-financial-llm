@@ -1,0 +1,13 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-04-14",
+  "event_type": "M&A",
+  "headline": "Amazon has entered into a definitive merger agreement to acquire Globalstar, Inc., subject to regulatory approvals.",
+  "materiality": "High",
+  "investor_impact": "This acquisition strategically bolsters Amazon's satellite and spectrum assets, likely accelerating its Project Kuiper broadband network to better compete with SpaceX's Starlink. However, investors should anticipate extended timelines and potential headwinds due to expected stringent antitrust and telecom regulatory reviews.",
+  "key_figures": [
+    "April 14, 2026",
+    "Globalstar, Inc.",
+    "Susan K. Jong"
+  ]
+}

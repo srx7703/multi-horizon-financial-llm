@@ -1,0 +1,15 @@
+{
+  "ticker": "HAS",
+  "filing_date": "2026-03-12",
+  "event_type": "Material Agreement",
+  "headline": "Hasbro completed a registered public offering of $400 million aggregate principal amount of 4.650% senior unsecured notes due 2031.",
+  "materiality": "Medium",
+  "investor_impact": "This $400 million debt issuance secures medium-term financing and extends Hasbro's maturity profile to 2031 at a manageable 4.650% interest rate. The transaction represents routine balance sheet management with minimal immediate disruption to the broader investment thesis.",
+  "key_figures": [
+    "$400,000,000 aggregate principal amount",
+    "4.650% interest rate",
+    "March 12, 2031 maturity date",
+    "February 12, 2031 Par Call Date",
+    "101% purchase price upon Change of Control Repurchase Event"
+  ]
+}

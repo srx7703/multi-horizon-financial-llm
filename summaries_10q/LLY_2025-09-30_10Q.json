@@ -1,0 +1,24 @@
+{
+  "ticker": "LLY",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$17.60 billion, up 53.9% YoY from $11.44 billion in Q3 2024",
+  "net_income": "$5.58 billion, up 475.3% YoY from $970.3 million in Q3 2024",
+  "key_metrics": [
+    "Diluted EPS of $6.21, up from $1.07 in Q3 2024",
+    "Research and development expenses of $3.47 billion, up from $2.73 billion in Q3 2024",
+    "Acquired in-process research and development (IPR&D) decreased to $655.7 million from $2.83 billion in Q3 2024"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased significantly to $9.79 billion from $3.27 billion at year-end 2024",
+    "Inventories grew to $12.18 billion from $7.59 billion at year-end 2024, indicating a ramp-up in supply",
+    "Long-term debt increased to $40.87 billion from $28.53 billion at year-end 2024"
+  ],
+  "new_risks": [
+    "Risks from the proliferation of counterfeit, misbranded, adulterated, or illegally compounded products",
+    "Risks associated with the use of artificial intelligence or other emerging technologies exacerbating competitive, regulatory, and cybersecurity vulnerabilities",
+    "Issues with product supply stemming from manufacturing difficulties, unpredictability in demand, and labor shortages"
+  ],
+  "management_tone": "Bullish, driven by explosive 54% top-line growth and massive net income expansion reflecting strong product demand and favorable operational leverage.",
+  "analyst_note": "Eli Lilly delivered a phenomenal Q3 2025, with revenue reaching $17.6 billion and net income surging over 470% YoY due to lower IPR&D costs and robust sales. The massive inventory build and increased cash position suggest the company is aggressively scaling supply to meet the unprecedented demand for its key therapeutics."
+}

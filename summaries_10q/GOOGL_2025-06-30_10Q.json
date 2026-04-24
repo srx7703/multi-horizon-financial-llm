@@ -1,0 +1,24 @@
+{
+  "ticker": "GOOGL",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$96.43 billion, up 13.8% YoY",
+  "net_income": "$28.20 billion, up 19.4% YoY",
+  "key_metrics": [
+    "Diluted EPS of $2.31, up from $1.89 YoY",
+    "Income from operations of $31.27 billion, up 14.0% YoY",
+    "Total cash, cash equivalents, and marketable securities of $95.15 billion"
+  ],
+  "qoq_changes": [
+    "Long-term debt increased significantly to $23.61 billion from $10.88 billion at year-end 2024",
+    "Property and equipment (net) grew to $203.23 billion from $171.04 billion at year-end 2024, reflecting heavy AI infrastructure investments",
+    "General and administrative expenses spiked to $5.21 billion for the quarter"
+  ],
+  "new_risks": [
+    "Execution and integration risks related to the pending Wiz, Inc. acquisition",
+    "Margin pressure from escalating capital expenditures and technical infrastructure investments required to support AI products",
+    "Heightened regulatory scrutiny and potential exposure from new and pending investigations"
+  ],
+  "management_tone": "Cautiously optimistic, emphasizing strong digital economy tailwinds and AI growth opportunities while acknowledging the necessity of massive infrastructure investments and navigating regulatory headwinds.",
+  "analyst_note": "Alphabet delivered a robust Q2 2025 with double-digit top and bottom-line growth, showcasing the resilience of its core business. However, the massive expansion in long-term debt and property/equipment highlights the increasingly capital-intensive nature of the AI arms race and strategic M&A like the Wiz acquisition."
+}

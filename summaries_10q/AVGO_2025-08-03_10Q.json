@@ -1,0 +1,21 @@
+{
+  "ticker": "AVGO",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-08-03",
+  "revenue": "$15.95 billion, up 22.0% YoY from $13.07 billion",
+  "net_income": "$4.14 billion, up from a net loss of $1.88 billion YoY",
+  "key_metrics": [
+    "Products revenue: $9.26 billion (+24.4% YoY)",
+    "Subscriptions and services revenue: $6.70 billion (+18.9% YoY)",
+    "Operating income: $5.89 billion (+55.4% YoY)",
+    "Nine-month operating cash flow: $19.83 billion"
+  ],
+  "qoq_changes": [
+    "Quarter-over-quarter specific figures are not provided in the excerpt, but year-to-date figures suggest sustained sequential momentum across both product and subscription segments."
+  ],
+  "new_risks": [
+    "Item 1A (Risk Factors) is referenced in the Table of Contents but omitted from the provided text; no new risks could be extracted from the financial tables."
+  ],
+  "management_tone": "Bullish; the company achieved robust double-digit top-line growth and successfully transitioned from a prior-year net loss to substantial profitability.",
+  "analyst_note": "Broadcom delivered a highly profitable Q3 2025, showcasing robust 22% top-line growth and a massive bottom-line turnaround to $4.14 billion in net income, reflecting strong execution and demand across its semiconductor and software portfolios."
+}

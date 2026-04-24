@@ -1,0 +1,14 @@
+{
+  "ticker": "T",
+  "filing_date": "2026-03-12",
+  "event_type": "Debt Issuance",
+  "headline": "AT&T closed the sale of CAD$2.25 billion in global notes, split between 4.500% notes due 2036 and 5.250% notes due 2056.",
+  "materiality": "Low",
+  "investor_impact": "This routine Canadian dollar debt issuance is a standard capital structure management exercise, likely intended for refinancing existing maturities or general corporate purposes. It does not materially alter AT&T's leverage profile or broader equity investment thesis.",
+  "key_figures": [
+    "CAD$1,250,000,000 of 4.500% Global Notes due 2036",
+    "CAD$1,000,000,000 of 5.250% Global Notes due 2056",
+    "March 12, 2026 closing date",
+    "March 5, 2026 underwriting agreement date"
+  ]
+}

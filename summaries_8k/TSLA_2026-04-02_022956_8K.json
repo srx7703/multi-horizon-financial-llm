@@ -1,0 +1,13 @@
+{
+  "ticker": "TSLA",
+  "filing_date": "2026-04-02",
+  "event_type": "Earnings",
+  "headline": "Tesla, Inc. furnished a press release reporting its results of operations and financial condition.",
+  "materiality": "High",
+  "investor_impact": "This filing indicates the release of Tesla's financial or operational results, likely Q1 production and deliveries given the early April date. Investors and analysts will need to review the attached Exhibit 99.1 to evaluate performance against consensus estimates and update financial models.",
+  "key_figures": [
+    "April 2, 2026",
+    "Item 2.02",
+    "Exhibit 99.1"
+  ]
+}

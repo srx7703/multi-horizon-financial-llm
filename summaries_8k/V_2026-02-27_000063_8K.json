@@ -1,0 +1,17 @@
+{
+  "ticker": "V",
+  "filing_date": "2026-02-27",
+  "event_type": "Litigation Escrow Funding",
+  "headline": "Visa authorized a $125 million deposit into its U.S. litigation escrow account, triggering a downward adjustment to Class B-1 and B-2 conversion rates.",
+  "materiality": "Low",
+  "investor_impact": "The $125 million funding of the litigation escrow acts economically like a share repurchase for Class A shareholders, reducing the as-converted share count by roughly 400,000 shares. While the EPS accretion is negligible given Visa's massive scale, it resolves a portion of retrospective U.S. litigation responsibilities at the expense of Class B shareholders.",
+  "key_figures": [
+    "$125 million deposit",
+    "Class B-1 conversion rate decreased from 1.5491 to 1.5475",
+    "Class B-2 conversion rate decreased from 1.5108 to 1.5075",
+    "Class B-1 as-converted shares reduced by 7,880 to 7,482,834",
+    "Class B-2 as-converted shares reduced by 392,202 to 181,412,788",
+    "February 25, 2026 authorization date",
+    "February 26, 2026 effective date"
+  ]
+}

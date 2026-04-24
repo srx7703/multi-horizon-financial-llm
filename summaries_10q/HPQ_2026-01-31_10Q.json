@@ -1,0 +1,26 @@
+{
+  "ticker": "HPQ",
+  "fiscal_period": "Q1 2026",
+  "period_end": "2026-01-31",
+  "revenue": "$14.44 billion, up 6.9% YoY",
+  "net_income": "$545 million, down 3.5% YoY",
+  "key_metrics": [
+    "Products revenue: $13.60 billion, up 7.1% YoY",
+    "Services revenue: $840 million, up 3.8% YoY",
+    "Gross profit: $2.84 billion, flat YoY despite revenue growth",
+    "Restructuring and other charges: $126 million, up from $70 million YoY",
+    "Diluted EPS: $0.58, down from $0.59 YoY"
+  ],
+  "qoq_changes": [
+    "Cash, cash equivalents and restricted cash decreased to $3.15 billion from $3.71 billion",
+    "Inventory increased to $8.74 billion from $8.51 billion",
+    "Accounts receivable decreased to $5.33 billion from $5.69 billion"
+  ],
+  "new_risks": [
+    "Execution and business disruption risks associated with the newly announced Fiscal 2026 Plan and workforce reductions",
+    "Supply chain pressures from increasing memory and storage costs",
+    "Heightened geopolitical tensions, specifically mentioning the Taiwan Strait and South China Sea"
+  ],
+  "management_tone": "Neutral; management is balancing solid top-line product growth with margin pressures by initiating the Fiscal 2026 Plan to drive AI adoption, productivity, and structural cost reductions.",
+  "analyst_note": "HPQ delivered resilient top-line growth of 6.9% YoY in Q1 2026, but gross margins contracted and net income fell 3.5% due to higher operating expenses and restructuring costs. Investors should closely monitor the execution of the Fiscal 2026 Plan and the impact of rising memory costs on near-term profitability."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "EFX",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-30",
+  "revenue": "$1,544.9 million, up 7.1% YoY from $1,441.8 million",
+  "net_income": "$160.2 million, up 13.4% YoY from $141.3 million",
+  "key_metrics": [
+    "Diluted EPS of $1.29, up from $1.13 YoY",
+    "Operating income of $264.3 million, up 7.0% YoY",
+    "Dividends per share increased to $0.50 from $0.39 YoY"
+  ],
+  "qoq_changes": [
+    "Capitalized internal-use software and system costs increased to $3,003.3 million from $2,817.5 million at year-end 2024",
+    "Total current assets increased to $1,463.1 million from $1,360.6 million at year-end 2024"
+  ],
+  "new_risks": [
+    "Macroeconomic volatility including changes in interest rates and inflation impacting consumer spending, home prices, and consumer debt",
+    "Execution and operational risks tied to the ongoing cloud technology transformation and data security infrastructure upgrades"
+  ],
+  "management_tone": "Cautiously optimistic, highlighting steady revenue and earnings growth while acknowledging macroeconomic headwinds and prioritizing cloud technology transformation.",
+  "analyst_note": "Equifax delivered a solid Q3 2025 with revenue growing 7.1% and net income up 13.4% YoY, supported by margin expansion and a notable dividend increase. The continued capitalization of internal-use software underscores their commitment to completing their cloud transition, which should drive long-term operating leverage despite near-term macro uncertainties."
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "NKE",
+  "fiscal_period": "Q3 2026",
+  "period_end": "2026-02-28",
+  "revenue": "$11.28 billion, flat YoY (+0.1% from $11.27 billion)",
+  "net_income": "$520 million, down 34.5% YoY (from $794 million)",
+  "key_metrics": [
+    "Gross profit of $4.53 billion, down 3.1% YoY",
+    "Diluted EPS of $0.35, down 35.2% YoY",
+    "Inventories flat at $7.49 billion vs May 31, 2025"
+  ],
+  "qoq_changes": [
+    "Cash and equivalents decreased to $6.66 billion from $7.46 billion at fiscal year-end",
+    "Long-term debt decreased to $7.03 billion, with $999 million shifting to current portion"
+  ],
+  "new_risks": [
+    "Gross margin compression of approximately 140 basis points YoY",
+    "Significant increase in effective tax rate (20.0% vs 5.9% YoY) pressuring net income",
+    "Qualitative risk factors (Item 1A) were not provided in the excerpt"
+  ],
+  "management_tone": "Cautious; while top-line revenue remained stable, significant margin compression and higher tax expenses led to a sharp decline in net income.",
+  "analyst_note": "Nike's Q3 2026 results indicate profitability headwinds, with flat revenue growth failing to offset declining gross margins and a higher tax burden, resulting in a 34.5% drop in net income."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "HSY",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-09-28",
+  "revenue": "$3.18 billion, up 6.5% YoY from $2.99 billion",
+  "net_income": "$276.3 million, down 38.1% YoY from $446.3 million",
+  "key_metrics": [
+    "Gross Profit: $1.04 billion, down 15.8% YoY from $1.23 billion",
+    "Diluted EPS (Common): $1.36, down 38.2% YoY from $2.20",
+    "Inventories: $1.71 billion, up 36.2% from $1.25 billion at year-end 2024"
+  ],
+  "qoq_changes": [
+    "Significant inventory buildup, increasing by $453 million since December 2024.",
+    "Major debt restructuring, with short-term debt decreasing by $1.1 billion and long-term debt increasing by $1.5 billion since year-end."
+  ],
+  "new_risks": [
+    "Severe cost of sales inflation driving a 15.8% drop in gross profit despite top-line revenue growth.",
+    "Massive unrealized losses on derivative contracts ($541.1 million in 9M 2025 vs a $200.3 million gain in 9M 2024), likely tied to commodity hedging such as cocoa."
+  ],
+  "management_tone": "Cautious, as solid top-line sales growth is being heavily overshadowed by severe commodity cost inflation and margin deterioration.",
+  "analyst_note": "Hershey delivered 6.5% top-line growth, but surging cost of sales and massive derivative losses crushed profitability, driving a 38% YoY decline in net income. The $450M inventory build and long-term debt refinancing suggest management is bracing for prolonged commodity market volatility."
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "CRM",
+  "fiscal_period": "Q3 2025",
+  "period_end": "2025-10-31",
+  "revenue": "$10.26 billion, up 8.6% YoY",
+  "net_income": "$2.09 billion, up 36.6% YoY",
+  "key_metrics": [
+    "Subscription and support revenue of $9.73 billion, up 9.5% YoY",
+    "Diluted EPS of $2.19, up 38.6% YoY",
+    "Income from operations of $2.19 billion, up 15.6% YoY"
+  ],
+  "qoq_changes": [
+    "Aggressive capital return with $3.85 billion spent on share repurchases during the quarter",
+    "Unearned revenue decreased to $15.00 billion from $20.74 billion at the end of the prior fiscal year, reflecting standard enterprise software billing seasonality"
+  ],
+  "new_risks": [
+    "Professional services and other revenue declined 5.7% YoY to $533 million, indicating potential tightening in enterprise IT consulting and deployment budgets",
+    "Restructuring expenses spiked to $260 million in the quarter compared to $56 million in the prior year period, suggesting ongoing workforce or real estate optimizations"
+  ],
+  "management_tone": "Bullish, as management demonstrated strong commitment to shareholder returns through massive stock repurchases while driving significant operating leverage and bottom-line growth.",
+  "analyst_note": "Salesforce delivered a highly profitable quarter with net income surging 36.6% YoY on 8.6% top-line growth, showcasing excellent cost control and margin expansion. The $3.85 billion share buyback underscores management's confidence in cash flow generation, though the ongoing decline in professional services warrants monitoring for broader software deployment trends."
+}

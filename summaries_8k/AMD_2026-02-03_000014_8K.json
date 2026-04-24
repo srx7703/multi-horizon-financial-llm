@@ -1,0 +1,13 @@
+{
+  "ticker": "AMD",
+  "filing_date": "2026-02-03",
+  "event_type": "Earnings",
+  "headline": "AMD announced its financial results and forward-looking guidance for the fiscal quarter and full year ended December 27, 2025.",
+  "materiality": "High",
+  "investor_impact": "This earnings release provides critical updates on Q4 and FY2025 performance, as well as forward-looking guidance. Analysts will heavily scrutinize the non-GAAP financial measures and presentation materials to assess AMD's growth trajectory, particularly in data center and AI segments, directly impacting valuation models.",
+  "key_figures": [
+    "February 3, 2026",
+    "December 27, 2025",
+    "Jean Hu"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "HUM",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-06-30",
+  "revenue": "$32.39 billion, up 9.6% YoY from $29.54 billion",
+  "net_income": "$545 million, down 19.7% YoY from $679 million",
+  "key_metrics": [
+    "Premium revenues: $30.72 billion",
+    "Benefits expense: $27.57 billion",
+    "Diluted earnings per common share: $4.51"
+  ],
+  "qoq_changes": [
+    "Total revenues increased slightly to $32.39 billion in Q2 from an implied $32.11 billion in Q1 2025",
+    "Net income declined significantly to $545 million in Q2 from an implied $1.24 billion in Q1 2025"
+  ],
+  "new_risks": [
+    "Margin compression risk intensified as benefits expenses ($27.57 billion) grew faster than premium revenues",
+    "Specific new qualitative risks are not detailed as Item 1A (Risk Factors) was omitted from the provided excerpt"
+  ],
+  "management_tone": "Cautious; despite strong 9.6% top-line revenue growth, rising benefit expenses and operating costs drove a nearly 20% YoY decline in net income.",
+  "analyst_note": "Humana's Q2 2025 results show robust premium revenue growth, but margin compression is evident as benefit expenses outpace revenue gains, resulting in a significant drop in bottom-line profitability."
+}

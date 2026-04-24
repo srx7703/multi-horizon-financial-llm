@@ -1,0 +1,18 @@
+{
+  "ticker": "ABBV",
+  "filing_date": "2026-03-04",
+  "event_type": "Debt Issuance",
+  "headline": "AbbVie completed an $8.0 billion underwritten public offering of senior notes across seven tranches maturing between 2028 and 2066.",
+  "materiality": "Medium",
+  "investor_impact": "This $8 billion debt raise secures long-term capital with a staggered maturity profile, locking in fixed interest rates between 3.775% and 5.650% alongside a floating rate tranche. This provides AbbVie with substantial liquidity for general corporate purposes, potential debt refinancing, or M&A activities, while increasing its overall debt load and interest expense.",
+  "key_figures": [
+    "$750,000,000 senior floating rate notes due 2028",
+    "$1,500,000,000 3.775% senior notes due 2028",
+    "$1,250,000,000 4.125% senior notes due 2031",
+    "$1,250,000,000 4.400% senior notes due 2033",
+    "$1,500,000,000 4.750% senior notes due 2036",
+    "$1,250,000,000 5.550% senior notes due 2056",
+    "$500,000,000 5.650% senior notes due 2066",
+    "March 4, 2026 offering completion date"
+  ]
+}

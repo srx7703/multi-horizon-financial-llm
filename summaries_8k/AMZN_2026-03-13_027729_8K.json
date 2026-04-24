@@ -1,0 +1,23 @@
+{
+  "ticker": "AMZN",
+  "filing_date": "2026-03-13",
+  "event_type": "Debt Offering",
+  "headline": "Amazon closed a $37 billion multi-tranche debt offering consisting of fixed and floating rate notes maturing between 2028 and 2076.",
+  "materiality": "High",
+  "investor_impact": "This $36.8 billion net capital raise significantly bolsters Amazon's liquidity, providing a massive war chest for potential M&A, capital expenditures, or stock repurchases. While it increases total debt and interest expense, locking in these yields across a long maturity profile ensures long-term balance sheet flexibility.",
+  "key_figures": [
+    "$36.898 billion aggregate public offering price",
+    "$36.813 billion estimated net proceeds",
+    "$1.75 billion floating rate notes due 2028",
+    "$1 billion floating rate notes due 2029",
+    "$2.25 billion 3.850% notes due 2028",
+    "$3 billion 4.000% notes due 2029",
+    "$5 billion 4.250% notes due 2031",
+    "$4 billion 4.550% notes due 2033",
+    "$6 billion 4.875% notes due 2036",
+    "$2.5 billion 5.650% notes due 2046",
+    "$5.5 billion 5.800% notes due 2056",
+    "$3 billion 5.950% notes due 2066",
+    "$3 billion 6.050% notes due 2076"
+  ]
+}

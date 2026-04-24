@@ -1,0 +1,24 @@
+{
+  "ticker": "HD",
+  "fiscal_period": "Q2 2025",
+  "period_end": "2025-08-03",
+  "revenue": "$45.28 billion, up 4.9% YoY from $43.18 billion",
+  "net_income": "$4.55 billion, down 0.2% YoY from $4.56 billion",
+  "key_metrics": [
+    "Diluted EPS of $4.58, down slightly from $4.60 YoY",
+    "Gross profit of $15.13 billion, up 4.9% YoY",
+    "Operating expenses increased 8.7% YoY to $8.57 billion"
+  ],
+  "qoq_changes": [
+    "Cash and cash equivalents increased to $2.80 billion from $1.66 billion at the end of fiscal 2024",
+    "Merchandise inventories increased to $24.84 billion from $23.45 billion",
+    "Short-term debt decreased to zero from $316 million"
+  ],
+  "new_risks": [
+    "Integration and execution risks related to the pending GMS acquisition and recently acquired SRS Distribution",
+    "Macroeconomic pressures affecting housing, credit markets, and consumer demand",
+    "Potential impacts from tariffs, trade policy changes, or international trade disputes"
+  ],
+  "management_tone": "Neutral; while top-line sales demonstrated resilient growth of nearly 5%, rising SG&A and interest expenses compressed margins, leading to flat operating income and a slight dip in net earnings.",
+  "analyst_note": "Home Depot delivered solid top-line growth in Q2 2025, but higher operating and interest expenses pressured the bottom line, resulting in a slight YoY decline in EPS. Focus remains on the successful integration of SRS and the pending GMS acquisition to drive future value."
+}
