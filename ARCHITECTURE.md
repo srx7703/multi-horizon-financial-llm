@@ -169,16 +169,59 @@ Two non-obvious details:
 
 ---
 
+## Decision 7 — Why migrate to Gemma 4
+
+Phase 2 rebuilt the same pipeline on Gemma 4 31B. Three questions drove the choice.
+
+**Why touch the base model at all?** A LoRA adapter is only as good as what the base can express. The Phase 1 eval (16/20 wins, +3.50% F1) was strong but not saturated — the base refused some items entirely with the "I don't have SEC data" hedge, and the adapter couldn't always overcome that. Gemma 4 is a newer pretrain on a larger / fresher corpus; if the base's refusal rate drops, the adapter has more headroom to improve.
+
+**Why Gemma 4 31B specifically, not 27B or E4B?**
+
+| Option | Why not |
+|---|---|
+| Gemma 4 27B | Doesn't exist as a dense checkpoint in the 4.x release lineup — there's a 31B dense and a 17B/4B MoE, but no 27B. |
+| Gemma 4 E4B (MoE, ~4B active) | Much smaller; not a fair "same pipeline on newer base" test. Also the MoE routing would interact unpredictably with FSDPv2 all-gather. |
+| **Gemma 4 31B (dense)** | **Picked.** Closest apples-to-apples swap with Gemma 2 27B, keeps the FSDPv2 sharding rule trivially valid (all hidden dims divisible by 8), and shares training precision (bf16). |
+
+**What actually changed between the two train scripts?** Very little, by design — portability was part of the point.
+
+| Component | Gemma 2 27B (Phase 1) | Gemma 4 31B (Phase 2) |
+|---|---|---|
+| `MODEL_ID` | `google/gemma-2-27b-it` | `google/gemma-4-31B-it` |
+| Chat formatting | Hand-rolled `<start_of_turn>…<end_of_turn>` | `tokenizer.apply_chat_template(...)` — template lives in the tokenizer |
+| `transformers` version | 4.45.2 | **≥ 5.6.2** (earlier raises `KeyError: 'gemma4'` on config load) |
+| Model class | `AutoModelForCausalLM` → `Gemma2ForCausalLM` | `AutoModelForCausalLM` → `Gemma4ForConditionalGeneration` (multimodal root; we accept the frozen ~1 GB vision + audio towers rather than hand-remap state dict keys — `Gemma4ForCausalLM` alone silently loads zero weights because its expected prefix is `model.*` without the `language_model` indirection) |
+| LoRA `target_modules` | Plain substring match on `q_proj` etc. | **Regex-scoped** to `.language_model.layers.\d+.(…)_proj$` — unscoped patterns also hit the vision tower's `Gemma4ClippableLinear` (1152×1152), which PEFT doesn't know how to adapt |
+| Sharding rule | `axis-0 divisible by 8` | Unchanged — Gemma 4's hidden dim (5376) and intermediate dim (21504) are both multiples of 8 |
+| LoRA rank / alpha / batch / optimizer | r=8, α=16, bs=4 × GA=2, AdamW lr=1e-4 | Unchanged |
+
+The result: **+5.76% F1 on Gemma 4 vs +3.50% on Gemma 2, wins 20/20 vs 16/20, *t* = 10.42 vs 3.64**. The same adapter recipe generalizes and the effect gets larger — not smaller — on a stronger base.
+
+**What broke during the migration, and how we fixed it.** Neither issue was about training; both were inference-side XLA pitfalls that didn't surface in Phase 1 because Gemma 2's `HybridCache` happened to work around them.
+
+1. **`DynamicCache` + XLA = unbounded recompile.** The HuggingFace default cache grows per decode step, so each forward pass has a slightly different tensor shape. XLA recompiles on shape changes — and at 31B each recompile is minutes. The process appears to hang. Fix: pre-allocate a `StaticCache` once, left-pad every prompt to `MAX_PROMPT = 256` so the prefill shape is also fixed, and write via `cache_position` instead of appending. One compile per (prefill, decode-step) graph, reused forever after.
+
+2. **`StaticCache.__init__` bug in `transformers` 5.6.2.** `Gemma4TextConfig` has `num_kv_shared_layers = 0`. The cache constructor does:
+   ```python
+   if hasattr(config, "num_kv_shared_layers"):
+       layer_types = layer_types[: -config.num_kv_shared_layers]
+   ```
+   Python slice gotcha: `-0 == 0`, so `layer_types[:0]` = `[]`. The cache comes up with zero per-layer entries and the first decode step throws `IndexError`. We route around it in `build_static_cache()` by constructing `StaticSlidingWindowLayer` / `StaticLayer` objects directly and calling `Cache.__init__(sc, layers=layers)` — skipping the buggy `__init__` entirely. See [`generate_tpu_gemma4.py:40-61`](generate_tpu_gemma4.py).
+
+A reasonable alternative would have been to pin `transformers` to whichever minor release has the fix, but as of this work (2026-04) that release didn't exist yet and the workaround is four lines.
+
+---
+
 ## Evaluation methodology
 
 - **Metric:** BERTScore F1 with `roberta-large`. Chosen over ROUGE/BLEU because SEC QA answers are paraphrase-heavy — the same correct fact can be phrased many ways, and n-gram overlap metrics punish that.
-- **Test set:** 20 examples held out from `valid.jsonl` (disjoint from the 160 training examples).
-- **Comparison:** base Gemma 2 27B (no adapter) vs. Gemma 2 27B + LoRA v2.
-- **Decoding:** greedy (argmax), `max_new_tokens=128`, same prompt template for both conditions.
+- **Test set:** 20 examples held out from `valid.jsonl` (disjoint from the 160 training examples). The **same 20 items** are scored across all four model variants so paired t-tests are valid.
+- **Comparison:** 4-way — base Gemma 2 27B / Gemma 2 27B + v2 LoRA / base Gemma 4 31B / Gemma 4 31B + v2 LoRA.
+- **Decoding:** greedy (argmax), same prompt template across conditions. `max_new_tokens = 128` for Phase 1, `256` for Phase 2 (Gemma 4's responses are longer before hitting `<turn|>`).
 
-Results are reported in the README and in `evaluation_results_v2.json`.
+Results are reported in the README and in `evaluation_results_v2.json` (Phase 1) / `evaluation_results_phase2.json` (Phase 2 4-way).
 
-**What this eval catches:** whether the LoRA shifted the model's style and vocabulary toward SEC-analyst responses.
+**What this eval catches:** whether the LoRA shifted the model's style and vocabulary toward SEC-analyst responses, and whether that shift transfers across base-model generations.
 **What it doesn't catch:** factual accuracy against real SEC filings (the QA pairs are themselves Gemini-generated from our summaries — circular). A future evaluation should use human-labeled QA from actual 10-K passages.
 
 ---

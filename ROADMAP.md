@@ -1,8 +1,8 @@
 # Project Roadmap — Multi-Horizon Financial Research Agent
 
 > 用途：GitHub portfolio（不参加 hackathon，不做 demo video）
-> 最后更新：2026-04-23
-> 当前版本：已完成数据扩展 + Gemma 2 27B v1/v2 adapter 训练，正准备评估 + 打磨
+> 最后更新：2026-04-24
+> 当前版本：Phase 1 (`v1.0-gemma2`) + Phase 2 (`v2.0-gemma4`) 均已完成，四方 BERTScore 对比已出
 
 ---
 
@@ -14,9 +14,11 @@
 - ✅ 1325 条 QA 训练数据（`finetune_data_v2/`）
 - ✅ Streamlit app + Vertex AI Vector Search RAG pipeline
 - ✅ Gemma 4 E4B 本地 LoRA adapter（MLX，旧版）
-- ✅ **Gemma 2 27B + v1 adapter**（HF 通用金融 QA 数据训练，TPU v6e-8）
-- ✅ **Gemma 2 27B + v2 adapter**（SEC 自有数据 1060 QA × 2 epochs 训练）
+- ✅ **Phase 1 — Gemma 2 27B + v2 adapter**（SEC 数据 1060 QA × 2 epochs，TPU v6e-8 FSDPv2，BERTScore F1 +3.50%，tag `v1.0-gemma2`）
+- ✅ **Phase 2 — Gemma 4 31B + v2 adapter**（同一份数据，同一套 LoRA 配置，BERTScore F1 +5.76%，wins 20/20，tag `v2.0-gemma4`）
 - ✅ TPU v6e-8 训练 pipeline（model-parallel sharding，bfloat16，rank=8 LoRA）
+- ✅ 四方 BERTScore + 两组 paired t-test（`evaluation_results_phase2.json`）
+- ✅ Streamlit RAG 演示 GIF（`docs/demo.gif`）
 
 ---
 
@@ -66,26 +68,46 @@
 
 ---
 
-## Phase 2 — Gemma 4 27B 升级（目标：3-5 天，~6-8 小时）
+## Phase 2 — Gemma 4 31B 升级（已完成 ✅）
 
 ### 目标
 展示 pipeline 的可迁移性，扩大 BERTScore 对比到四方。打 git tag `v2.0-gemma4`。
 
-### 任务清单
+### 实际做法 vs 原计划
 
-| # | 任务 | 预估 | 风险 | 备注 |
-|---|---|---|---|---|
-| 1 | 启动 TPU，验证 Gemma 4 27B keras_hub preset | 30min | 中 | preset 不存在则切换 HF transformers 路径 |
-| 2 | 适配 sharding layout regex（Gemma 4 层命名可能变） | 1-2h | 中 | 看 `model.summary()` 调 regex |
-| 3 | 同一份 v2 数据训练 Gemma 4 27B | 1h TPU | 低 | 复用 Phase 1 的 train_gemma.py |
-| 4 | 四方 BERTScore（base2 / 2+v2 / base4 / 4+v2） | 1h | 低 | 扩展 Phase 1 eval 脚本 |
-| 5 | README 加 "Gemma 2 → Gemma 4 Migration" 章节 | 1h | — | 讲迁移决策 |
-| 6 | ARCHITECTURE.md 补 "Why Gemma 4" 章节 | 30min | — | trade-off 叙事 |
+- 原计划 Gemma 4 **27B**；实际没有 4.x 的 27B dense 权重，选了 **31B dense**（4.x 线上最接近的 apples-to-apples 变种）。
+- 原计划 keras_hub preset 起步；实际走 HF `transformers` + PEFT 路径（transformers ≥ 5.6.2 支持 `gemma4`，和 Phase 1 同一个训练 loop）。
+- Sharding / LoRA rank / batch / optimizer 全部沿用 Phase 1 —— 改动只有 MODEL_ID、chat template、LoRA target_modules 的 regex scoping 到 `.language_model.` tower。
 
-**Phase 2 交付物**：
-- `git tag v2.0-gemma4`
-- README 变成"双模型对比"叙事
-- ARCHITECTURE.md 加 migration 章节
+### 实际结果
+
+| # | 任务 | 结果 |
+|---|---|---|
+| 1 | Gemma 4 31B 训练（同数据同配置） | ✅ adapter 228 MB |
+| 2 | Gemma 4 base n=20 preds | ✅ `preds/preds_gemma4_base.json` |
+| 3 | Gemma 4 + v2 adapter n=20 preds | ✅ `preds/preds_gemma4_v2g4.json` |
+| 4 | 四方 BERTScore + paired t-test | ✅ `evaluation_results_phase2.json` |
+| 5 | README "Gemma 2 → Gemma 4 Migration" 章节 | ✅ |
+| 6 | ARCHITECTURE.md Decision 7 "Why Gemma 4" | ✅ |
+
+### 关键数字
+
+| Model | F1 | Δ vs base |
+|---|---:|---:|
+| Base Gemma 2 27B | 0.8078 | — |
+| Gemma 2 27B + v2 | 0.8361 | +3.50% |
+| Base Gemma 4 31B | 0.8283 | — |
+| **Gemma 4 31B + v2** | **0.8760** | **+5.76%** (t=10.42, wins 20/20) |
+
+### Phase 2 踩坑（写在 ARCHITECTURE §7）
+
+- transformers 5.6.2 `StaticCache.__init__` bug：`num_kv_shared_layers=0` 触发 `layer_types[:-0]` → `[]`，绕过做法在 `generate_tpu_gemma4.py:40-61`
+- DynamicCache 会让 XLA 每步 decode 都重编译 → 31B 下直接挂死；改成 StaticCache + prompt left-pad 到 MAX_PROMPT=256
+
+**Phase 2 交付物（已完成）**：
+- ✅ `git tag v2.0-gemma4`
+- ✅ README 双模型对比叙事（4-way 表 + Phase 2 章节）
+- ✅ ARCHITECTURE.md Decision 7 migration 章节
 
 ---
 
@@ -127,12 +149,12 @@
 
 ---
 
-## 下一步操作
+## 下一步操作（Phase 1 + 2 均已交付）
 
-当前就绪可做的任务按优先级：
-1. **[P0] Phase 1 任务 ①**: BERTScore 三方对比评估
-2. [P1] Phase 1 任务 ②: README 大改
-3. [P1] Phase 1 任务 ③: ARCHITECTURE.md
+可选后续（均非必需，portfolio 已完整）：
+1. 把 Phase 2 的代码改动 commit 到 main（目前只在工作区），然后 `git push origin v2.0-gemma4`
+2. 在 GitHub Releases 页面为两个 tag 写 release note
+3. （可选）扩大 BERTScore 测试集到 n=100 或使用 human-labeled QA —— 当前 n=20 的 CI 已不跨零，扩大主要是提高样本可信度而非结论方向
 
 ---
 
