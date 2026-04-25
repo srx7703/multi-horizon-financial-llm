@@ -114,13 +114,13 @@ with st.sidebar:
         col_a.metric(
             "Gemma 2 27B + LoRA",
             f"{_eval['results']['v2']['bertscore_f1']:.4f}",
-            delta=f"+{_eval['deltas']['gemma2_base_to_v2_pct']:.2f}%",
+            delta=f"+{_eval['deltas_pct']['gemma2_base_to_v2']:.2f}%",
             help="Phase 1: vs base Gemma 2 27B",
         )
         col_b.metric(
             "Gemma 4 31B + LoRA",
-            f"{_eval['results']['gemma4_v2g4']['bertscore_f1']:.4f}",
-            delta=f"+{_eval['deltas']['gemma4_base_to_v2g4_pct']:.2f}%",
+            f"{_eval['results']['v2_gemma4']['bertscore_f1']:.4f}",
+            delta=f"+{_eval['deltas_pct']['gemma4_base_to_v2']:.2f}%",
             help="Phase 2: vs base Gemma 4 31B",
         )
         st.caption(f"BERTScore F1, n={_eval['test_set_size']} held-out · paired t-test, p<0.001")
