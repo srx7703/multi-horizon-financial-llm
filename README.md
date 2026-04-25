@@ -2,6 +2,7 @@
 
 > Domain-specialized Gemma 2 27B **and** Gemma 4 31B for SEC filings, fine-tuned on TPU v6e-8 with PyTorch/XLA FSDPv2 — plus a Vertex AI Vector Search RAG demo for interactive queries.
 
+![CI](https://img.shields.io/github/actions/workflow/status/srx7703/multi-horizon-financial-agent/ci.yml?branch=main&label=tests&logo=github)
 ![TPU](https://img.shields.io/badge/TPU-v6e--8%20Trillium-4285F4?logo=google-cloud)
 ![Gemma](https://img.shields.io/badge/Gemma%202%20%2B%204-LoRA%20fine--tuned-EA4335?logo=google)
 ![PyTorch XLA](https://img.shields.io/badge/PyTorch-XLA%20SPMD%20FSDPv2-EE4C2C?logo=pytorch)
