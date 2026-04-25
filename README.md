@@ -172,37 +172,31 @@ streamlit run app.py
 # → http://localhost:8501
 ```
 
-The app demonstrates the RAG side of the pipeline over 5 companies (Apple, NVIDIA, Tesla, Microsoft, Rivian) × 5 years of 10-K filings:
+The app demonstrates the RAG side of the pipeline over **69 S&P 500 tickers × 381 SEC filings** (10-K / 10-Q / 8-K). The full per-ticker breakdown is on the **📊 Data Coverage** page in the app's sidebar.
 
-- Query → `gemini-embedding-001` → Vertex AI Vector Search (3072-dim, 23 summaries + 69 paragraph chunks) → top-k retrieval
+- Query → `gemini-embedding-001` → Vertex AI Vector Search (3072-dim, 381 filing summaries indexed with `ticker` + `filing_type` namespace filters) → top-k retrieval
 - Optional BM25 hybrid re-rank (`alpha` slider: 0.35 = recall-heavy, 0.6 = balanced, 0.8 = precision-heavy)
+- Sidebar filters by ticker and filing type; sources rendered as expanders with deep-links to SEC EDGAR
 - Context passed to Gemini 3.1 Pro for Wall Street analyst-style synthesis
 
-The fine-tuned Gemma 2 27B is **not** exposed by the app (27B bf16 can't run on a laptop; endpoint deployment is out of Phase 1 scope). Model evaluation numbers shown in the UI sidebar come from `evaluation_results_v2.json`.
+The fine-tuned Gemma 2 27B / Gemma 4 31B adapters are **not** exposed by the app (bf16 inference doesn't fit on a laptop; endpoint deployment is out of scope). The adapters are published on HuggingFace Hub — see "Reusing the adapters" below. Sidebar evaluation numbers come from `evaluation_results_phase2.json`.
 
 ---
 
 ## Data coverage
 
-**For RAG (in Vertex AI Vector Search):**
+**Same corpus powers both fine-tuning and RAG:** 69 S&P 500 tickers × 381 SEC filings, all indexed in Vertex AI Vector Search with `ticker` + `filing_type` restricts.
 
-| Company | Ticker | Years |
+| Filing type | Count | Window |
 |---|---|---|
-| Apple | AAPL | 2021–2025 |
-| NVIDIA | NVDA | 2022–2026 |
-| Tesla | TSLA | 2022–2025 |
-| Microsoft | MSFT | 2021–2025 |
-| Rivian | RIVN | 2021–2025 |
+| 10-K (annual) | 23 | last 5 fiscal years |
+| 10-Q (quarterly) | 136 | last 2 quarters per ticker |
+| 8-K (event) | 222 | last 90 days per ticker |
+| **Total** | **381** | across **69 tickers** |
 
-23 × 10-K summary chunks + 69 × paragraph chunks.
+Each filing is distilled into a structured JSON summary by Gemini 3.1 Pro and embedded with `gemini-embedding-001` (3072-dim, `RETRIEVAL_DOCUMENT` task). Per-ticker breakdown is browsable in-app on the **📊 Data Coverage** page.
 
-**For fine-tuning (in `finetune_data_v2/`):**
-
-- 69 S&P 500 companies
-- 3 filing types per company: 10-K (last 5 years), 10-Q (last 2 quarters), 8-K (last 90 days)
-- 381 structured summaries → 1,060 teacher-generated QA pairs
-
-The distillation corpus is 16× the size of the RAG index — scaling up the Vector Search index to 69 companies is straightforward but out of Phase 1 scope.
+For knowledge-distillation fine-tuning the same 381 summaries produce 1,060 teacher-generated QA pairs in `finetune_data_v2/`.
 
 ---
 
