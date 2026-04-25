@@ -10,9 +10,10 @@ This document explains the non-obvious engineering choices in the Multi-Horizon 
 ┌─────────────────────────────────────────────────────────────────┐
 │  Data                                                           │
 │    SEC EDGAR (edgartools)                                       │
-│      → 23 × 10-K summaries (5 companies × 5 years)              │
-│      → 136 × 10-Q summaries (69 companies × last 2 quarters)    │
-│      → 222 × 8-K summaries  (69 companies × last 90 days)       │
+│      → 23 × 10-K summaries (5 tickers × 5 fiscal years — subset)│
+│      → 136 × 10-Q summaries (69 tickers × last 2 quarters)      │
+│      → 222 × 8-K summaries  (69 tickers × last 90 days)         │
+│      → 381 docs total, all 69 tickers in RAG + distillation     │
 └─────────────────────────────────────────────────────────────────┘
                            │
          ┌─────────────────┴─────────────────┐

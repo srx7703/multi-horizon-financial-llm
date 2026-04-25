@@ -38,9 +38,9 @@ The RAG demo exists to make the data pipeline tangible — you can ask questions
 
 ```
 SEC EDGAR API (edgartools)
-   ├─ 10-K summaries — 23 (5 companies × 5 years)   ┐
-   ├─ 10-Q summaries — 136 (69 companies × 2 qtrs)  ├→ Vertex AI Vector Search (381 docs) → RAG demo
-   └─ 8-K  summaries — 222 (69 companies × 90 days) ┘
+   ├─ 10-K summaries — 23 (5 tickers × 5 fiscal years — historical 10-K subset)  ┐
+   ├─ 10-Q summaries — 136 (69 tickers × last 2 quarters)                         ├→ Vertex AI Vector Search (381 docs across 69 tickers) → RAG demo
+   └─ 8-K  summaries — 222 (69 tickers × last 90 days)                            ┘
          │
          ▼
 Gemini 3.1 Pro (Teacher)
@@ -187,14 +187,26 @@ The fine-tuned Gemma 2 27B / Gemma 4 31B adapters are **not** exposed by the app
 
 **Same corpus powers both fine-tuning and RAG:** 69 S&P 500 tickers × 381 SEC filings, all indexed in Vertex AI Vector Search with `ticker` + `filing_type` restricts.
 
-| Filing type | Count | Window |
-|---|---|---|
-| 10-K (annual) | 23 | last 5 fiscal years |
-| 10-Q (quarterly) | 136 | last 2 quarters per ticker |
-| 8-K (event) | 222 | last 90 days per ticker |
-| **Total** | **381** | across **69 tickers** |
+| Filing type | Count | Window | Tickers |
+|---|---|---|---|
+| 10-K (annual) | 23 | last 5 fiscal years | 5 (AAPL, MSFT, NVDA, RIVN, TSLA) |
+| 10-Q (quarterly) | 136 | last 2 quarters per ticker | 69 |
+| 8-K (event) | 222 | last 90 days per ticker | 69 |
+| **Total** | **381** | | across **69 tickers** |
 
-Each filing is distilled into a structured JSON summary by Gemini 3.1 Pro and embedded with `gemini-embedding-001` (3072-dim, `RETRIEVAL_DOCUMENT` task). Per-ticker breakdown is browsable in-app on the **📊 Data Coverage** page.
+**All 69 tickers in the corpus:**
+
+```
+AAPL  ABBV  ABNB  AMC   AMD   AMZN  AVGO  AXP   AZO   BAC
+BRK-A CAT   CB    CMCSA CMG   COST  CRM   CVS   CVX   DAL
+DLTR  DVA   EA    EBAY  EFX   ENPH  ETSY  F     FDX   GILD
+GIS   GM    GME   GOOGL GRMN  GS    HAS   HD    HLT   HPE
+HPQ   HSY   HUM   IBM   ICE   INTU  JNJ   JPM   KO    KR
+LLY   LULU  LVS   META  MSFT  NFLX  NKE   NVDA  PG    PLTR
+PTON  RIVN  SBUX  SCHW  T     TSLA  UNH   V     WMT
+```
+
+Each filing is distilled into a structured JSON summary by Gemini 3.1 Pro and embedded with `gemini-embedding-001` (3072-dim, `RETRIEVAL_DOCUMENT` task). The full sortable per-ticker × filing-type breakdown — with SEC EDGAR deep-links — is on the **📊 Data Coverage** page in the Streamlit app's sidebar.
 
 For knowledge-distillation fine-tuning the same 381 summaries produce 1,060 teacher-generated QA pairs in `finetune_data_v2/`.
 
