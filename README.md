@@ -16,7 +16,8 @@
 - **Where it runs:** TPU v6e-8 (Trillium) via HuggingFace PEFT + PyTorch/XLA with SPMD FSDPv2 param-sharding in bf16.
 - **Phase 1 result (Gemma 2 27B):** BERTScore F1 0.8078 → 0.8361 (**+3.50%**), paired *t* = 3.64 (p < 0.01), v2 beats base on **16/20** items.
 - **Phase 2 result (Gemma 4 31B):** BERTScore F1 0.8283 → 0.8760 (**+5.76%**), paired *t* = 10.42 (p < 0.001), v2g4 beats base on **20/20** items. The same adapter recipe transfers cleanly to the newer base and the effect gets *larger*. See [§ Phase 2 — Gemma 4 migration](#phase-2--gemma-4-migration).
-- **Separate RAG demo:** Streamlit app over Vertex AI Vector Search + Gemini 3.1 Pro, covering 5 companies × 10-K for interactive exploration. See [§ Streamlit demo](#streamlit-demo).
+- **Adapters on HuggingFace Hub:** [`Srx7703/gemma-2-27b-financial-adapter`](https://huggingface.co/Srx7703/gemma-2-27b-financial-adapter) · [`Srx7703/gemma-4-31b-financial-adapter`](https://huggingface.co/Srx7703/gemma-4-31b-financial-adapter) — load directly with `peft.PeftModel.from_pretrained(...)`.
+- **Separate RAG demo:** Streamlit app over Vertex AI Vector Search + Gemini 3.1 Pro, covering **69 S&P 500 tickers × 381 filings (10-K / 10-Q / 8-K)**, with a dedicated Data Coverage page and SEC EDGAR deep-links. See [§ Streamlit demo](#streamlit-demo).
 
 Full trade-off discussion in [ARCHITECTURE.md](ARCHITECTURE.md).
 
@@ -27,7 +28,7 @@ Full trade-off discussion in [ARCHITECTURE.md](ARCHITECTURE.md).
 **This is two things, sharing a data pipeline:**
 
 1. **Knowledge-distillation pipeline** — 69 S&P 500 companies' SEC filings (10-K + 10-Q + 8-K) are summarized by Gemini 3.1 Pro, turned into 1,060 analyst-style QA pairs, and used to fine-tune Gemma 2 27B with LoRA on TPU. Evaluated by BERTScore.
-2. **RAG demo** — a smaller Streamlit app that runs hybrid retrieval (dense + BM25) over 23 × 10-K summaries for 5 companies in Vertex AI Vector Search, then synthesizes answers with Gemini 3.1 Pro.
+2. **RAG demo** — a Streamlit app that runs hybrid retrieval (dense + BM25) over **381 SEC filings (23 × 10-K + 136 × 10-Q + 222 × 8-K)** across 69 S&P 500 tickers in Vertex AI Vector Search, then synthesizes answers with Gemini 3.1 Pro. Filtering by ticker *and* filing type, source-level expanders, SEC EDGAR deep-links.
 
 The RAG demo exists to make the data pipeline tangible — you can ask questions and see the retrieval + generation flow. The Gemma fine-tune is the research artifact; it is not served from the Streamlit app (the adapter lives on the TPU VM; live inference from a laptop isn't practical for 27B).
 
@@ -37,9 +38,9 @@ The RAG demo exists to make the data pipeline tangible — you can ask questions
 
 ```
 SEC EDGAR API (edgartools)
-   ├─ 10-K summaries — 23 (5 companies × 5 years)   → Vertex AI Vector Search → RAG demo
-   ├─ 10-Q summaries — 136 (69 companies × 2 quarters)
-   └─ 8-K  summaries — 222 (69 companies × 90 days)
+   ├─ 10-K summaries — 23 (5 companies × 5 years)   ┐
+   ├─ 10-Q summaries — 136 (69 companies × 2 qtrs)  ├→ Vertex AI Vector Search (381 docs) → RAG demo
+   └─ 8-K  summaries — 222 (69 companies × 90 days) ┘
          │
          ▼
 Gemini 3.1 Pro (Teacher)
@@ -263,6 +264,41 @@ python3 compute_bertscore_phase2.py   # → evaluation_results_phase2.json
 ```
 
 Budget: Phase 1 + Phase 2 end-to-end (2 × training + 4 × inference sweeps + eval) is ~4 TPU hours at ~$4/hr spot = **<$20** on `v6e-8`.
+
+---
+
+## Reusing the adapters from HuggingFace Hub
+
+Both LoRA adapters are published — no need to re-train if you just want to use them.
+
+| Adapter | Base model | Δ BERTScore F1 |
+|---|---|---:|
+| [`Srx7703/gemma-2-27b-financial-adapter`](https://huggingface.co/Srx7703/gemma-2-27b-financial-adapter) | `google/gemma-2-27b-it` | +3.50% (n=20, p<0.01) |
+| [`Srx7703/gemma-4-31b-financial-adapter`](https://huggingface.co/Srx7703/gemma-4-31b-financial-adapter) | `google/gemma-4-31B-it` | +5.76% (n=20, p<0.001) |
+
+```python
+from peft import PeftModel
+from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+
+base = AutoModelForCausalLM.from_pretrained(
+    "google/gemma-4-31B-it",         # or google/gemma-2-27b-it for Phase 1
+    torch_dtype=torch.bfloat16,
+    device_map="auto",
+)
+tok = AutoTokenizer.from_pretrained("google/gemma-4-31B-it")
+model = PeftModel.from_pretrained(base, "Srx7703/gemma-4-31b-financial-adapter")
+
+prompt = "What are the principal risk factors disclosed in NVIDIA's most recent 10-K?"
+ids = tok.apply_chat_template(
+    [{"role": "user", "content": prompt}],
+    add_generation_prompt=True, return_tensors="pt",
+).to(model.device)
+out = model.generate(ids, max_new_tokens=256)
+print(tok.decode(out[0][ids.shape[1]:], skip_special_tokens=True))
+```
+
+Both adapters ship with the upstream tokenizer files for convenience and a model card with usage, training data summary, and headline metrics. Use is subject to the [Gemma Terms of Use](https://ai.google.dev/gemma/terms).
 
 ---
 

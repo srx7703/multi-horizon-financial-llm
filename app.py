@@ -7,6 +7,7 @@ import streamlit as st
 import json
 import os
 import sys
+from pathlib import Path
 
 # ── 页面配置 ───────────────────────────────────────────────────
 st.set_page_config(
@@ -16,14 +17,59 @@ st.set_page_config(
 )
 
 st.title("📈 Financial Research Agent")
-st.caption("Powered by Gemini 3.1 Pro · Vertex AI Vector Search · SEC EDGAR Data")
+st.caption("Powered by Gemini 3.1 Pro · Vertex AI Vector Search · SEC EDGAR (10-K / 10-Q / 8-K)")
 
-# ── 侧边栏：公司选择 ────────────────────────────────────────────
+# ── 数据覆盖（从硬盘扫描，不再硬编码）────────────────────────────
+ROOT = Path(__file__).parent
+SUMMARY_DIRS = {
+    "10-K": ROOT / "summaries",
+    "10-Q": ROOT / "summaries_10q",
+    "8-K":  ROOT / "summaries_8k",
+}
+
+
+@st.cache_data
+def scan_coverage():
+    """Walk summaries dirs once; return per-ticker filing-type counts."""
+    coverage = {}
+    totals = {t: 0 for t in SUMMARY_DIRS}
+    for ftype, d in SUMMARY_DIRS.items():
+        if not d.is_dir():
+            continue
+        for fp in d.glob("*.json"):
+            try:
+                ticker = json.loads(fp.read_text()).get("ticker", "").upper()
+            except Exception:
+                continue
+            if not ticker:
+                continue
+            coverage.setdefault(ticker, {t: 0 for t in SUMMARY_DIRS})[ftype] += 1
+            totals[ftype] += 1
+    return coverage, totals
+
+
+COVERAGE, TOTALS = scan_coverage()
+ALL_TICKERS = sorted(COVERAGE.keys())
+
+# ── 侧边栏 ────────────────────────────────────────────────────
 with st.sidebar:
     st.header("🏢 Company Filter")
-    ticker_options = ["All Companies", "AAPL", "NVDA", "TSLA", "MSFT", "RIVN"]
-    selected_ticker = st.selectbox("Select company (optional)", ticker_options)
+    selected_ticker = st.selectbox(
+        f"Select company ({len(ALL_TICKERS)} indexed)",
+        ["All Companies"] + ALL_TICKERS,
+    )
     ticker = None if selected_ticker == "All Companies" else selected_ticker
+
+    filing_type = st.selectbox(
+        "Filing type",
+        ["All filings", "10-K (annual)", "10-Q (quarterly)", "8-K (event)"],
+    )
+    filing_type_token = {
+        "All filings": None,
+        "10-K (annual)": "10k",
+        "10-Q (quarterly)": "10q",
+        "8-K (event)": "8k",
+    }[filing_type]
 
     st.divider()
     st.header("⚙️ Settings")
@@ -43,43 +89,58 @@ with st.sidebar:
 
     st.divider()
     st.markdown("**Data Coverage**")
-    st.markdown("- 🍎 Apple (2021–2025)")
-    st.markdown("- 🟢 NVIDIA (2022–2026)")
-    st.markdown("- ⚡ Tesla (2022–2025)")
-    st.markdown("- 🪟 Microsoft (2021–2025)")
-    st.markdown("- 🚛 Rivian (2021–2025)")
+    st.caption(
+        f"{len(ALL_TICKERS)} S&P 500 tickers · "
+        f"{TOTALS['10-K']} 10-Ks · {TOTALS['10-Q']} 10-Qs · {TOTALS['8-K']} 8-Ks"
+    )
+    if ticker and ticker in COVERAGE:
+        c = COVERAGE[ticker]
+        st.caption(
+            f"**{ticker}**: {c['10-K']} 10-K · {c['10-Q']} 10-Q · {c['8-K']} 8-K"
+        )
 
     st.divider()
     st.markdown("**Tech Stack**")
     st.markdown("Gemini 3.1 Pro · Vertex AI · SEC EDGAR")
 
     st.divider()
-    st.header("🧪 Distillation eval (offline)")
-    _eval_path = os.path.join(os.path.dirname(__file__), "evaluation_results_v2.json")
-    if os.path.exists(_eval_path):
-        import json as _json
-        _eval = _json.load(open(_eval_path))
-        base_f1 = _eval["results"]["base"]["bertscore_f1"]
-        ft_f1   = _eval["results"]["v2"]["bertscore_f1"]
-        delta   = _eval["deltas"]["base_to_v2_pct"]
-        n       = _eval["test_set_size"]
+    st.header("🧪 LoRA fine-tune eval (offline)")
+    _phase2_path = ROOT / "evaluation_results_phase2.json"
+    _phase1_path = ROOT / "evaluation_results_v2.json"
 
+    if _phase2_path.exists():
+        _eval = json.load(open(_phase2_path))
         col_a, col_b = st.columns(2)
-        col_a.metric("Base Gemma 2 27B", f"{base_f1:.4f}", help="BERTScore F1, no adapter")
-        col_b.metric("+ SEC LoRA",       f"{ft_f1:.4f}",   delta=f"+{delta:.2f}%",
-                     help="BERTScore F1 with LoRA rank=8 adapter trained on distilled SEC QA")
-
-        st.caption(f"BERTScore F1 on n={n} held-out SEC QA items (TPU-side eval)")
+        col_a.metric(
+            "Gemma 2 27B + LoRA",
+            f"{_eval['results']['v2']['bertscore_f1']:.4f}",
+            delta=f"+{_eval['deltas']['gemma2_base_to_v2_pct']:.2f}%",
+            help="Phase 1: vs base Gemma 2 27B",
+        )
+        col_b.metric(
+            "Gemma 4 31B + LoRA",
+            f"{_eval['results']['gemma4_v2g4']['bertscore_f1']:.4f}",
+            delta=f"+{_eval['deltas']['gemma4_base_to_v2g4_pct']:.2f}%",
+            help="Phase 2: vs base Gemma 4 31B",
+        )
+        st.caption(f"BERTScore F1, n={_eval['test_set_size']} held-out · paired t-test, p<0.001")
+    elif _phase1_path.exists():
+        _eval = json.load(open(_phase1_path))
+        col_a, col_b = st.columns(2)
+        col_a.metric("Base Gemma 2 27B", f"{_eval['results']['base']['bertscore_f1']:.4f}")
+        col_b.metric("+ SEC LoRA", f"{_eval['results']['v2']['bertscore_f1']:.4f}",
+                     delta=f"+{_eval['deltas']['base_to_v2_pct']:.2f}%")
+        st.caption(f"BERTScore F1, n={_eval['test_set_size']} held-out items")
     else:
-        st.caption("Run `compute_bertscore_v2.py` to populate.")
+        st.caption("Run eval scripts to populate.")
 
 # ── 示例问题 ────────────────────────────────────────────────────
 st.subheader("💡 Try these questions")
 example_cols = st.columns(3)
 examples = [
-    "What are NVIDIA's biggest risks from export controls and how have they evolved?",
-    "Compare Apple and Microsoft's AI strategy based on their annual reports.",
-    "How has Rivian's path to profitability changed since their IPO?",
+    "What are NVIDIA's biggest risks from export controls and how have they evolved across recent 10-Ks?",
+    "Compare Q3 2025 services-revenue growth narratives for Apple and Microsoft.",
+    "Summarize the most material 8-K events at JPM, GS, and BAC over the past 6 months.",
 ]
 for i, (col, ex) in enumerate(zip(example_cols, examples)):
     if col.button(ex, key=f"ex_{i}", use_container_width=True):
@@ -117,7 +178,79 @@ def load_agent():
     except Exception as e:
         return None, None, None, None, None, None, None, None, str(e)
 
-def run_rag(question, ticker, top_k):
+def edgar_url(ticker: str, filing_type: str) -> str:
+    """Deep-link to a ticker's filings of a given type on SEC EDGAR full-text search."""
+    type_map = {"10k": "10-K", "10q": "10-Q", "8k": "8-K"}
+    return (
+        "https://www.sec.gov/cgi-bin/browse-edgar"
+        f"?action=getcompany&CIK={ticker}&type={type_map.get(filing_type, '')}"
+        "&dateb=&owner=include&count=40"
+    )
+
+
+def resolve_summary(doc_id: str):
+    """Map a Vector Search doc_id to its on-disk summary JSON.
+
+    doc_id schemes:
+      10k_<TICKER>_<YEAR>
+      10q_<TICKER>_<DATE>
+      8k_<TICKER>_<DATE>_<ID>
+    Returns (filing_type, ticker, label, summary_dict) or None.
+    """
+    parts = doc_id.split("_")
+    if len(parts) < 3:
+        return None
+    ftype, ticker = parts[0], parts[1]
+    base = os.path.dirname(__file__)
+    if ftype == "10k":
+        year = parts[2]
+        fpath = os.path.join(base, "summaries", f"{ticker}_{year}_summary.json")
+        label = f"FY{year}"
+    elif ftype == "10q":
+        date = parts[2]
+        fpath = os.path.join(base, "summaries_10q", f"{ticker}_{date}_10Q.json")
+        label = date
+    elif ftype == "8k":
+        date, fid = parts[2], parts[3]
+        fpath = os.path.join(base, "summaries_8k", f"{ticker}_{date}_{fid}_8K.json")
+        label = date
+    else:
+        return None
+    if not os.path.exists(fpath):
+        return None
+    with open(fpath) as f:
+        return ftype, ticker, label, json.load(f)
+
+
+def context_block(ftype: str, ticker: str, label: str, s: dict) -> str:
+    """Format a per-doc context block, schema-aware by filing type."""
+    if ftype == "10k":
+        return (
+            f"[{ticker} 10-K {label}]\n"
+            f"Risks: {'; '.join(s.get('top_risks', []))}\n"
+            f"Highlights: {'; '.join(s.get('strategic_highlights', []))}\n"
+            f"MDA: {s.get('mda_summary', '')}\n"
+            f"Analyst Note: {s.get('analyst_note', '')}"
+        )
+    if ftype == "10q":
+        return (
+            f"[{ticker} 10-Q {s.get('fiscal_period', label)}]\n"
+            f"Revenue: {s.get('revenue', '')} · Net income: {s.get('net_income', '')}\n"
+            f"Key metrics: {'; '.join(s.get('key_metrics', []))}\n"
+            f"QoQ changes: {'; '.join(s.get('qoq_changes', []))}\n"
+            f"New risks: {'; '.join(s.get('new_risks', []))}\n"
+            f"Tone: {s.get('management_tone', '')}\n"
+            f"Analyst Note: {s.get('analyst_note', '')}"
+        )
+    return (
+        f"[{ticker} 8-K {label} — {s.get('event_type', '')}]\n"
+        f"Headline: {s.get('headline', '')}\n"
+        f"Materiality: {s.get('materiality', '')}\n"
+        f"Investor impact: {s.get('investor_impact', '')}"
+    )
+
+
+def run_rag(question, ticker, top_k, filing_type_token=None):
     embed_client, gen_client, aiplatform, Namespace, types, PROJECT_ID, LOCATION, INDEX_ENDPOINT_ID, DEPLOYED_INDEX_ID = load_agent()
 
     if embed_client is None:
@@ -131,41 +264,40 @@ def run_rag(question, ticker, top_k):
     )
     query_vector = result.embeddings[0].values
 
-    # Step 2: Retrieve from Vector Search
+    # Step 2: Retrieve from Vector Search (filter by ticker and/or filing type)
     endpoint = aiplatform.MatchingEngineIndexEndpoint(
         f"projects/927558868397/locations/{LOCATION}/indexEndpoints/{INDEX_ENDPOINT_ID}"
     )
-    filter_arg = [Namespace(name="ticker", allow_tokens=[ticker.upper()])] if ticker else None
+    filter_arg = []
+    if ticker:
+        filter_arg.append(Namespace(name="ticker", allow_tokens=[ticker.upper()]))
+    if filing_type_token:
+        filter_arg.append(Namespace(name="filing_type", allow_tokens=[filing_type_token]))
     response = endpoint.find_neighbors(
         deployed_index_id=DEPLOYED_INDEX_ID,
         queries=[query_vector],
         num_neighbors=top_k,
-        filter=filter_arg,
+        filter=filter_arg or None,
     )
     hits = response[0] if response else []
 
-    # Step 3: Load context text
-    summaries_dir = os.path.join(os.path.dirname(__file__), "summaries")
+    # Step 3: Load context text per filing type
     context_parts = []
     sources = []
-
     for hit in hits:
-        doc_id = hit.id
-        parts = doc_id.split("_")
-        if parts[0] == "summary" and len(parts) >= 3:
-            t, y = parts[1], parts[2]
-            fpath = os.path.join(summaries_dir, f"{t}_{y}_summary.json")
-            if os.path.exists(fpath):
-                with open(fpath) as f:
-                    s = json.load(f)
-                context_parts.append(
-                    f"[{t} FY{y}]\n"
-                    f"Risks: {'; '.join(s.get('top_risks', []))}\n"
-                    f"Highlights: {'; '.join(s.get('strategic_highlights', []))}\n"
-                    f"MDA: {s.get('mda_summary', '')}\n"
-                    f"Analyst Note: {s.get('analyst_note', '')}"
-                )
-                sources.append({"ticker": t, "year": y, "score": round(hit.distance, 3)})
+        resolved = resolve_summary(hit.id)
+        if resolved is None:
+            continue
+        ftype, t, label, s = resolved
+        context_parts.append(context_block(ftype, t, label, s))
+        sources.append({
+            "doc_id": hit.id,
+            "ticker": t,
+            "filing_type": ftype,
+            "label": label,
+            "score": round(hit.distance, 3),
+            "summary": s,
+        })
 
     context = "\n\n---\n\n".join(context_parts)
 
@@ -193,24 +325,64 @@ Question: {question}"""
 # ── 运行查询 ────────────────────────────────────────────────────
 if run_btn and question.strip():
     with st.spinner("🔍 Retrieving from SEC filings... 📊 Generating analysis..."):
-        answer, sources, error, _ = run_rag(question, ticker, top_k)
+        answer, sources, error, _ = run_rag(question, ticker, top_k, filing_type_token)
 
     if error:
         st.error(f"Error: {error}")
     else:
         st.divider()
         st.subheader("📋 Analysis")
-        st.markdown(answer)
+        with st.container(border=True):
+            st.markdown(answer)
 
         if sources:
             st.divider()
-            st.subheader("📂 Sources Retrieved")
-            cols = st.columns(len(sources))
-            for col, src in zip(cols, sources):
-                col.metric(
-                    label=f"{src['ticker']} FY{src['year']}",
-                    value=f"Score: {src['score']}"
+            st.subheader(f"📂 Sources Retrieved ({len(sources)})")
+            type_label = {"10k": "10-K", "10q": "10-Q", "8k": "8-K"}
+            type_icon = {"10k": "📘", "10q": "📗", "8k": "⚡"}
+            for src in sources:
+                ftype = src["filing_type"]
+                title = (
+                    f"{type_icon[ftype]} **{src['ticker']}** · "
+                    f"{type_label[ftype]} {src['label']} · "
+                    f"score `{src['score']}`"
                 )
+                with st.expander(title, expanded=False):
+                    s = src["summary"]
+                    if ftype == "10k":
+                        if s.get("top_risks"):
+                            st.markdown("**Top risks**")
+                            for r in s["top_risks"]:
+                                st.markdown(f"- {r}")
+                        if s.get("strategic_highlights"):
+                            st.markdown("**Strategic highlights**")
+                            for h in s["strategic_highlights"]:
+                                st.markdown(f"- {h}")
+                        if s.get("analyst_note"):
+                            st.markdown(f"**Analyst note** — {s['analyst_note']}")
+                    elif ftype == "10q":
+                        c1, c2 = st.columns(2)
+                        c1.metric("Revenue", s.get("revenue", "—"))
+                        c2.metric("Net income", s.get("net_income", "—"))
+                        if s.get("key_metrics"):
+                            st.markdown("**Key metrics**")
+                            for m in s["key_metrics"]:
+                                st.markdown(f"- {m}")
+                        if s.get("management_tone"):
+                            st.markdown(f"**Management tone** — {s['management_tone']}")
+                        if s.get("analyst_note"):
+                            st.markdown(f"**Analyst note** — {s['analyst_note']}")
+                    else:
+                        c1, c2 = st.columns(2)
+                        c1.metric("Event", s.get("event_type", "—"))
+                        c2.metric("Materiality", s.get("materiality", "—"))
+                        if s.get("headline"):
+                            st.markdown(f"**Headline** — {s['headline']}")
+                        if s.get("investor_impact"):
+                            st.markdown(f"**Investor impact** — {s['investor_impact']}")
+                    st.markdown(
+                        f"[🔗 View on SEC EDGAR]({edgar_url(src['ticker'], ftype)})"
+                    )
 
 elif run_btn:
     st.warning("Please enter a question.")

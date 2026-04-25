@@ -79,6 +79,10 @@ evaluation_results.json
 # Gemma-in-the-loop RAG (unwired after app.py cleanup)
 rag_with_gemma.py
 
+# --- Vector Search build artifacts (regenerable from build_index_v3.py) ---
+_index_payload.json
+.embed_cache_v3.jsonl
+
 # --- Personal / scratch docs (not part of the public repo) ---
 Financial Agent Project - Weekly Report*.md
 Financial Agent Project - Weekly Report*.pdf
