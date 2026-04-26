@@ -1,8 +1,10 @@
-# Multi-Horizon Financial Research Agent
+# Multi-Horizon Financial LLM
 
 > Domain-specialized Gemma 2 27B **and** Gemma 4 31B for SEC filings, fine-tuned on TPU v6e-8 with PyTorch/XLA FSDPv2 — plus a Vertex AI Vector Search RAG demo for interactive queries.
 
-![CI](https://img.shields.io/github/actions/workflow/status/srx7703/multi-horizon-financial-agent/ci.yml?branch=main&label=tests&logo=github)
+> **Note** — Renamed from `multi-horizon-financial-agent` on 2026-04-25. "Agent" has a specific meaning in the LLM ecosystem (tool-use + planning + multi-step reasoning) that this project does **not** implement; this is fundamentally a knowledge-distillation + RAG project, so "LLM" is the more accurate label. The "agent" name is reserved for a future sibling repo. GitHub auto-redirects the old URL.
+
+![CI](https://img.shields.io/github/actions/workflow/status/srx7703/multi-horizon-financial-llm/ci.yml?branch=main&label=tests&logo=github)
 ![TPU](https://img.shields.io/badge/TPU-v6e--8%20Trillium-4285F4?logo=google-cloud)
 ![Gemma](https://img.shields.io/badge/Gemma%202%20%2B%204-LoRA%20fine--tuned-EA4335?logo=google)
 ![PyTorch XLA](https://img.shields.io/badge/PyTorch-XLA%20SPMD%20FSDPv2-EE4C2C?logo=pytorch)
